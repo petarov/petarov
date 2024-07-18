@@ -85,13 +85,16 @@ func writeReadme(repos []*github.Repository) error {
 	out.WriteString("### Pinned\n\n")
 
 	for _, repo := range repos {
-		forks := fmt.Sprintf("**%dx**:eyes:", repo.GetForksCount())
+		forks := ""
+		if *repo.ForksCount > 0 {
+			forks = fmt.Sprintf(":eyes:**%d**", repo.GetForksCount())
+		}
 		lang := ""
 		if len(repo.GetLanguage()) > 0 {
 			lang = fmt.Sprintf("<sup>%s</sup> | ", repo.GetLanguage())
 		}
 
-		out.WriteString(fmt.Sprintf("**[%s](%s)** - **%dx**:star2: %s | %s<sub>%s</sub>\n\n", repo.GetName(), repo.GetHTMLURL(), repo.GetStargazersCount(), forks, lang, *repo.Description))
+		out.WriteString(fmt.Sprintf("**[%s](%s)** <sup>:star:**%d** %s |</sup> %s<sup>%s</sup>\n\n", repo.GetName(), repo.GetHTMLURL(), repo.GetStargazersCount(), forks, lang, *repo.Description))
 	}
 
 	return nil
