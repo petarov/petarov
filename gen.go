@@ -82,20 +82,20 @@ func writeReadme(repos []*github.Repository) error {
 
 	defer out.Close()
 
-	out.WriteString("### Pinned\n\n")
-
 	for _, repo := range repos {
 		forks := ""
 		if *repo.ForksCount > 0 {
-			forks = fmt.Sprintf(":eyes:**%d**", repo.GetForksCount())
+			forks = fmt.Sprintf(":eyes:**%d** ", repo.GetForksCount())
 		}
 		lang := ""
 		if len(repo.GetLanguage()) > 0 {
 			lang = fmt.Sprintf("<sup>%s</sup> | ", repo.GetLanguage())
 		}
 
-		out.WriteString(fmt.Sprintf("**[%s](%s)** <sup>:star:**%d** %s |</sup> %s<sup>%s</sup>\n\n", repo.GetName(), repo.GetHTMLURL(), repo.GetStargazersCount(), forks, lang, *repo.Description))
+		out.WriteString(fmt.Sprintf(":star:**%d** **[%s](%s)**<sup> %s| %s%s</sup>\n\n", repo.GetStargazersCount(), repo.GetName(), repo.GetHTMLURL(), forks, lang, *repo.Description))
 	}
+
+	out.WriteString("---\n\n<sub>:envelope: gh(@]vexelon.net</sub>")
 
 	return nil
 }
