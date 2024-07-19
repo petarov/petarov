@@ -1,0 +1,36 @@
+name: Scheduled README Regeneration
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # Every 24 hours at 05:00 (UTC)
+
+jobs:
+  run-go-script:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.22'
+
+      - name: Generate README.md
+        run: GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}" go run gen.go
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit changes
+        run: |
+          git add README.md
+          git commit -m 'Scheduled README.md update'
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
