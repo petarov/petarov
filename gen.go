@@ -12,7 +12,7 @@ import (
 )
 
 var (
-	MIN_STARS = 7
+	MIN_STARS = 6
 	USERNAME  = "petarov"
 	ORGS      = [...]string{"kenamick", "vexelon-dot-net"}
 )
@@ -38,7 +38,7 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 	}
 
 	for _, repo := range repos {
-		if *repo.StargazersCount >= MIN_STARS && !*repo.Fork {
+		if !repo.GetFork() && !repo.GetArchived() && repo.GetStargazersCount() >= MIN_STARS {
 			result = append(result, repo)
 		}
 	}
@@ -58,7 +58,7 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 			}
 
 			for _, repo := range repos {
-				if *repo.StargazersCount >= MIN_STARS && !*repo.Fork {
+				if !repo.GetFork() && !repo.GetArchived() && repo.GetStargazersCount() >= MIN_STARS {
 					result = append(result, repo)
 				}
 			}
