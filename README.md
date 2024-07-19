@@ -4,9 +4,9 @@
 
 **67**<sup>:star:</sup> **[awesome-mdm-dev](https://github.com/petarov/awesome-mdm-dev)** **8**<sup>:eyes:</sup> | :iphone: A curated list of Mobile Device Management (MDM) developer resources
 
-**33**<sup>:star:</sup> **[savagewheels](https://github.com/kenamick/savagewheels)** **17**<sup>:eyes:</sup> | :checkered_flag: 2D car crashing game armageddon
+**67**<sup>:star:</sup> **[psiral](https://github.com/kenamick/psiral)** **19**<sup>:eyes:</sup> | :game_die: Turn based strategy board game with wizards (Game Off 2014 entry)
 
-**21**<sup>:star:</sup> **[shut-up-bird](https://github.com/petarov/shut-up-bird)** **4**<sup>:eyes:</sup> | :bird: Put your tweets/likes in an EPUB and delete them like a boss
+**33**<sup>:star:</sup> **[savagewheels](https://github.com/kenamick/savagewheels)** **17**<sup>:eyes:</sup> | :checkered_flag: 2D car crashing game armageddon
 
 **20**<sup>:star:</sup> **[translitbg.js](https://github.com/petarov/translitbg.js)** **7**<sup>:eyes:</sup> | Българска транслитерация (Bulgarian to Latin transliteration for JS)
 

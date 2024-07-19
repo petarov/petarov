@@ -12,10 +12,20 @@ import (
 )
 
 var (
-	MIN_STARS = 6
-	USERNAME  = "petarov"
-	ORGS      = [...]string{"kenamick", "vexelon-dot-net"}
+	MIN_STARS       = 7
+	USERNAME        = "petarov"
+	ORGS            = [...]string{"kenamick", "vexelon-dot-net"}
+	FORK_EXCEPTIONS = [...]string{"psiral"}
 )
+
+func isForkException(repoName string) bool {
+	for _, el := range FORK_EXCEPTIONS {
+		if el == repoName {
+			return true
+		}
+	}
+	return false
+}
 
 func getRepositories(token string) (result []*github.Repository, err error) {
 	ctx := context.Background()
@@ -28,6 +38,8 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 
 	result = make([]*github.Repository, 0)
 
+	// user repos
+
 	repos, _, err := client.Repositories.List(ctx, USERNAME, &github.RepositoryListOptions{
 		Visibility: "public",
 		// Affiliation: "owner,organization_member",
@@ -38,12 +50,14 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 	}
 
 	for _, repo := range repos {
-		if !repo.GetFork() && !repo.GetArchived() && repo.GetStargazersCount() >= MIN_STARS {
+		forked := repo.GetFork() && !isForkException(repo.GetName())
+		if !forked && !repo.GetArchived() && repo.GetStargazersCount() >= MIN_STARS {
 			result = append(result, repo)
 		}
 	}
 
-	// -----
+	// orgas
+
 	opt := &github.RepositoryListByOrgOptions{
 		ListOptions: github.ListOptions{PerPage: 20},
 	}
@@ -58,7 +72,8 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 			}
 
 			for _, repo := range repos {
-				if !repo.GetFork() && !repo.GetArchived() && repo.GetStargazersCount() >= MIN_STARS {
+				forked := repo.GetFork() && !isForkException(repo.GetName())
+				if !forked && !repo.GetArchived() && repo.GetStargazersCount() >= MIN_STARS {
 					result = append(result, repo)
 				}
 			}
