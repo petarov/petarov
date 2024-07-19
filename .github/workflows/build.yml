@@ -18,8 +18,18 @@ jobs:
         with:
           go-version: '1.22'
 
+      - name: Cache Go modules
+        uses: actions/cache@v3
+        with:
+          path: |
+            ~/.cache/go-build
+            /go/pkg/mod
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-          
+
       - name: Generate README.md
-        run: GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}" go run gen.go
+        run: GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}" go run $GITHUB_WORKSPACE/gen.go
 
       - name: Configure Git
         run: |
