@@ -5,6 +5,9 @@ on:
     - cron: '0 5 * * *' # every 24 hours at 05:00 (UTC)
   workflow_dispatch: # allows manual run
 
+permissions:
+  contents: write
+
 jobs:
   run-go-script:
     runs-on: ubuntu-latest
@@ -29,7 +32,7 @@ jobs:
             ${{ runner.os }}-go-          
 
       - name: Generate README.md
-        run: GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}" go run $GITHUB_WORKSPACE/gen.go
+        run: GITHUB_TOKEN="${{ secrets.GHTKN }}" go run $GITHUB_WORKSPACE/gen.go
 
       - name: Configure Git
         run: |
@@ -44,4 +47,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GHTKN }}
