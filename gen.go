@@ -85,14 +85,14 @@ func writeReadme(repos []*github.Repository) error {
 	for _, repo := range repos {
 		forks := ""
 		if *repo.ForksCount > 0 {
-			forks = fmt.Sprintf("<sup>::eyes:</sup>:**%d** ", repo.GetForksCount())
+			forks = fmt.Sprintf("<sup>:eyes:</sup>**%d** ", repo.GetForksCount())
 		}
 		// lang := ""
 		// if len(repo.GetLanguage()) > 0 {
 		// 	lang = fmt.Sprintf("<sup>%s</sup> | ", repo.GetLanguage())
 		// }
 
-		out.WriteString(fmt.Sprintf("<sup>::star:</sup>:**%d** **[%s](%s)** %s| %s\n\n", repo.GetStargazersCount(), repo.GetName(), repo.GetHTMLURL(), forks, *repo.Description))
+		out.WriteString(fmt.Sprintf("<sup>:star:</sup>:**%d** **[%s](%s)** %s| %s\n\n", repo.GetStargazersCount(), repo.GetName(), repo.GetHTMLURL(), forks, *repo.Description))
 	}
 
 	out.WriteString("<sub>:envelope: gh(@]vexelon.net</sub>")
