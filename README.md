@@ -14,6 +14,4 @@
 
 :star:**7** **[appstore-web-search](https://github.com/petarov/appstore-web-search)**<sup> | <sup>JavaScript</sup> | Search the Apple App Store in your browser</sup>
 
----
-
 <sub>:envelope: gh(@]vexelon.net</sub>

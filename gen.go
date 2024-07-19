@@ -95,7 +95,7 @@ func writeReadme(repos []*github.Repository) error {
 		out.WriteString(fmt.Sprintf(":star:**%d** **[%s](%s)**<sup> %s| %s%s</sup>\n\n", repo.GetStargazersCount(), repo.GetName(), repo.GetHTMLURL(), forks, lang, *repo.Description))
 	}
 
-	out.WriteString("---\n\n<sub>:envelope: gh(@]vexelon.net</sub>")
+	out.WriteString("<sub>:envelope: gh(@]vexelon.net</sub>")
 
 	return nil
 }
