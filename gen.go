@@ -92,7 +92,7 @@ func writeReadme(repos []*github.Repository) error {
 		// 	lang = fmt.Sprintf("<sup>%s</sup> | ", repo.GetLanguage())
 		// }
 
-		out.WriteString(fmt.Sprintf("<sup>:star:</sup>:**%d** **[%s](%s)** %s| %s\n\n", repo.GetStargazersCount(), repo.GetName(), repo.GetHTMLURL(), forks, *repo.Description))
+		out.WriteString(fmt.Sprintf("<sup>:star:</sup>**%d** **[%s](%s)** %s| %s\n\n", repo.GetStargazersCount(), repo.GetName(), repo.GetHTMLURL(), forks, *repo.Description))
 	}
 
 	out.WriteString("<sub>:envelope: gh(@]vexelon.net</sub>")
