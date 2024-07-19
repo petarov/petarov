@@ -12,7 +12,7 @@ import (
 )
 
 var (
-	MIN_STARS       = 7
+	MIN_STARS       = 10
 	USERNAME        = "petarov"
 	ORGS            = [...]string{"kenamick", "vexelon-dot-net"}
 	FORK_EXCEPTIONS = [...]string{"psiral"}
