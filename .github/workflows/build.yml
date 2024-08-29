@@ -14,7 +14,9 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          clean: true
 
       - name: Set up Go
         uses: actions/setup-go@v4
@@ -45,6 +47,6 @@ jobs:
           git commit -m 'Scheduled README.md update'
       
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
+        uses: ad-m/github-push-action@v0.8.0
         with:
           github_token: ${{ secrets.GHTKN }}
