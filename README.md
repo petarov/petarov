@@ -2,7 +2,7 @@
 
 **71**<sup>:star:</sup> **[google-android-app-ids](https://github.com/petarov/google-android-app-ids)** **13**<sup>:eyes:</sup> | Google Android apps found on the Play Store
 
-**68**<sup>:star:</sup> **[awesome-mdm-dev](https://github.com/petarov/awesome-mdm-dev)** **7**<sup>:eyes:</sup> | :iphone: A curated list of Mobile Device Management (MDM) developer resources
+**69**<sup>:star:</sup> **[awesome-mdm-dev](https://github.com/petarov/awesome-mdm-dev)** **7**<sup>:eyes:</sup> | :iphone: A curated list of Mobile Device Management (MDM) developer resources
 
 **67**<sup>:star:</sup> **[psiral](https://github.com/kenamick/psiral)** **19**<sup>:eyes:</sup> | :game_die: Turn based strategy board game with wizards (Game Off 2014 entry)
 
