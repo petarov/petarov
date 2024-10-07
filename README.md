@@ -1,6 +1,6 @@
 **115**<sup>:star:</sup> **[game-off-2017](https://github.com/kenamick/game-off-2017)** **25**<sup>:eyes:</sup> | 👊  8-bit Retro Beat 'em up with Game Boy graphics 
 
-**71**<sup>:star:</sup> **[google-android-app-ids](https://github.com/petarov/google-android-app-ids)** **13**<sup>:eyes:</sup> | Google Android apps found on the Play Store
+**72**<sup>:star:</sup> **[google-android-app-ids](https://github.com/petarov/google-android-app-ids)** **13**<sup>:eyes:</sup> | Google Android apps found on the Play Store
 
 **69**<sup>:star:</sup> **[awesome-mdm-dev](https://github.com/petarov/awesome-mdm-dev)** **7**<sup>:eyes:</sup> | :iphone: A curated list of Mobile Device Management (MDM) developer resources
 
