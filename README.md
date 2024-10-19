@@ -1,15 +1,10 @@
-**115**<sup>:star:</sup> **[game-off-2017](https://github.com/kenamick/game-off-2017)** **25**<sup>:eyes:</sup> | 👊  8-bit Retro Beat 'em up with Game Boy graphics 
-
-**72**<sup>:star:</sup> **[google-android-app-ids](https://github.com/petarov/google-android-app-ids)** **13**<sup>:eyes:</sup> | Google Android apps found on the Play Store
-
-**69**<sup>:star:</sup> **[awesome-mdm-dev](https://github.com/petarov/awesome-mdm-dev)** **7**<sup>:eyes:</sup> | :iphone: A curated list of Mobile Device Management (MDM) developer resources
-
-**67**<sup>:star:</sup> **[psiral](https://github.com/kenamick/psiral)** **19**<sup>:eyes:</sup> | :game_die: Turn based strategy board game with wizards (Game Off 2014 entry)
-
-**33**<sup>:star:</sup> **[savagewheels](https://github.com/kenamick/savagewheels)** **17**<sup>:eyes:</sup> | :checkered_flag: 2D car crashing game armageddon
-
-**20**<sup>:star:</sup> **[translitbg.js](https://github.com/petarov/translitbg.js)** **7**<sup>:eyes:</sup> | Българска транслитерация (Bulgarian to Latin transliteration for JS)
-
-**12**<sup>:star:</sup> **[strider](https://github.com/kenamick/strider)** **7**<sup>:eyes:</sup> | :bomb: Strider is a 2D sci-fi platformer (Game Off 2015 entry)
-
+| :star:starforked | repo | about | 
+| ---------------- | ---- | ----- |
+**139** | **[game-off-2017](https://github.com/kenamick/game-off-2017)** | 👊  8-bit Retro Beat 'em up with Game Boy graphics 
+**85** | **[google-android-app-ids](https://github.com/petarov/google-android-app-ids)** | Google Android apps found on the Play Store
+**77** | **[awesome-mdm-dev](https://github.com/petarov/awesome-mdm-dev)** | :iphone: A curated list of Mobile Device Management (MDM) developer resources
+**86** | **[psiral](https://github.com/kenamick/psiral)** | :game_die: Turn based strategy board game with wizards (Game Off 2014 entry)
+**50** | **[savagewheels](https://github.com/kenamick/savagewheels)** | :checkered_flag: 2D car crashing game armageddon
+**27** | **[translitbg.js](https://github.com/petarov/translitbg.js)** | Българска транслитерация (Bulgarian to Latin transliteration for JS)
+**19** | **[strider](https://github.com/kenamick/strider)** | :bomb: Strider is a 2D sci-fi platformer (Game Off 2015 entry)
 <sub>:envelope: gh(@]vexelon.net</sub>

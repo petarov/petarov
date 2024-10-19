@@ -12,10 +12,10 @@ import (
 )
 
 var (
-	MIN_STARS       = 10
-	USERNAME        = "petarov"
-	ORGS            = [...]string{"kenamick", "vexelon-dot-net"}
-	FORK_EXCEPTIONS = [...]string{"psiral"}
+	MIN_STARS_AND_FORKS = 10
+	USERNAME            = "petarov"
+	ORGS                = [...]string{"kenamick", "vexelon-dot-net"}
+	FORK_EXCEPTIONS     = [...]string{"psiral"}
 )
 
 func isForkException(repoName string) bool {
@@ -51,7 +51,8 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 
 	for _, repo := range repos {
 		forked := repo.GetFork() && !isForkException(repo.GetName())
-		if !forked && !repo.GetArchived() && repo.GetStargazersCount() >= MIN_STARS {
+		if !forked && !repo.GetArchived() &&
+			repo.GetStargazersCount()+repo.GetForksCount() >= MIN_STARS_AND_FORKS {
 			result = append(result, repo)
 		}
 	}
@@ -73,7 +74,8 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 
 			for _, repo := range repos {
 				forked := repo.GetFork() && !isForkException(repo.GetName())
-				if !forked && !repo.GetArchived() && repo.GetStargazersCount() >= MIN_STARS {
+				if !forked && !repo.GetArchived() &&
+					repo.GetStargazersCount()+repo.GetForksCount() >= MIN_STARS_AND_FORKS {
 					result = append(result, repo)
 				}
 			}
@@ -97,17 +99,14 @@ func writeReadme(repos []*github.Repository) error {
 
 	defer out.Close()
 
-	for _, repo := range repos {
-		forks := ""
-		if *repo.ForksCount > 0 {
-			forks = fmt.Sprintf("**%d**<sup>:eyes:</sup> ", repo.GetForksCount())
-		}
-		// lang := ""
-		// if len(repo.GetLanguage()) > 0 {
-		// 	lang = fmt.Sprintf("<sup>%s</sup> | ", repo.GetLanguage())
-		// }
+	out.WriteString("| :star:starforked | repo | about | \n")
+	out.WriteString("| ---------------- | ---- | ----- |\n")
 
-		out.WriteString(fmt.Sprintf("**%d**<sup>:star:</sup> **[%s](%s)** %s| %s\n\n", repo.GetStargazersCount(), repo.GetName(), repo.GetHTMLURL(), forks, *repo.Description))
+	for _, repo := range repos {
+
+		out.WriteString(fmt.Sprintf("**%d** | **[%s](%s)** | %s\n",
+			repo.GetStargazersCount()+repo.GetForksCount(),
+			repo.GetName(), repo.GetHTMLURL(), repo.GetDescription()))
 	}
 
 	out.WriteString("<sub>:envelope: gh(@]vexelon.net</sub>")
@@ -122,12 +121,15 @@ func main() {
 		log.Fatalf("error fetching repositories: %v", err)
 	}
 
-	sort.Slice(repos, func(i, j int) bool { return *repos[i].StargazersCount > *repos[j].StargazersCount })
+	sort.Slice(repos, func(i, j int) bool {
+		return repos[i].GetStargazersCount()+repos[i].GetForksCount() >
+			repos[j].GetStargazersCount()+repos[i].GetForksCount()
+	})
 
 	for _, repo := range repos {
-		if *repo.StargazersCount >= MIN_STARS {
-			fmt.Printf("Repo: %s - %s\nStars: %d  Forks: %d  Lang: %s\n\n", *repo.Name, *repo.Description, *repo.StargazersCount, *repo.ForksCount,
-				repo.GetLanguage())
+		if repo.GetStargazersCount()+repo.GetForksCount() >= MIN_STARS_AND_FORKS {
+			fmt.Printf("Repo: %s - %s\nStars: %d  Forks: %d  Lang: %s\n\n",
+				repo.GetName(), repo.GetDescription(), repo.GetStargazersCount(), repo.GetForksCount(), repo.GetLanguage())
 		}
 	}
 
