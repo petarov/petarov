@@ -109,7 +109,7 @@ func writeReadme(repos []*github.Repository) error {
 			repo.GetName(), repo.GetHTMLURL(), repo.GetDescription()))
 	}
 
-	out.WriteString("<sub>:envelope: gh(@]vexelon.net</sub>")
+	out.WriteString("\n<sub>:envelope: gh(@]vexelon.net</sub>")
 
 	return nil
 }
