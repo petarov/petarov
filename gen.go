@@ -12,14 +12,24 @@ import (
 )
 
 var (
-	MIN_STARS_AND_FORKS = 10
+	MIN_STARS_AND_FORKS = 7
 	USERNAME            = "petarov"
 	ORGS                = [...]string{"kenamick", "vexelon-dot-net"}
+	EXCLUDED            = [...]string{"petarov"}
 	FORK_EXCEPTIONS     = [...]string{"psiral"}
 )
 
 func isForkException(repoName string) bool {
 	for _, el := range FORK_EXCEPTIONS {
+		if el == repoName {
+			return true
+		}
+	}
+	return false
+}
+
+func isExcluded(repoName string) bool {
+	for _, el := range EXCLUDED {
 		if el == repoName {
 			return true
 		}
@@ -73,8 +83,9 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 			}
 
 			for _, repo := range repos {
+				excluded := isExcluded(repo.GetName())
 				forked := repo.GetFork() && !isForkException(repo.GetName())
-				if !forked && !repo.GetArchived() &&
+				if !excluded && !forked && !repo.GetArchived() &&
 					repo.GetStargazersCount()+repo.GetForksCount() >= MIN_STARS_AND_FORKS {
 					result = append(result, repo)
 				}
@@ -99,14 +110,67 @@ func writeReadme(repos []*github.Repository) error {
 
 	defer out.Close()
 
+	count := 0
+
+	out.WriteString("**Last worked on**\n\n")
+
+	timeSorted := make([]*github.Repository, len(repos))
+	copy(timeSorted, repos)
+
+	sort.Slice(timeSorted, func(i, j int) bool {
+		x := timeSorted[i].GetPushedAt()
+		y := timeSorted[j].GetPushedAt()
+		return x.After(y.Time)
+	})
+
+	for _, repo := range timeSorted {
+		out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
+			repo.GetName(), repo.GetHTMLURL(), getTimeAgo(repo.GetPushedAt().Local())))
+
+		count += 1
+		if count == 2 {
+			break
+		}
+	}
+
+	out.WriteString("\n**Top 5**\n\n")
+
 	out.WriteString("| :star:starforked | repo | about | \n")
 	out.WriteString("| ---------------- | ---- | ----- |\n")
 
-	for _, repo := range repos {
+	count = 0
 
-		out.WriteString(fmt.Sprintf("**%d** | **[%s](%s)** | %s\n",
-			repo.GetStargazersCount()+repo.GetForksCount(),
-			repo.GetName(), repo.GetHTMLURL(), repo.GetDescription()))
+	for _, repo := range repos {
+		if repo.GetOwner().GetLogin() != "kenamick" {
+			out.WriteString(fmt.Sprintf("**%d** | **[%s](%s)** | %s\n",
+				repo.GetStargazersCount()+repo.GetForksCount(),
+				repo.GetName(), repo.GetHTMLURL(), repo.GetDescription()))
+
+			count += 1
+			if count == 5 {
+				break
+			}
+		}
+	}
+
+	out.WriteString("\n**Top 5 - Games**\n\n")
+
+	out.WriteString("| :star:starforked | repo | about | \n")
+	out.WriteString("| ---------------- | ---- | ----- |\n")
+
+	count = 0
+
+	for _, repo := range repos {
+		if repo.GetOwner().GetLogin() == "kenamick" {
+			out.WriteString(fmt.Sprintf("**%d** | **[%s](%s)** | %s\n",
+				repo.GetStargazersCount()+repo.GetForksCount(),
+				repo.GetName(), repo.GetHTMLURL(), repo.GetDescription()))
+
+			count += 1
+			if count == 5 {
+				break
+			}
+		}
 	}
 
 	out.WriteString("\n<sub>:envelope: gh(@]vexelon.net</sub>")
@@ -128,7 +192,8 @@ func main() {
 
 	for _, repo := range repos {
 		if repo.GetStargazersCount()+repo.GetForksCount() >= MIN_STARS_AND_FORKS {
-			fmt.Printf("Repo: %s - %s\nStars: %d  Forks: %d  Lang: %s\n\n",
+			fmt.Printf("Repo: (%s) %s - %s\nStars: %d  Forks: %d  Lang: %s\n\n",
+				repo.GetOwner().GetLogin(),
 				repo.GetName(), repo.GetDescription(), repo.GetStargazersCount(), repo.GetForksCount(), repo.GetLanguage())
 		}
 	}
