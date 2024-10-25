@@ -60,8 +60,12 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 	}
 
 	for _, repo := range repos {
+		// fmt.Printf("Repo: %s - Stars: %d  Forks: %d \n",
+		// 	repo.GetName(), repo.GetStargazersCount(), repo.GetForksCount())
+
+		excluded := isExcluded(repo.GetName())
 		forked := repo.GetFork() && !isForkException(repo.GetName())
-		if !forked && !repo.GetArchived() &&
+		if !excluded && !forked && !repo.GetArchived() &&
 			repo.GetStargazersCount()+repo.GetForksCount() >= MIN_STARS_AND_FORKS {
 			result = append(result, repo)
 		}
@@ -187,7 +191,7 @@ func main() {
 
 	sort.Slice(repos, func(i, j int) bool {
 		return repos[i].GetStargazersCount()+repos[i].GetForksCount() >
-			repos[j].GetStargazersCount()+repos[i].GetForksCount()
+			repos[j].GetStargazersCount()+repos[j].GetForksCount()
 	})
 
 	for _, repo := range repos {

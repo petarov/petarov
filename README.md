@@ -11,7 +11,7 @@
 **77** | **[awesome-mdm-dev](https://github.com/petarov/awesome-mdm-dev)** | :iphone: A curated list of Mobile Device Management (MDM) developer resources
 **27** | **[translitbg.js](https://github.com/petarov/translitbg.js)** | Българска транслитерация (Bulgarian to Latin transliteration for JS)
 **9** | **[appstore-web-search](https://github.com/petarov/appstore-web-search)** | Search the Apple App Store in your browser
-**7** | **[bulgarian-control-numbers](https://github.com/petarov/bulgarian-control-numbers)** | Библиотека за проверка на контролни цифри (ЕГН, ЛНЧ, Булстат, IBAN)
+**8** | **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** | Send Apple push notifications from your command line
 
 **Top 5 - Games**
 
