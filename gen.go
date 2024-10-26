@@ -163,8 +163,8 @@ func writeReadme(all []*github.Repository, recent []*github.Repository) error {
 
 	out.WriteString("\n**Top 5**\n\n")
 
-	out.WriteString("| :star:starforked | repo | about | \n")
-	out.WriteString("| ---------------- | ---- | ----- |\n")
+	out.WriteString("| :star:+:fork_and_knife: | repo | about | \n")
+	out.WriteString("| ----------------------- | ---- | ----- |\n")
 
 	count = 0
 
@@ -181,10 +181,10 @@ func writeReadme(all []*github.Repository, recent []*github.Repository) error {
 		}
 	}
 
-	out.WriteString("\n**Top 5 - Games**\n\n")
+	out.WriteString("\n**Top 5 Gamedev**\n\n")
 
-	out.WriteString("| :star:starforked | repo | about | \n")
-	out.WriteString("| ---------------- | ---- | ----- |\n")
+	out.WriteString("| :star:+:fork_and_knife: | repo | about | \n")
+	out.WriteString("| ----------------------- | ---- | ----- |\n")
 
 	count = 0
 
