@@ -13,6 +13,7 @@ import (
 
 var (
 	MIN_STARS_AND_FORKS = 7
+	MAX_RECENT          = 2
 	USERNAME            = "petarov"
 	ORGS                = [...]string{"kenamick", "vexelon-dot-net"}
 	EXCLUDED            = [...]string{"petarov"}
@@ -37,7 +38,7 @@ func isExcluded(repoName string) bool {
 	return false
 }
 
-func getRepositories(token string) (result []*github.Repository, err error) {
+func getRepositories(token string) (all []*github.Repository, recent []*github.Repository, err error) {
 	ctx := context.Background()
 	ts := oauth2.StaticTokenSource(
 		&oauth2.Token{AccessToken: token},
@@ -46,7 +47,8 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 
 	client := github.NewClient(tc)
 
-	result = make([]*github.Repository, 0)
+	all = make([]*github.Repository, 0)
+	recent = make([]*github.Repository, 0, MAX_RECENT)
 
 	// user repos
 
@@ -56,7 +58,7 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 		// Type:        "owner,public",
 	})
 	if err != nil {
-		return nil, fmt.Errorf("error fetching user repositories: %v", err)
+		return nil, nil, fmt.Errorf("error fetching user repositories: %v", err)
 	}
 
 	for _, repo := range repos {
@@ -67,7 +69,25 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 		forked := repo.GetFork() && !isForkException(repo.GetName())
 		if !excluded && !forked && !repo.GetArchived() &&
 			repo.GetStargazersCount()+repo.GetForksCount() >= MIN_STARS_AND_FORKS {
-			result = append(result, repo)
+			all = append(all, repo)
+		}
+
+		if !excluded {
+			// recent commits?
+			if len(recent) < MAX_RECENT {
+				recent = append(recent, repo)
+			} else {
+				found := -1
+				for i, r := range recent {
+					if repo.GetPushedAt().After(r.GetPushedAt().Time) &&
+						(found == -1 || recent[found].GetPushedAt().After(r.GetPushedAt().Time)) {
+						found = i
+					}
+				}
+				if found != -1 {
+					recent[found] = repo
+				}
+			}
 		}
 	}
 
@@ -83,7 +103,7 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 		for {
 			repos, resp, err := client.Repositories.ListByOrg(ctx, org, opt)
 			if err != nil {
-				return nil, fmt.Errorf("error fetching orga repositories: %v", err)
+				return nil, nil, fmt.Errorf("error fetching orga repositories: %v", err)
 			}
 
 			for _, repo := range repos {
@@ -91,7 +111,25 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 				forked := repo.GetFork() && !isForkException(repo.GetName())
 				if !excluded && !forked && !repo.GetArchived() &&
 					repo.GetStargazersCount()+repo.GetForksCount() >= MIN_STARS_AND_FORKS {
-					result = append(result, repo)
+					all = append(all, repo)
+				}
+
+				if !excluded {
+					// recent commits?
+					if len(recent) < MAX_RECENT {
+						recent = append(recent, repo)
+					} else {
+						found := -1
+						for i, r := range recent {
+							if repo.GetPushedAt().After(r.GetPushedAt().Time) &&
+								(found == -1 || recent[found].GetPushedAt().After(r.GetPushedAt().Time)) {
+								found = i
+							}
+						}
+						if found != -1 {
+							recent[found] = repo
+						}
+					}
 				}
 			}
 
@@ -103,10 +141,10 @@ func getRepositories(token string) (result []*github.Repository, err error) {
 		}
 	}
 
-	return result, nil
+	return all, recent, nil
 }
 
-func writeReadme(repos []*github.Repository) error {
+func writeReadme(all []*github.Repository, recent []*github.Repository) error {
 	out, err := os.Create("README.md")
 	if err != nil {
 		return err
@@ -118,23 +156,9 @@ func writeReadme(repos []*github.Repository) error {
 
 	out.WriteString("**Last worked on**\n\n")
 
-	timeSorted := make([]*github.Repository, len(repos))
-	copy(timeSorted, repos)
-
-	sort.Slice(timeSorted, func(i, j int) bool {
-		x := timeSorted[i].GetPushedAt()
-		y := timeSorted[j].GetPushedAt()
-		return x.After(y.Time)
-	})
-
-	for _, repo := range timeSorted {
+	for _, repo := range recent {
 		out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
 			repo.GetName(), repo.GetHTMLURL(), getTimeAgo(repo.GetPushedAt().Local())))
-
-		count += 1
-		if count == 2 {
-			break
-		}
 	}
 
 	out.WriteString("\n**Top 5**\n\n")
@@ -144,7 +168,7 @@ func writeReadme(repos []*github.Repository) error {
 
 	count = 0
 
-	for _, repo := range repos {
+	for _, repo := range all {
 		if repo.GetOwner().GetLogin() != "kenamick" {
 			out.WriteString(fmt.Sprintf("**%d** | **[%s](%s)** | %s\n",
 				repo.GetStargazersCount()+repo.GetForksCount(),
@@ -164,7 +188,7 @@ func writeReadme(repos []*github.Repository) error {
 
 	count = 0
 
-	for _, repo := range repos {
+	for _, repo := range all {
 		if repo.GetOwner().GetLogin() == "kenamick" {
 			out.WriteString(fmt.Sprintf("**%d** | **[%s](%s)** | %s\n",
 				repo.GetStargazersCount()+repo.GetForksCount(),
@@ -182,27 +206,38 @@ func writeReadme(repos []*github.Repository) error {
 	return nil
 }
 
+func printRepos(repos []*github.Repository) {
+	for _, repo := range repos {
+		fmt.Printf("Repo: %s/%s\t\tStars: %d  Forks: %d  Lang: %s\n",
+			repo.GetOwner().GetLogin(),
+			repo.GetName(), repo.GetStargazersCount(), repo.GetForksCount(), repo.GetLanguage())
+	}
+}
+
 func main() {
 	token := os.Getenv("GITHUB_TOKEN")
-	repos, err := getRepositories(token)
+	all, recent, err := getRepositories(token)
 	if err != nil {
 		log.Fatalf("error fetching repositories: %v", err)
 	}
 
-	sort.Slice(repos, func(i, j int) bool {
-		return repos[i].GetStargazersCount()+repos[i].GetForksCount() >
-			repos[j].GetStargazersCount()+repos[j].GetForksCount()
+	sort.Slice(all, func(i, j int) bool {
+		return all[i].GetStargazersCount()+all[i].GetForksCount() >
+			all[j].GetStargazersCount()+all[j].GetForksCount()
 	})
 
-	for _, repo := range repos {
-		if repo.GetStargazersCount()+repo.GetForksCount() >= MIN_STARS_AND_FORKS {
-			fmt.Printf("Repo: (%s) %s - %s\nStars: %d  Forks: %d  Lang: %s\n\n",
-				repo.GetOwner().GetLogin(),
-				repo.GetName(), repo.GetDescription(), repo.GetStargazersCount(), repo.GetForksCount(), repo.GetLanguage())
-		}
-	}
+	sort.Slice(recent, func(i, j int) bool {
+		x := recent[i].GetPushedAt()
+		y := recent[j].GetPushedAt()
+		return x.After(y.Time)
+	})
 
-	writeReadme(repos)
+	fmt.Println("-----------")
+	printRepos(all)
+	fmt.Println("-----------")
+	printRepos(recent)
+
+	writeReadme(all, recent)
 	if err != nil {
 		log.Fatalf("error writing README: %v", err)
 	}
