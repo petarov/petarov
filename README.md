@@ -1,7 +1,7 @@
 **Last worked on**
 
-  - **[translitbg](https://github.com/petarov/translitbg)** - 3 days ago
-  - **[google-android-app-ids](https://github.com/petarov/google-android-app-ids)** - 21 days ago
+  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 1 hour ago
+  - **[translitbg](https://github.com/petarov/translitbg)** - 5 days ago
 
 **Top 5**
 
@@ -20,7 +20,7 @@
 **139** | **[game-off-2017](https://github.com/kenamick/game-off-2017)** | 👊  8-bit Retro Beat 'em up with Game Boy graphics 
 **86** | **[psiral](https://github.com/kenamick/psiral)** | :game_die: Turn based strategy board game with wizards (Game Off 2014 entry)
 **50** | **[savagewheels](https://github.com/kenamick/savagewheels)** | :checkered_flag: 2D car crashing game armageddon
-**19** | **[strider](https://github.com/kenamick/strider)** | :bomb: Strider is a 2D sci-fi platformer (Game Off 2015 entry)
+**18** | **[strider](https://github.com/kenamick/strider)** | :bomb: Strider is a 2D sci-fi platformer (Game Off 2015 entry)
 **9** | **[spaceghost-cga](https://github.com/kenamick/spaceghost-cga)** | :space_invader: Asteroids, Pacman, Bomberman. All in one game
 
 <sub>:envelope: gh(@]vexelon.net</sub>
