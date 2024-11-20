@@ -1,7 +1,7 @@
 **Last worked on**
 
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 8 days ago
-  - **[bulgarian-control-numbers](https://github.com/petarov/bulgarian-control-numbers)** - 14 days ago
+  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 18 hours ago
+  - **[bulgarian-control-numbers](https://github.com/petarov/bulgarian-control-numbers)** - 1 day ago
 
 **Top 5**
 
