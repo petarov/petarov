@@ -1,7 +1,7 @@
 **Last worked on**
 
-  - **[bulgarian-control-numbers](https://github.com/petarov/bulgarian-control-numbers)** - 1 day ago
-  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 2 days ago
+  - **[bulgarian-control-numbers](https://github.com/petarov/bulgarian-control-numbers)** - 2 days ago
+  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 3 days ago
 
 **Top 5**
 
