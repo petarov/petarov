@@ -8,6 +8,7 @@ import (
 	"sort"
 
 	"github.com/google/go-github/github"
+	helper "github.com/petarov/petarov/internal"
 	"golang.org/x/oauth2"
 )
 
@@ -51,7 +52,6 @@ func getRepositories(token string) (all []*github.Repository, recent []*github.R
 	recent = make([]*github.Repository, 0, MAX_RECENT)
 
 	// user repos
-
 	repos, _, err := client.Repositories.List(ctx, USERNAME, &github.RepositoryListOptions{
 		Visibility: "public",
 		// Affiliation: "owner,organization_member",
@@ -158,7 +158,7 @@ func writeReadme(all []*github.Repository, recent []*github.Repository) error {
 
 	for _, repo := range recent {
 		out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
-			repo.GetName(), repo.GetHTMLURL(), getTimeAgo(repo.GetPushedAt().Local())))
+			repo.GetName(), repo.GetHTMLURL(), helper.GetTimeAgo(repo.GetPushedAt().Local())))
 	}
 
 	out.WriteString("\n**Top 5**\n\n")

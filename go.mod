@@ -1,6 +1,6 @@
 module github.com/petarov/petarov
 
-go 1.22.3
+go 1.23
 
 require (
 	github.com/google/go-github v17.0.0+incompatible

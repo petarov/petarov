@@ -21,7 +21,7 @@ jobs:
       - name: Set up Go
         uses: actions/setup-go@v4
         with:
-          go-version: '1.22'
+          go-version: '1.23'
 
       - name: Cache Go modules
         uses: actions/cache@v3
@@ -34,7 +34,7 @@ jobs:
             ${{ runner.os }}-go-          
 
       - name: Generate README.md
-        run: GITHUB_TOKEN="${{ secrets.GHTKN }}" go run $GITHUB_WORKSPACE/gen.go $GITHUB_WORKSPACE/helpers.go
+        run: GITHUB_TOKEN="${{ secrets.GHTKN }}" go run $GITHUB_WORKSPACE/cmd/v1/main.go
 
       - name: Configure Git
         run: |

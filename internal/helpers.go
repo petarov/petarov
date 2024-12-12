@@ -1,11 +1,18 @@
-package main
+package helper
 
 import (
 	"fmt"
 	"time"
 )
 
-func getTimeAgo(past time.Time) string {
+func pluralize(n int) string {
+	if n > 1 {
+		return "s"
+	}
+	return ""
+}
+
+func GetTimeAgo(past time.Time) string {
 	now := time.Now()
 	duration := now.Sub(past)
 
@@ -25,11 +32,4 @@ func getTimeAgo(past time.Time) string {
 	}
 
 	return "today"
-}
-
-func pluralize(n int) string {
-	if n > 1 {
-		return "s"
-	}
-	return ""
 }
