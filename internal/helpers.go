@@ -20,7 +20,10 @@ func GetTimeAgo(past time.Time) string {
 	// minutes := int(duration.Minutes()) % 60
 	// seconds := int(duration.Seconds()) % 60
 
-	if hours > 24 {
+	if hours > 732 { // average of 720 = 30 days and 744 = 31 days month
+		months := hours / 732
+		return fmt.Sprintf("%d month%s ago", months, pluralize(months))
+	} else if hours > 24 {
 		days := hours / 24
 		return fmt.Sprintf("%d day%s ago", days, pluralize(days))
 	} else if hours > 0 {
