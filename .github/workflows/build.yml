@@ -34,7 +34,7 @@ jobs:
             ${{ runner.os }}-go-          
 
       - name: Generate README.md
-        run: GITHUB_TOKEN="${{ secrets.GHTKN }}" go run $GITHUB_WORKSPACE/cmd/v1/main.go
+        run: GITHUB_TOKEN="${{ secrets.GHTKN }}" go run $GITHUB_WORKSPACE/cmd/v2/main.go
 
       - name: Configure Git
         run: |
