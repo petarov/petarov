@@ -1,26 +1,23 @@
-**Last worked on**
+**last worked on**
 
-  - **[sandbox](https://github.com/petarov/sandbox)** - 10 days ago
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 11 days ago
+  - **[amapi-feed](https://api.github.com/repos/petarov/amapi-feed)** - 12 days ago
+  - **[sandbox](https://api.github.com/repos/petarov/sandbox)** - 11 days ago
 
-**Top 5**
+**last pull requests**
 
-| :star:+:fork_and_knife: | repo | about | 
-| ----------------------- | ---- | ----- |
-**88** | **[google-android-app-ids](https://github.com/petarov/google-android-app-ids)** | Google Android apps found on the Play Store
-**82** | **[awesome-mdm-dev](https://github.com/petarov/awesome-mdm-dev)** | :iphone: A curated list of Mobile Device Management (MDM) developer resources
-**27** | **[translitbg.js](https://github.com/petarov/translitbg.js)** | Българска транслитерация (Bulgarian to Latin transliteration for JS)
-**9** | **[appstore-web-search](https://github.com/petarov/appstore-web-search)** | Search the Apple App Store in your browser
-**8** | **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** | Send Apple push notifications from your command line
+  - **[Bump Netty to 4.1.108.Final due to CVE-2024-29025](https://github.com/jchambers/pushy/pull/1068)** - 5 months ago
 
-**Top 5 Gamedev**
+**last issues & comments**
 
-| :star:+:fork_and_knife: | repo | about | 
-| ----------------------- | ---- | ----- |
-**139** | **[game-off-2017](https://github.com/kenamick/game-off-2017)** | 👊  8-bit Retro Beat 'em up with Game Boy graphics 
-**86** | **[psiral](https://github.com/kenamick/psiral)** | :game_die: Turn based strategy board game with wizards (Game Off 2014 entry)
-**54** | **[savagewheels](https://github.com/kenamick/savagewheels)** | :checkered_flag: 2D car crashing game armageddon
-**18** | **[strider](https://github.com/kenamick/strider)** | :bomb: Strider is a 2D sci-fi platformer (Game Off 2015 entry)
-**9** | **[spaceghost-cga](https://github.com/kenamick/spaceghost-cga)** | :space_invader: Asteroids, Pacman, Bomberman: all in one game
+  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 4 days ago
+  - **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 21 days ago
+  - **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 21 days ago
+  - **[High security alert found in jscep lib](https://github.com/jscep/jscep/issues/304)** - 1 month ago
+  - **[apns-priority has three enumeration values. Why do you only have 10 and 5 here, missing 1?](https://github.com/jchambers/pushy/issues/1088)** - 1 month ago
+  - **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200)** - 1 month ago
+  - **[NI does not work on Mac/AMR64 ](https://github.com/mukel/llama3.java/issues/19)** - 1 month ago
+  - **[easy uninstall script](https://github.com/petarov/google-android-app-ids/issues/3)** - 2 months ago
+  - **[Error - missing certificate_base64 in .json file while uploading JSON to playstore](https://github.com/google/play-work/issues/39)** - 2 months ago
+  - **[possible bug (deadlock) when posting batch request content over a certain length](https://github.com/microsoftgraph/msgraph-sdk-java-core/issues/1687)** - 4 months ago
 
 <sub>:envelope: gh(@]vexelon.net</sub>
