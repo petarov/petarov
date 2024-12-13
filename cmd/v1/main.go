@@ -21,6 +21,35 @@ var (
 	FORK_EXCEPTIONS     = [...]string{"psiral"}
 )
 
+func main() {
+	token := os.Getenv("GITHUB_TOKEN")
+	all, recent, err := getRepositories(token)
+	if err != nil {
+		log.Fatalf("error fetching repositories: %v", err)
+	}
+
+	sort.Slice(all, func(i, j int) bool {
+		return all[i].GetStargazersCount()+all[i].GetForksCount() >
+			all[j].GetStargazersCount()+all[j].GetForksCount()
+	})
+
+	sort.Slice(recent, func(i, j int) bool {
+		x := recent[i].GetPushedAt()
+		y := recent[j].GetPushedAt()
+		return x.After(y.Time)
+	})
+
+	fmt.Println("-----------")
+	printRepos(all)
+	fmt.Println("-----------")
+	printRepos(recent)
+
+	writeReadme(all, recent)
+	if err != nil {
+		log.Fatalf("error writing README: %v", err)
+	}
+}
+
 func isForkException(repoName string) bool {
 	for _, el := range FORK_EXCEPTIONS {
 		if el == repoName {
@@ -211,34 +240,5 @@ func printRepos(repos []*github.Repository) {
 		fmt.Printf("Repo: %s/%s\t\tStars: %d  Forks: %d  Lang: %s\n",
 			repo.GetOwner().GetLogin(),
 			repo.GetName(), repo.GetStargazersCount(), repo.GetForksCount(), repo.GetLanguage())
-	}
-}
-
-func main() {
-	token := os.Getenv("GITHUB_TOKEN")
-	all, recent, err := getRepositories(token)
-	if err != nil {
-		log.Fatalf("error fetching repositories: %v", err)
-	}
-
-	sort.Slice(all, func(i, j int) bool {
-		return all[i].GetStargazersCount()+all[i].GetForksCount() >
-			all[j].GetStargazersCount()+all[j].GetForksCount()
-	})
-
-	sort.Slice(recent, func(i, j int) bool {
-		x := recent[i].GetPushedAt()
-		y := recent[j].GetPushedAt()
-		return x.After(y.Time)
-	})
-
-	fmt.Println("-----------")
-	printRepos(all)
-	fmt.Println("-----------")
-	printRepos(recent)
-
-	writeReadme(all, recent)
-	if err != nil {
-		log.Fatalf("error writing README: %v", err)
 	}
 }
