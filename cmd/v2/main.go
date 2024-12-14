@@ -41,13 +41,15 @@ func main() {
 	tc := oauth2.NewClient(ctx, ts)
 	client := github.NewClient(tc)
 
-	pulls, err := fetchLatestPullRequests(ctx, client)
+	index := helper.NewStringSet()
+
+	pulls, err := fetchLatestPullRequests(ctx, client, index)
 	if err != nil {
 		log.Fatalf("pull requests: %v\n", err)
 	}
 	printEntries(pulls)
 
-	issues, err := fetchLatestIssues(ctx, client)
+	issues, err := fetchLatestIssues(ctx, client, index)
 	if err != nil {
 		log.Fatalf("issues: %v\n", err)
 	}
@@ -60,7 +62,7 @@ func main() {
 		return pullsAndIssues[i].updatedAt.After(pullsAndIssues[j].updatedAt)
 	})
 
-	comments, err := fetchLatestComments(ctx, client)
+	comments, err := fetchLatestComments(ctx, client, index)
 	if err != nil {
 		log.Fatalf("comments: %v\n", err)
 	}
@@ -84,7 +86,7 @@ func printEntries(entries []Entry) {
 	fmt.Println()
 }
 
-func fetchEntries(ctx context.Context, client *github.Client, query string) (entries []Entry, err error) {
+func fetchEntries(ctx context.Context, client *github.Client, query string, index *helper.StringSet) (entries []Entry, err error) {
 	opts := &github.SearchOptions{Sort: "updated", Order: "desc", ListOptions: github.ListOptions{PerPage: ThresholdFetch}}
 
 	then := time.Now().Add(-ThresholdDays)
@@ -98,12 +100,17 @@ func fetchEntries(ctx context.Context, client *github.Client, query string) (ent
 	entries = make([]Entry, 0, len(searchResult.Issues))
 
 	for _, issue := range searchResult.Issues {
-		entries = append(entries, Entry{
+		entry := Entry{
 			title:     issue.GetTitle(),
 			link:      issue.GetHTMLURL(),
 			createdAt: issue.GetCreatedAt(),
 			updatedAt: issue.GetUpdatedAt(),
-		})
+		}
+
+		if !index.Contains(entry.link) {
+			entries = append(entries, entry)
+			index.Add(entry.link)
+		}
 	}
 
 	fmt.Printf("\n*** Query: %s\tResults: %d\n", query, len(entries))
@@ -111,21 +118,21 @@ func fetchEntries(ctx context.Context, client *github.Client, query string) (ent
 	return entries, nil
 }
 
-func fetchLatestIssues(ctx context.Context, client *github.Client) (entries []Entry, err error) {
-	return fetchEntries(ctx, client, "author:@me type:issue")
+func fetchLatestIssues(ctx context.Context, client *github.Client, index *helper.StringSet) (entries []Entry, err error) {
+	return fetchEntries(ctx, client, "author:@me type:issue", index)
 }
 
-func fetchLatestPullRequests(ctx context.Context, client *github.Client) (entries []Entry, err error) {
-	return fetchEntries(ctx, client, "author:@me type:pr")
+func fetchLatestPullRequests(ctx context.Context, client *github.Client, index *helper.StringSet) (entries []Entry, err error) {
+	return fetchEntries(ctx, client, "author:@me type:pr", index)
 }
 
-func fetchLatestComments(ctx context.Context, client *github.Client) (entries []Entry, err error) {
-	issues, err := fetchEntries(ctx, client, "is:issue commenter:@me")
+func fetchLatestComments(ctx context.Context, client *github.Client, index *helper.StringSet) (entries []Entry, err error) {
+	issues, err := fetchEntries(ctx, client, "commenter:@me is:issue", index)
 	if err != nil {
 		return nil, err
 	}
 
-	pulls, err := fetchEntries(ctx, client, "is:pr commenter:@me")
+	pulls, err := fetchEntries(ctx, client, "commenter:@me is:pr", index)
 	if err != nil {
 		return nil, err
 	}
