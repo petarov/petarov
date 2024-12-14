@@ -13,23 +13,24 @@ import (
 	"golang.org/x/oauth2"
 )
 
-var (
-	THRESHOLD_FETCH        = 25
-	THRESHOLD_DAYS         = 180 * 24 * time.Hour
-	THRESHOLD_ENTRIES      = 10
-	THRESHOLD_RECENT_REPOS = 2
+const (
+	ThresholdFetch       = 25
+	ThresholdDays        = 180 * 24 * time.Hour
+	ThresholdEntries     = 10
+	ThresholdRecentRepos = 2
+	Username             = "petarov"
 )
 
 var (
-	USERNAME        = "petarov"
-	ORGS            = [...]string{"kenamick", "vexelon-dot-net"}
-	EXCLUDED        = [...]string{"petarov"}
-	FORK_EXCEPTIONS = [...]string{"psiral"}
+	Orgs           = [...]string{"kenamick", "vexelon-dot-net"}
+	Excluded       = [...]string{"petarov"}
+	ForkExceptions = [...]string{"psiral"}
 )
 
 type Entry struct {
 	title     string
 	link      string
+	createdAt time.Time
 	updatedAt time.Time
 }
 
@@ -53,18 +54,18 @@ func main() {
 	}
 	printEntries("Issues", issues)
 
+	// merge and sort issues and pull requests
+	pullsAndIssues := append(pulls, issues...)
+
+	sort.Slice(pullsAndIssues, func(i, j int) bool {
+		return pullsAndIssues[i].updatedAt.After(pullsAndIssues[j].updatedAt)
+	})
+
 	comments, err := fetchLatestComments(ctx, client)
 	if err != nil {
 		log.Fatalf("comments: %v\n", err)
 	}
 	printEntries("Comments", comments)
-
-	// merge and sort issues and comments
-	issuesAndComments := append(issues, comments...)
-
-	sort.Slice(issuesAndComments, func(i, j int) bool {
-		return issuesAndComments[i].updatedAt.After(issuesAndComments[j].updatedAt)
-	})
 
 	// recent repos
 	repos, err := getRepositories(ctx, client)
@@ -72,7 +73,7 @@ func main() {
 		log.Fatalf("repos: %v\n", err)
 	}
 
-	if err := writeReadme(repos, pulls, issuesAndComments); err != nil {
+	if err := writeReadme(repos, pullsAndIssues, comments); err != nil {
 		log.Fatalf("readme.md: %v\n", err)
 	}
 }
@@ -87,23 +88,27 @@ func printEntries(name string, entries []Entry) {
 }
 
 func fetchEntries(ctx context.Context, client *github.Client, query string) (entries []Entry, err error) {
-	opts := &github.SearchOptions{Sort: "updated", Order: "desc", ListOptions: github.ListOptions{PerPage: THRESHOLD_FETCH}}
+	opts := &github.SearchOptions{Sort: "updated", Order: "desc", ListOptions: github.ListOptions{PerPage: ThresholdFetch}}
 
 	searchResult, _, err := client.Search.Issues(ctx, query, opts)
 	if err != nil {
 		return nil, fmt.Errorf("error fetching entries: %v", err)
 	}
 
-	entries = make([]Entry, 0, THRESHOLD_ENTRIES)
-	then := time.Now().Add(-THRESHOLD_DAYS)
+	entries = make([]Entry, 0, ThresholdEntries)
+	then := time.Now().Add(-ThresholdDays)
 
 	for i, issue := range searchResult.Issues {
-		entry := Entry{title: issue.GetTitle(), link: issue.GetHTMLURL(), updatedAt: *issue.UpdatedAt}
+		entry := Entry{title: issue.GetTitle(),
+			link:      issue.GetHTMLURL(),
+			createdAt: issue.GetCreatedAt(),
+			updatedAt: issue.GetUpdatedAt(),
+		}
 		if issue.GetUpdatedAt().After(then) {
 			entries = append(entries, entry)
 		}
 
-		if i > THRESHOLD_ENTRIES {
+		if i > ThresholdEntries {
 			break
 		}
 	}
@@ -124,7 +129,7 @@ func fetchLatestComments(ctx context.Context, client *github.Client) (entries []
 }
 
 func isExcluded(repoName string) bool {
-	for _, el := range EXCLUDED {
+	for _, el := range Excluded {
 		if el == repoName {
 			return true
 		}
@@ -133,10 +138,10 @@ func isExcluded(repoName string) bool {
 }
 
 func getRepositories(ctx context.Context, client *github.Client) (recent []Entry, err error) {
-	recent = make([]Entry, 0, THRESHOLD_RECENT_REPOS)
+	recent = make([]Entry, 0, ThresholdRecentRepos)
 
 	// user repos
-	repos, _, err := client.Repositories.List(ctx, USERNAME, &github.RepositoryListOptions{
+	repos, _, err := client.Repositories.List(ctx, Username, &github.RepositoryListOptions{
 		Visibility: "public",
 		// Affiliation: "owner,organization_member",
 		// Type:        "owner,public",
@@ -152,7 +157,7 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 			entry := Entry{title: repo.GetName(), link: repo.GetURL(), updatedAt: repo.GetPushedAt().Time}
 
 			// recent commits?
-			if len(recent) < THRESHOLD_RECENT_REPOS {
+			if len(recent) < ThresholdRecentRepos {
 				recent = append(recent, entry)
 			} else {
 				found := -1
@@ -175,7 +180,7 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 		ListOptions: github.ListOptions{PerPage: 20},
 	}
 
-	for _, org := range ORGS {
+	for _, org := range Orgs {
 		opt.Page = 0
 
 		for {
@@ -191,7 +196,7 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 					entry := Entry{title: repo.GetName(), link: repo.GetURL(), updatedAt: repo.GetPushedAt().Time}
 
 					// recent commits?
-					if len(recent) < THRESHOLD_RECENT_REPOS {
+					if len(recent) < ThresholdRecentRepos {
 						recent = append(recent, entry)
 					} else {
 						found := -1
@@ -219,7 +224,7 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 	return recent, nil
 }
 
-func writeReadme(recent []Entry, pulls []Entry, issuesAndComments []Entry) error {
+func writeReadme(recent []Entry, pullsAndIssues []Entry, comments []Entry) error {
 	out, err := os.Create("README.md")
 	if err != nil {
 		return err
@@ -227,26 +232,26 @@ func writeReadme(recent []Entry, pulls []Entry, issuesAndComments []Entry) error
 
 	defer out.Close()
 
-	out.WriteString("**last worked on**\n\n")
+	out.WriteString("**recent activity**\n\n")
 
 	for _, repo := range recent {
 		out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
 			repo.title, repo.link, helper.GetTimeAgo(repo.updatedAt.Local())))
 	}
 
-	if len(pulls) > 0 {
-		out.WriteString("\n**last pull requests**\n\n")
+	if len(pullsAndIssues) > 0 {
+		out.WriteString("\n**issues & pull requests**\n\n")
 
-		for _, pr := range pulls {
+		for _, pr := range pullsAndIssues {
 			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
 				pr.title, pr.link, helper.GetTimeAgo(pr.updatedAt)))
 		}
 	}
 
-	if len(issuesAndComments) > 0 {
-		out.WriteString("\n**last issues & comments**\n\n")
+	if len(comments) > 0 {
+		out.WriteString("\n**comments**\n\n")
 
-		for _, isc := range issuesAndComments {
+		for _, isc := range comments {
 			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
 				isc.title, isc.link, helper.GetTimeAgo(isc.updatedAt)))
 		}
