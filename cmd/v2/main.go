@@ -80,14 +80,14 @@ func main() {
 func printEntries(name string, entries []Entry) {
 	fmt.Printf("------  List of %s...\n", name)
 	for _, entry := range entries {
-		fmt.Printf("- %s\t\tURL: %s\tUpdated: %s\n", entry.title, entry.link, entry.updatedAt.Local().Format(time.RFC822))
+		fmt.Printf("- %s\t\tUpdated: %s\tURL: %s\n", entry.title, entry.updatedAt.Local().Format(time.RFC822), entry.link)
 	}
 
 	fmt.Println()
 }
 
 func fetchEntries(ctx context.Context, client *github.Client, query string) (entries []Entry, err error) {
-	opts := &github.SearchOptions{Sort: "created", Order: "desc", ListOptions: github.ListOptions{PerPage: THRESHOLD_FETCH}}
+	opts := &github.SearchOptions{Sort: "updated", Order: "desc", ListOptions: github.ListOptions{PerPage: THRESHOLD_FETCH}}
 
 	searchResult, _, err := client.Search.Issues(ctx, query, opts)
 	if err != nil {

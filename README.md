@@ -1,7 +1,7 @@
 **last worked on**
 
-  - **[amapi-feed](https://api.github.com/repos/petarov/amapi-feed)** - 12 days ago
-  - **[sandbox](https://api.github.com/repos/petarov/sandbox)** - 11 days ago
+  - **[amapi-feed](https://api.github.com/repos/petarov/amapi-feed)** - 13 days ago
+  - **[sandbox](https://api.github.com/repos/petarov/sandbox)** - 12 days ago
 
 **last pull requests**
 
@@ -9,9 +9,11 @@
 
 **last issues & comments**
 
-  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 4 days ago
-  - **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 21 days ago
-  - **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 21 days ago
+  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 5 days ago
+  - **[FEATURE: Decode Active Directory server GUIDs](https://github.com/fengtan/ldap-explorer/issues/33)** - 15 days ago
+  - **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 22 days ago
+  - **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 22 days ago
+  - **[SQLTimeoutException closes connection](https://github.com/brettwooldridge/HikariCP/issues/1388)** - 27 days ago
   - **[High security alert found in jscep lib](https://github.com/jscep/jscep/issues/304)** - 1 month ago
   - **[apns-priority has three enumeration values. Why do you only have 10 and 5 here, missing 1?](https://github.com/jchambers/pushy/issues/1088)** - 1 month ago
   - **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200)** - 1 month ago
