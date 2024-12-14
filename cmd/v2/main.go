@@ -14,9 +14,8 @@ import (
 )
 
 const (
-	ThresholdFetch       = 25
+	ThresholdFetch       = 10
 	ThresholdDays        = 180 * 24 * time.Hour
-	ThresholdEntries     = 10
 	ThresholdRecentRepos = 2
 	Username             = "petarov"
 )
@@ -46,13 +45,13 @@ func main() {
 	if err != nil {
 		log.Fatalf("pull requests: %v\n", err)
 	}
-	printEntries("PRs", pulls)
+	printEntries(pulls)
 
 	issues, err := fetchLatestIssues(ctx, client)
 	if err != nil {
 		log.Fatalf("issues: %v\n", err)
 	}
-	printEntries("Issues", issues)
+	printEntries(issues)
 
 	// merge and sort issues and pull requests
 	pullsAndIssues := append(pulls, issues...)
@@ -65,7 +64,7 @@ func main() {
 	if err != nil {
 		log.Fatalf("comments: %v\n", err)
 	}
-	printEntries("Comments", comments)
+	printEntries(comments)
 
 	// recent repos
 	repos, err := getRepositories(ctx, client)
@@ -78,40 +77,36 @@ func main() {
 	}
 }
 
-func printEntries(name string, entries []Entry) {
-	fmt.Printf("------  List of %s...\n", name)
+func printEntries(entries []Entry) {
 	for _, entry := range entries {
 		fmt.Printf("- %s\t\tUpdated: %s\tURL: %s\n", entry.title, entry.updatedAt.Local().Format(time.RFC822), entry.link)
 	}
-
 	fmt.Println()
 }
 
 func fetchEntries(ctx context.Context, client *github.Client, query string) (entries []Entry, err error) {
 	opts := &github.SearchOptions{Sort: "updated", Order: "desc", ListOptions: github.ListOptions{PerPage: ThresholdFetch}}
 
+	then := time.Now().Add(-ThresholdDays)
+	query = fmt.Sprintf("%s updated:>%s", query, then.Format("2006-01-02"))
+
 	searchResult, _, err := client.Search.Issues(ctx, query, opts)
 	if err != nil {
 		return nil, fmt.Errorf("error fetching entries: %v", err)
 	}
 
-	entries = make([]Entry, 0, ThresholdEntries)
-	then := time.Now().Add(-ThresholdDays)
+	entries = make([]Entry, 0, len(searchResult.Issues))
 
-	for i, issue := range searchResult.Issues {
-		entry := Entry{title: issue.GetTitle(),
+	for _, issue := range searchResult.Issues {
+		entries = append(entries, Entry{
+			title:     issue.GetTitle(),
 			link:      issue.GetHTMLURL(),
 			createdAt: issue.GetCreatedAt(),
 			updatedAt: issue.GetUpdatedAt(),
-		}
-		if issue.GetUpdatedAt().After(then) {
-			entries = append(entries, entry)
-		}
-
-		if i > ThresholdEntries {
-			break
-		}
+		})
 	}
+
+	fmt.Printf("\n*** Query: %s\tResults: %d\n", query, len(entries))
 
 	return entries, nil
 }
@@ -125,7 +120,23 @@ func fetchLatestPullRequests(ctx context.Context, client *github.Client) (entrie
 }
 
 func fetchLatestComments(ctx context.Context, client *github.Client) (entries []Entry, err error) {
-	return fetchEntries(ctx, client, "is:issue commenter:@me")
+	issues, err := fetchEntries(ctx, client, "is:issue commenter:@me")
+	if err != nil {
+		return nil, err
+	}
+
+	pulls, err := fetchEntries(ctx, client, "is:pr commenter:@me")
+	if err != nil {
+		return nil, err
+	}
+
+	all := append(issues, pulls...)
+
+	sort.Slice(all, func(i, j int) bool {
+		return all[i].updatedAt.After(all[j].updatedAt)
+	})
+
+	return all, nil
 }
 
 func isExcluded(repoName string) bool {
