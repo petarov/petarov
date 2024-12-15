@@ -114,10 +114,12 @@ func fetchEntries(ctx context.Context, client *github.Client, query string, inde
 					}
 
 					comments, _, err := client.Issues.ListComments(ctx, owner, repo, issue.GetNumber(), &github.IssueListCommentsOptions{
-						Sort:      "created",
-						Direction: "desc",
-						Since:     then,
-						// Go no more than 25 comments back. I think more makes little to no sense at this point.
+						// Sorting and direction do not work when fetching comments for a certain issue
+						// See: https://docs.github.com/en/rest/issues/comments?apiVersion=2022-11-28#list-issue-comments
+						// Sort:      "created",
+						// Direction: "desc",
+						Since: then,
+						// Fetch no more than 25 comments back. I think more makes little to no sense at this point.
 						ListOptions: github.ListOptions{PerPage: 25},
 					})
 					if err != nil {
@@ -126,7 +128,8 @@ func fetchEntries(ctx context.Context, client *github.Client, query string, inde
 					// fmt.Printf("owner,repo = %s %s", owner, repo) // debug
 					// fmt.Printf("\t\t\tFound %d comments: %s\n", len(comments), issue.GetTitle()) // debug
 
-					for _, comment := range comments {
+					for i := range comments {
+						comment := comments[len(comments)-1-i]
 						if comment.User.GetLogin() == Username {
 							entry := Entry{
 								id:        entryId,
