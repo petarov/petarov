@@ -220,7 +220,7 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 		excluded := isExcluded(repo.GetName())
 
 		if !excluded {
-			entry := Entry{title: repo.GetName(), link: repo.GetURL(), updatedAt: repo.GetPushedAt().Time}
+			entry := Entry{title: repo.GetName(), link: repo.GetHTMLURL(), updatedAt: repo.GetPushedAt().Time}
 
 			// recent commits?
 			if len(recent) < ThresholdRecentRepos {
@@ -259,7 +259,7 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 				excluded := isExcluded(repo.GetName())
 
 				if !excluded {
-					entry := Entry{title: repo.GetName(), link: repo.GetURL(), updatedAt: repo.GetPushedAt().Time}
+					entry := Entry{title: repo.GetName(), link: repo.GetHTMLURL(), updatedAt: repo.GetPushedAt().Time}
 
 					// recent commits?
 					if len(recent) < ThresholdRecentRepos {
