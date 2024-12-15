@@ -15,7 +15,7 @@ import (
 
 const (
 	ThresholdFetch       = 10
-	ThresholdDays        = 365 * 24 * time.Hour // 12 months
+	ThresholdDays        = 183 * 24 * time.Hour // 6 months
 	ThresholdRecentRepos = 2
 	Username             = "petarov"
 )
@@ -27,6 +27,7 @@ var (
 )
 
 type Entry struct {
+	id        int64
 	title     string
 	link      string
 	createdAt time.Time
@@ -41,7 +42,7 @@ func main() {
 	tc := oauth2.NewClient(ctx, ts)
 	client := github.NewClient(tc)
 
-	index := helper.NewStringSet()
+	index := helper.NewAnySet[int64]()
 
 	pulls, err := fetchLatestPullRequests(ctx, client, index)
 	if err != nil {
@@ -86,7 +87,7 @@ func printEntries(entries []Entry) {
 	fmt.Println()
 }
 
-func fetchEntries(ctx context.Context, client *github.Client, query string, index *helper.StringSet, traverseComments bool) (entries []Entry, err error) {
+func fetchEntries(ctx context.Context, client *github.Client, query string, index *helper.AnySet[int64], traverseComments bool) (entries []Entry, err error) {
 	opts := &github.SearchOptions{Sort: "updated", Order: "desc", ListOptions: github.ListOptions{PerPage: ThresholdFetch}}
 
 	then := time.Now().Add(-ThresholdDays)
@@ -101,9 +102,9 @@ func fetchEntries(ctx context.Context, client *github.Client, query string, inde
 
 	for _, issue := range searchResult.Issues {
 		addIssue := false
-		link := issue.GetHTMLURL()
+		entryId := issue.GetID()
 
-		if !index.Contains(link) {
+		if !index.Contains(entryId) {
 			if traverseComments {
 				// Check when the commenter has commented last in order to extract the correct updatedAt date-time
 				if issue.GetComments() > 0 {
@@ -128,13 +129,14 @@ func fetchEntries(ctx context.Context, client *github.Client, query string, inde
 					for _, comment := range comments {
 						if comment.User.GetLogin() == Username {
 							entry := Entry{
+								id:        entryId,
 								title:     issue.GetTitle(),
-								link:      issue.GetHTMLURL(),
+								link:      comment.GetHTMLURL(),
 								createdAt: comment.GetCreatedAt(),
 								updatedAt: comment.GetUpdatedAt(),
 							}
 							entries = append(entries, entry)
-							index.Add(entry.link)
+							index.Add(entryId)
 							break
 						}
 					}
@@ -151,13 +153,14 @@ func fetchEntries(ctx context.Context, client *github.Client, query string, inde
 
 		if addIssue {
 			var entry = Entry{
+				id:        entryId,
 				title:     issue.GetTitle(),
 				link:      issue.GetHTMLURL(),
 				createdAt: issue.GetCreatedAt(),
 				updatedAt: issue.GetUpdatedAt(),
 			}
 			entries = append(entries, entry)
-			index.Add(entry.link)
+			index.Add(entryId)
 		}
 	}
 
@@ -166,15 +169,15 @@ func fetchEntries(ctx context.Context, client *github.Client, query string, inde
 	return entries, nil
 }
 
-func fetchLatestIssues(ctx context.Context, client *github.Client, index *helper.StringSet) (entries []Entry, err error) {
+func fetchLatestIssues(ctx context.Context, client *github.Client, index *helper.AnySet[int64]) (entries []Entry, err error) {
 	return fetchEntries(ctx, client, "author:@me type:issue", index, false)
 }
 
-func fetchLatestPullRequests(ctx context.Context, client *github.Client, index *helper.StringSet) (entries []Entry, err error) {
+func fetchLatestPullRequests(ctx context.Context, client *github.Client, index *helper.AnySet[int64]) (entries []Entry, err error) {
 	return fetchEntries(ctx, client, "author:@me type:pr", index, false)
 }
 
-func fetchLatestComments(ctx context.Context, client *github.Client, index *helper.StringSet) (entries []Entry, err error) {
+func fetchLatestComments(ctx context.Context, client *github.Client, index *helper.AnySet[int64]) (entries []Entry, err error) {
 	issues, err := fetchEntries(ctx, client, "commenter:@me is:issue", index, true)
 	if err != nil {
 		return nil, err
