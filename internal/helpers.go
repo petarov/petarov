@@ -2,6 +2,8 @@ package helper
 
 import (
 	"fmt"
+	"net/url"
+	"strings"
 	"time"
 )
 
@@ -35,4 +37,18 @@ func GetTimeAgo(past time.Time) string {
 	}
 
 	return "today"
+}
+
+func ExtractGitHubOwnerAndRepo(repoURL string) (owner, repo string, err error) {
+	u, err := url.Parse(repoURL)
+	if err != nil {
+		return "", "", fmt.Errorf("error parsing repository URL %s: %v", repoURL, err)
+	}
+
+	parts := strings.Split(strings.Trim(u.Path, "/"), "/")
+	if len(parts) < 3 {
+		return "", "", nil
+	}
+
+	return parts[1], parts[2], nil
 }

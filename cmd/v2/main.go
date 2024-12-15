@@ -15,7 +15,7 @@ import (
 
 const (
 	ThresholdFetch       = 10
-	ThresholdDays        = 180 * 24 * time.Hour
+	ThresholdDays        = 365 * 24 * time.Hour // 12 months
 	ThresholdRecentRepos = 2
 	Username             = "petarov"
 )
@@ -86,7 +86,7 @@ func printEntries(entries []Entry) {
 	fmt.Println()
 }
 
-func fetchEntries(ctx context.Context, client *github.Client, query string, index *helper.StringSet) (entries []Entry, err error) {
+func fetchEntries(ctx context.Context, client *github.Client, query string, index *helper.StringSet, traverseComments bool) (entries []Entry, err error) {
 	opts := &github.SearchOptions{Sort: "updated", Order: "desc", ListOptions: github.ListOptions{PerPage: ThresholdFetch}}
 
 	then := time.Now().Add(-ThresholdDays)
@@ -100,14 +100,62 @@ func fetchEntries(ctx context.Context, client *github.Client, query string, inde
 	entries = make([]Entry, 0, len(searchResult.Issues))
 
 	for _, issue := range searchResult.Issues {
-		entry := Entry{
-			title:     issue.GetTitle(),
-			link:      issue.GetHTMLURL(),
-			createdAt: issue.GetCreatedAt(),
-			updatedAt: issue.GetUpdatedAt(),
+		addIssue := false
+		link := issue.GetHTMLURL()
+
+		if !index.Contains(link) {
+			if traverseComments {
+				// Check when the commenter has commented last in order to extract the correct updatedAt date-time
+				if issue.GetComments() > 0 {
+					owner, repo, err := helper.ExtractGitHubOwnerAndRepo(issue.GetRepositoryURL())
+					if err != nil {
+						return nil, err
+					}
+
+					comments, _, err := client.Issues.ListComments(ctx, owner, repo, issue.GetNumber(), &github.IssueListCommentsOptions{
+						Sort:      "created",
+						Direction: "desc",
+						Since:     then,
+						// Go no more than 25 comments back. I think more makes little to no sense at this point.
+						ListOptions: github.ListOptions{PerPage: 25},
+					})
+					if err != nil {
+						return nil, fmt.Errorf("error fetching '%s' comments list: %v", issue.GetTitle(), err)
+					}
+					// fmt.Printf("owner,repo = %s %s", owner, repo) // debug
+					// fmt.Printf("\t\t\tFound %d comments: %s\n", len(comments), issue.GetTitle()) // debug
+
+					for _, comment := range comments {
+						if comment.User.GetLogin() == Username {
+							entry := Entry{
+								title:     issue.GetTitle(),
+								link:      issue.GetHTMLURL(),
+								createdAt: comment.GetCreatedAt(),
+								updatedAt: comment.GetUpdatedAt(),
+							}
+							entries = append(entries, entry)
+							index.Add(entry.link)
+							break
+						}
+					}
+				} else {
+					// No comments found, so just add the issue
+					addIssue = true
+					fmt.Printf("!!! No comments found: %s\n", issue.GetTitle())
+				}
+			} else {
+				// Just add the issue or PR without analyzing comments
+				addIssue = true
+			}
 		}
 
-		if !index.Contains(entry.link) {
+		if addIssue {
+			var entry = Entry{
+				title:     issue.GetTitle(),
+				link:      issue.GetHTMLURL(),
+				createdAt: issue.GetCreatedAt(),
+				updatedAt: issue.GetUpdatedAt(),
+			}
 			entries = append(entries, entry)
 			index.Add(entry.link)
 		}
@@ -119,20 +167,20 @@ func fetchEntries(ctx context.Context, client *github.Client, query string, inde
 }
 
 func fetchLatestIssues(ctx context.Context, client *github.Client, index *helper.StringSet) (entries []Entry, err error) {
-	return fetchEntries(ctx, client, "author:@me type:issue", index)
+	return fetchEntries(ctx, client, "author:@me type:issue", index, false)
 }
 
 func fetchLatestPullRequests(ctx context.Context, client *github.Client, index *helper.StringSet) (entries []Entry, err error) {
-	return fetchEntries(ctx, client, "author:@me type:pr", index)
+	return fetchEntries(ctx, client, "author:@me type:pr", index, false)
 }
 
 func fetchLatestComments(ctx context.Context, client *github.Client, index *helper.StringSet) (entries []Entry, err error) {
-	issues, err := fetchEntries(ctx, client, "commenter:@me is:issue", index)
+	issues, err := fetchEntries(ctx, client, "commenter:@me is:issue", index, true)
 	if err != nil {
 		return nil, err
 	}
 
-	pulls, err := fetchEntries(ctx, client, "commenter:@me is:pr", index)
+	pulls, err := fetchEntries(ctx, client, "commenter:@me is:pr", index, true)
 	if err != nil {
 		return nil, err
 	}
