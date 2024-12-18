@@ -57,13 +57,6 @@ func main() {
 	}
 	printEntries(issues)
 
-	// merge and sort issues and pull requests
-	pullsAndIssues := append(pulls, issues...)
-
-	sort.Slice(pullsAndIssues, func(i, j int) bool {
-		return pullsAndIssues[i].updatedAt.After(pullsAndIssues[j].updatedAt)
-	})
-
 	comments, err := fetchLatestComments(ctx, client, index)
 	if err != nil {
 		log.Fatalf("comments: %v\n", err)
@@ -76,7 +69,7 @@ func main() {
 		log.Fatalf("repos: %v\n", err)
 	}
 
-	if err := writeReadme(repos, pullsAndIssues, comments); err != nil {
+	if err := writeReadme(repos, pulls, issues, comments); err != nil {
 		log.Fatalf("readme.md: %v\n", err)
 	}
 }
@@ -317,7 +310,7 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 	return recent, nil
 }
 
-func writeReadme(recent []Entry, pullsAndIssues []Entry, comments []Entry) error {
+func writeReadme(recent []Entry, pulls []Entry, issues []Entry, comments []Entry) error {
 	out, err := os.Create("README.md")
 	if err != nil {
 		return err
@@ -332,17 +325,22 @@ func writeReadme(recent []Entry, pullsAndIssues []Entry, comments []Entry) error
 			repo.title, repo.link, helper.GetTimeAgo(repo.updatedAt.Local())))
 	}
 
-	if len(pullsAndIssues) > 0 {
+	if len(pulls) > 0 || len(issues) > 0 || len(comments) > 0 {
 		out.WriteString("\n**pull requests, issues, comments**\n\n")
 
-		for _, pr := range pullsAndIssues {
+		for _, pr := range pulls {
 			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
 				pr.title, pr.link, helper.GetTimeAgo(pr.updatedAt)))
 		}
 
-		for _, isc := range comments {
+		for _, issue := range issues {
 			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
-				isc.title, isc.link, helper.GetTimeAgo(isc.updatedAt)))
+				issue.title, issue.link, helper.GetTimeAgo(issue.updatedAt)))
+		}
+
+		for _, comment := range comments {
+			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
+				comment.title, comment.link, helper.GetTimeAgo(comment.updatedAt)))
 		}
 	}
 
