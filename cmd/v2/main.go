@@ -63,7 +63,7 @@ func main() {
 	}
 	printEntries(comments)
 
-	// recent repos
+	// Recent repos
 	repos, err := getRepositories(ctx, client)
 	if err != nil {
 		log.Fatalf("repos: %v\n", err)
@@ -310,7 +310,7 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 	return recent, nil
 }
 
-func writeReadme(recent []Entry, pulls []Entry, issues []Entry, comments []Entry) error {
+func writeReadme(repos []Entry, pulls []Entry, issues []Entry, comments []Entry) error {
 	out, err := os.Create("README.md")
 	if err != nil {
 		return err
@@ -318,29 +318,28 @@ func writeReadme(recent []Entry, pulls []Entry, issues []Entry, comments []Entry
 
 	defer out.Close()
 
-	out.WriteString("**recent activity**\n\n")
+	if len(repos) > 0 {
+		out.WriteString("**recent activity**\n\n")
 
-	for _, repo := range recent {
-		out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
-			repo.title, repo.link, helper.GetTimeAgo(repo.updatedAt.Local())))
+		for _, repo := range repos {
+			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
+				repo.title, repo.link, helper.GetTimeAgo(repo.updatedAt.Local())))
+		}
 	}
 
 	if len(pulls) > 0 || len(issues) > 0 || len(comments) > 0 {
 		out.WriteString("\n**pull requests, issues, comments**\n\n")
 
-		for _, pr := range pulls {
-			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
-				pr.title, pr.link, helper.GetTimeAgo(pr.updatedAt)))
-		}
+		// Merge everything and sort by date
+		all := append(append(pulls, issues...), comments...)
 
-		for _, issue := range issues {
-			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
-				issue.title, issue.link, helper.GetTimeAgo(issue.updatedAt)))
-		}
+		sort.Slice(all, func(i, j int) bool {
+			return all[i].updatedAt.After(all[j].updatedAt)
+		})
 
-		for _, comment := range comments {
+		for _, entry := range all {
 			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
-				comment.title, comment.link, helper.GetTimeAgo(comment.updatedAt)))
+				entry.title, entry.link, helper.GetTimeAgo(entry.updatedAt)))
 		}
 	}
 
