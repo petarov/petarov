@@ -44,7 +44,7 @@ jobs:
       - name: Commit changes
         run: |
           git add README.md
-          git commit -m 'Scheduled README.md update'
+          git commit -m 'Scheduled activity update' || true
       
       - name: Push changes
         uses: ad-m/github-push-action@v0.8.0
