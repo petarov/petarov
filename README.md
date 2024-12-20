@@ -1,12 +1,12 @@
 **recent activity**
 
   - **[bulgarian-control-numbers](https://github.com/petarov/bulgarian-control-numbers)** - 1 day ago
-  - **[host2ip-api](https://github.com/petarov/host2ip-api)** - 1 day ago
+  - **[host2ip-api](https://github.com/petarov/host2ip-api)** - 2 days ago
 
 **pull requests, issues, comments**
 
-  - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2549666439)** - 1 day ago
-  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 9 days ago
+  - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2549666439)** - 2 days ago
+  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 10 days ago
   - **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 27 days ago
   - **[FEATURE: Decode Active Directory server GUIDs](https://github.com/fengtan/ldap-explorer/issues/33#issuecomment-2483148204)** - 1 month ago
   - **[High security alert found in jscep lib](https://github.com/jscep/jscep/issues/304#issuecomment-2468942681)** - 1 month ago
