@@ -4,6 +4,7 @@ import (
 	"context"
 	"fmt"
 	"log"
+	"math"
 	"os"
 	"sort"
 	"time"
@@ -14,8 +15,8 @@ import (
 )
 
 const (
-	ThresholdMaxActivityFetch = 25
-	ThresholdActivityDays     = 183 * 24 * time.Hour // 6 months
+	ThresholdMaxActivityFetch = 50
+	ThresholdActivityDays     = 365 * 24 * time.Hour // 12 months
 	ThresholdMaxRecentRepos   = 4
 	ThresholdReposDays        = 14 * 24 * time.Hour // 14 days
 	Username                  = "petarov"
@@ -319,7 +320,7 @@ func writeReadme(repos []Entry, pulls []Entry, issues []Entry, comments []Entry)
 	defer out.Close()
 
 	if len(repos) > 0 {
-		out.WriteString("**recent activity**\n\n")
+		out.WriteString(fmt.Sprintf("**recent activity** <sub>past %d days</sub>\n\n", int(ThresholdReposDays.Hours()/24)))
 
 		for _, repo := range repos {
 			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
@@ -328,7 +329,7 @@ func writeReadme(repos []Entry, pulls []Entry, issues []Entry, comments []Entry)
 	}
 
 	if len(pulls) > 0 || len(issues) > 0 || len(comments) > 0 {
-		out.WriteString("\n**pull requests, issues, comments**\n\n")
+		out.WriteString(fmt.Sprintf("\n**pull requests, issues, comments** <sub>past %d months</sub>\n\n", int(math.Ceil(ThresholdActivityDays.Hours()/24/30.44))))
 
 		// Merge everything and sort by date
 		all := append(append(pulls, issues...), comments...)
