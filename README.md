@@ -1,14 +1,14 @@
 **recent activity** <sub>past 14 days</sub>
 
-  - **[sandbox](https://github.com/petarov/sandbox)** - 8 days ago
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 8 days ago
-  - **[bulgarian-control-numbers](https://github.com/petarov/bulgarian-control-numbers)** - 10 days ago
-  - **[host2ip-api](https://github.com/petarov/host2ip-api)** - 11 days ago
+  - **[sandbox](https://github.com/petarov/sandbox)** - 9 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 9 days ago
+  - **[bulgarian-control-numbers](https://github.com/petarov/bulgarian-control-numbers)** - 11 days ago
+  - **[host2ip-api](https://github.com/petarov/host2ip-api)** - 12 days ago
 
 **pull requests, issues, comments** <sub>past 12 months</sub>
 
-  - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 5 days ago
-  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 19 days ago
+  - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 6 days ago
+  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 20 days ago
   - **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 1 month ago
   - **[FEATURE: Decode Active Directory server GUIDs](https://github.com/fengtan/ldap-explorer/issues/33#issuecomment-2483148204)** - 1 month ago
   - **[High security alert found in jscep lib](https://github.com/jscep/jscep/issues/304#issuecomment-2468942681)** - 1 month ago
@@ -23,4 +23,4 @@
   - **[URL Stopped Working](https://github.com/clo4/apple_device_identifiers/issues/36#issuecomment-1958932385)** - 10 months ago
   - **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044#issuecomment-1921113526)** - 10 months ago
 
-<sub>:envelope: gh(@]vexelon.net | updated: 2024-12-29 01:29 (UTC)</sub>
+<sub>:envelope: gh(@]vexelon.net | updated: 2024-12-30 01:29 (UTC)</sub>
