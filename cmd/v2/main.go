@@ -16,7 +16,7 @@ import (
 
 const (
 	ThresholdMaxActivityFetch = 50
-	ThresholdActivityDays     = 365 * 24 * time.Hour // 12 months
+	ThresholdActivityDays     = 182 * 24 * time.Hour // 6 months
 	ThresholdMaxRecentRepos   = 4
 	ThresholdReposDays        = 14 * 24 * time.Hour // 14 days
 	Username                  = "petarov"
