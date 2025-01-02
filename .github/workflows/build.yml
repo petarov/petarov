@@ -31,7 +31,7 @@ jobs:
             /go/pkg/mod
           key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
           restore-keys: |
-            ${{ runner.os }}-go-          
+            ${{ runner.os }}-go-
 
       - name: Generate README.md
         run: GITHUB_TOKEN="${{ secrets.GHTKN }}" go run $GITHUB_WORKSPACE/cmd/v2/main.go
