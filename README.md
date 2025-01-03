@@ -1,14 +1,14 @@
 **recent activity** <sub>past 14 days</sub>
 
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 1 day ago
-  - **[nenu](https://github.com/petarov/nenu)** - 2 days ago
-  - **[sandbox](https://github.com/petarov/sandbox)** - 12 days ago
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 12 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 2 days ago
+  - **[nenu](https://github.com/petarov/nenu)** - 3 days ago
+  - **[sandbox](https://github.com/petarov/sandbox)** - 13 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 13 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 9 days ago
-  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 23 days ago
+  - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 10 days ago
+  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 24 days ago
   - **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 1 month ago
   - **[FEATURE: Decode Active Directory server GUIDs](https://github.com/fengtan/ldap-explorer/issues/33#issuecomment-2483148204)** - 1 month ago
   - **[High security alert found in jscep lib](https://github.com/jscep/jscep/issues/304#issuecomment-2468942681)** - 1 month ago
@@ -19,4 +19,4 @@
   - **[possible bug (deadlock) when posting batch request content over a certain length](https://github.com/microsoftgraph/msgraph-sdk-java-core/issues/1687#issuecomment-2261152491)** - 5 months ago
   - **[Bump Netty to 4.1.108.Final due to CVE-2024-29025](https://github.com/jchambers/pushy/pull/1068)** - 5 months ago
 
-<sub>:envelope: gh(@]vexelon.net | updated: 2025-01-02 01:32 (UTC)</sub>
+<sub>updated: 2025-01-03 01:32 (UTC) | :envelope: gh(@]vexelon.net</sub>
