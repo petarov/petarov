@@ -1,13 +1,13 @@
 **recent activity** <sub>past 14 days</sub>
 
-  - **[query-apple-firmware-updates](https://github.com/petarov/query-apple-firmware-updates)** - 1 day ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 5 days ago
-  - **[nenu](https://github.com/petarov/nenu)** - 6 days ago
+  - **[query-apple-firmware-updates](https://github.com/petarov/query-apple-firmware-updates)** - 2 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 6 days ago
+  - **[nenu](https://github.com/petarov/nenu)** - 7 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 13 days ago
-  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 27 days ago
+  - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 14 days ago
+  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 28 days ago
   - **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 1 month ago
   - **[FEATURE: Decode Active Directory server GUIDs](https://github.com/fengtan/ldap-explorer/issues/33#issuecomment-2483148204)** - 1 month ago
   - **[High security alert found in jscep lib](https://github.com/jscep/jscep/issues/304#issuecomment-2468942681)** - 1 month ago
@@ -16,4 +16,4 @@
   - **[NI does not work on Mac/AMR64 ](https://github.com/mukel/llama3.java/issues/19#issuecomment-2414532091)** - 2 months ago
   - **[easy uninstall script](https://github.com/petarov/google-android-app-ids/issues/3#issuecomment-2228691402)** - 5 months ago
 
-<sub>updated: 2025-01-06 01:33 (UTC) | :envelope: gh(@]vexelon.net</sub>
+<sub>updated: 2025-01-07 01:32 (UTC) | :envelope: gh(@]vexelon.net</sub>
