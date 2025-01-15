@@ -1,14 +1,15 @@
 **recent activity** <sub>past 14 days</sub>
 
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 1 day ago
-  - **[ldap-explorer](https://github.com/petarov/ldap-explorer)** - 3 days ago
-  - **[query-apple-firmware-updates](https://github.com/petarov/query-apple-firmware-updates)** - 9 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - in the last 24 hours
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 2 days ago
+  - **[ldap-explorer](https://github.com/petarov/ldap-explorer)** - 4 days ago
+  - **[query-apple-firmware-updates](https://github.com/petarov/query-apple-firmware-updates)** - 10 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - 3 days ago
-  - **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 3 days ago
-  - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 21 days ago
+  - **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - in the last 24 hours
+  - **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - in the last 24 hours
+  - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 22 days ago
   - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 1 month ago
   - **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 1 month ago
   - **[FEATURE: Decode Active Directory server GUIDs](https://github.com/fengtan/ldap-explorer/issues/33#issuecomment-2483148204)** - 1 month ago
@@ -17,4 +18,4 @@
   - **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200#issuecomment-2440167283)** - 2 months ago
   - **[NI does not work on Mac/AMR64 ](https://github.com/mukel/llama3.java/issues/19#issuecomment-2414532091)** - 2 months ago
 
-<sub>updated: 2025-01-14 01:32 (UTC) | :envelope: gh(@]vexelon.net</sub>
+<sub>updated: 2025-01-15 01:32 (UTC) | :envelope: gh(@]vexelon.net</sub>
