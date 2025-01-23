@@ -23,9 +23,8 @@ const (
 )
 
 var (
-	Orgs           = [...]string{"kenamick", "vexelon-dot-net"}
-	Excluded       = [...]string{"petarov"}
-	ForkExceptions = [...]string{"psiral"}
+	Orgs     = [...]string{"kenamick", "vexelon-dot-net"}
+	Excluded = [...]string{"petarov"}
 )
 
 type Entry struct {
@@ -35,6 +34,8 @@ type Entry struct {
 	createdAt time.Time
 	updatedAt time.Time
 }
+
+type IdSet = helper.AnySet[int64]
 
 func main() {
 	token := os.Getenv("GITHUB_TOKEN")
@@ -82,7 +83,7 @@ func printEntries(entries []Entry) {
 	fmt.Println()
 }
 
-func fetchEntries(ctx context.Context, client *github.Client, query string, index *helper.AnySet[int64], traverseComments bool) (entries []Entry, err error) {
+func fetchEntries(ctx context.Context, client *github.Client, query string, index *IdSet, traverseComments bool) (entries []Entry, err error) {
 	opts := &github.SearchOptions{Sort: "updated", Order: "desc", ListOptions: github.ListOptions{PerPage: ThresholdMaxActivityFetch}}
 
 	then := time.Now().Add(-ThresholdActivityDays)
@@ -167,15 +168,15 @@ func fetchEntries(ctx context.Context, client *github.Client, query string, inde
 	return entries, nil
 }
 
-func fetchLatestIssues(ctx context.Context, client *github.Client, index *helper.AnySet[int64]) (entries []Entry, err error) {
+func fetchLatestIssues(ctx context.Context, client *github.Client, index *IdSet) (entries []Entry, err error) {
 	return fetchEntries(ctx, client, "author:@me type:issue", index, false)
 }
 
-func fetchLatestPullRequests(ctx context.Context, client *github.Client, index *helper.AnySet[int64]) (entries []Entry, err error) {
+func fetchLatestPullRequests(ctx context.Context, client *github.Client, index *IdSet) (entries []Entry, err error) {
 	return fetchEntries(ctx, client, "author:@me type:pr", index, false)
 }
 
-func fetchLatestComments(ctx context.Context, client *github.Client, index *helper.AnySet[int64]) (entries []Entry, err error) {
+func fetchLatestComments(ctx context.Context, client *github.Client, index *IdSet) (entries []Entry, err error) {
 	issues, err := fetchEntries(ctx, client, "commenter:@me is:issue", index, true)
 	if err != nil {
 		return nil, err
