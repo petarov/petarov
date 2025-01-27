@@ -346,8 +346,8 @@ func writeReadme(repos []Entry, pulls []Entry, issues []Entry, comments []Entry)
 	}
 
 	out.WriteString("\n<sub>updated: ")
-	out.WriteString(time.Now().UTC().Format("2006-01-02 15:04"))
-	out.WriteString(" (UTC) | :envelope: gh(@]vexelon.net</sub>")
+	out.WriteString(time.Now().UTC().Format("2006-01-02"))
+	out.WriteString(" | gh(@]vexelon.net</sub>")
 
 	return nil
 }
