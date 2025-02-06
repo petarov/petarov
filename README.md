@@ -1,14 +1,14 @@
 **recent activity** <sub>past 14 days</sub>
 
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - in the last 24 hours
-  - **[appstore-web-search](https://github.com/petarov/appstore-web-search)** - 2 days ago
-  - **[google-android-app-ids](https://github.com/petarov/google-android-app-ids)** - 3 days ago
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 3 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 1 day ago
+  - **[appstore-web-search](https://github.com/petarov/appstore-web-search)** - 3 days ago
+  - **[google-android-app-ids](https://github.com/petarov/google-android-app-ids)** - 4 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 4 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - 19 days ago
-  - **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 19 days ago
+  - **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - 20 days ago
+  - **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 20 days ago
   - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 1 month ago
   - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 1 month ago
   - **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 2 months ago
@@ -18,4 +18,4 @@
   - **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200#issuecomment-2440167283)** - 3 months ago
   - **[NI does not work on Mac/AMR64 ](https://github.com/mukel/llama3.java/issues/19#issuecomment-2414532091)** - 3 months ago
 
-<sub>updated: 2025-02-05 | gh(@]vexelon.net</sub>
+<sub>updated: 2025-02-06 | gh(@]vexelon.net</sub>
