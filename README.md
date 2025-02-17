@@ -1,14 +1,13 @@
 **recent activity** <sub>past 14 days</sub>
 
   - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - in the last 24 hours
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 4 days ago
-  - **[awesome-mdm-dev](https://github.com/petarov/awesome-mdm-dev)** - 7 days ago
-  - **[appstore-web-search](https://github.com/petarov/appstore-web-search)** - 13 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 5 days ago
+  - **[awesome-mdm-dev](https://github.com/petarov/awesome-mdm-dev)** - 8 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[The version is now `jscep-2.5.8`?](https://github.com/seize-the-dave/jscep/issues/364)** - 3 days ago
-  - **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098#issuecomment-2642780976)** - 8 days ago
+  - **[The version is now `jscep-2.5.8`?](https://github.com/seize-the-dave/jscep/issues/364)** - 4 days ago
+  - **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098#issuecomment-2642780976)** - 9 days ago
   - **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - 1 month ago
   - **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 1 month ago
   - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 1 month ago
@@ -20,4 +19,4 @@
   - **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200#issuecomment-2440167283)** - 3 months ago
   - **[NI does not work on Mac/AMR64 ](https://github.com/mukel/llama3.java/issues/19#issuecomment-2414532091)** - 4 months ago
 
-<sub>updated: 2025-02-16 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov) :heart_decoration:</sub>
+<sub>updated: 2025-02-17 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov) :heart_decoration:</sub>
