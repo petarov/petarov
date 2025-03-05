@@ -1,15 +1,15 @@
 **recent activity** <sub>past 14 days</sub>
 
   - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - in the last 24 hours
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 5 days ago
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 13 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 6 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 5 days ago
-  - **[The version is now `jscep-2.5.8`?](https://github.com/seize-the-dave/jscep/issues/364)** - 11 days ago
-  - **[CVE-2024-57699 in net.minidev:json-smart@2.5.1](https://github.com/AzureAD/microsoft-authentication-library-for-java/issues/908#issuecomment-2666788607)** - 13 days ago
-  - **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098#issuecomment-2642780976)** - 24 days ago
+  - **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044#issuecomment-2698360200)** - in the last 24 hours
+  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 6 days ago
+  - **[The version is now `jscep-2.5.8`?](https://github.com/seize-the-dave/jscep/issues/364)** - 12 days ago
+  - **[CVE-2024-57699 in net.minidev:json-smart@2.5.1](https://github.com/AzureAD/microsoft-authentication-library-for-java/issues/908#issuecomment-2666788607)** - 14 days ago
+  - **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098#issuecomment-2642780976)** - 25 days ago
   - **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - 1 month ago
   - **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 1 month ago
   - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 2 months ago
@@ -20,4 +20,4 @@
   - **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200#issuecomment-2440167283)** - 4 months ago
   - **[NI does not work on Mac/AMR64 ](https://github.com/mukel/llama3.java/issues/19#issuecomment-2414532091)** - 4 months ago
 
-<sub>updated: 2025-03-04 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov) :heart_decoration:</sub>
+<sub>updated: 2025-03-05 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov) :heart_decoration:</sub>
