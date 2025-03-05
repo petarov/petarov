@@ -18,7 +18,7 @@ const (
 	ThresholdMaxActivityFetch = 50
 	ThresholdActivityDays     = 182 * 24 * time.Hour // 6 months
 	ThresholdMaxRecentRepos   = 4
-	ThresholdReposDays        = 14 * 24 * time.Hour // 14 days
+	ThresholdReposDays        = 30 * 24 * time.Hour // 30 days
 	Username                  = "petarov"
 )
 
@@ -321,7 +321,7 @@ func writeReadme(repos []Entry, pulls []Entry, issues []Entry, comments []Entry)
 	defer out.Close()
 
 	if len(repos) > 0 {
-		out.WriteString(fmt.Sprintf("**recent activity** <sub>past %d days</sub>\n\n", int(ThresholdReposDays.Hours()/24)))
+		out.WriteString(fmt.Sprintf("**recent work** <sub>past %d days</sub>\n\n", int(ThresholdReposDays.Hours()/24)))
 
 		for _, repo := range repos {
 			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
