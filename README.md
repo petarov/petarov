@@ -1,18 +1,18 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 1 day ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 8 days ago
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 16 days ago
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 23 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - in the last 24 hours
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 9 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 17 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 24 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[TLS 1.3 Support](https://github.com/eclipse-vertx/vert.x/issues/2729#issuecomment-2701144322)** - 1 day ago
-  - **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044#issuecomment-2698360200)** - 2 days ago
-  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 8 days ago
-  - **[The version is now `jscep-2.5.8`?](https://github.com/seize-the-dave/jscep/issues/364)** - 14 days ago
-  - **[CVE-2024-57699 in net.minidev:json-smart@2.5.1](https://github.com/AzureAD/microsoft-authentication-library-for-java/issues/908#issuecomment-2666788607)** - 16 days ago
-  - **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098#issuecomment-2642780976)** - 27 days ago
+  - **[TLS 1.3 Support](https://github.com/eclipse-vertx/vert.x/issues/2729#issuecomment-2701144322)** - 2 days ago
+  - **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044#issuecomment-2698360200)** - 3 days ago
+  - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 9 days ago
+  - **[The version is now `jscep-2.5.8`?](https://github.com/seize-the-dave/jscep/issues/364)** - 15 days ago
+  - **[CVE-2024-57699 in net.minidev:json-smart@2.5.1](https://github.com/AzureAD/microsoft-authentication-library-for-java/issues/908#issuecomment-2666788607)** - 17 days ago
+  - **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098#issuecomment-2642780976)** - 28 days ago
   - **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - 1 month ago
   - **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 1 month ago
   - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 2 months ago
@@ -23,4 +23,4 @@
   - **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200#issuecomment-2440167283)** - 4 months ago
   - **[NI does not work on Mac/AMR64 ](https://github.com/mukel/llama3.java/issues/19#issuecomment-2414532091)** - 4 months ago
 
-<sub>updated: 2025-03-07 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov) :heart_decoration:</sub>
+<sub>updated: 2025-03-08 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov) :heart_decoration:</sub>
