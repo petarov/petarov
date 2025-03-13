@@ -3,7 +3,7 @@
   - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 3 days ago
   - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 14 days ago
   - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 22 days ago
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 28 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 29 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
@@ -23,4 +23,4 @@
   - **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200#issuecomment-2440167283)** - 4 months ago
   - **[NI does not work on Mac/AMR64 ](https://github.com/mukel/llama3.java/issues/19#issuecomment-2414532091)** - 4 months ago
 
-<sub>updated: 2025-03-12 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-03-13 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
