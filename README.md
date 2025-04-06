@@ -1,14 +1,14 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[sandbox](https://github.com/petarov/sandbox)** - 5 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 13 days ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 14 days ago
+  - **[sandbox](https://github.com/petarov/sandbox)** - 6 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 14 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 15 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[Anchor always set to (0.5, 0.5) after P2.enableBody](https://github.com/phaserjs/phaser/issues/938)** - 13 days ago
-  - **[game.add.spriteBatch parameters suggestion](https://github.com/phaserjs/phaser/issues/1000)** - 14 days ago
-  - **[TLS 1.3 Support](https://github.com/eclipse-vertx/vert.x/issues/2729#issuecomment-2701144322)** - 30 days ago
+  - **[Anchor always set to (0.5, 0.5) after P2.enableBody](https://github.com/phaserjs/phaser/issues/938)** - 14 days ago
+  - **[game.add.spriteBatch parameters suggestion](https://github.com/phaserjs/phaser/issues/1000)** - 15 days ago
+  - **[TLS 1.3 Support](https://github.com/eclipse-vertx/vert.x/issues/2729#issuecomment-2701144322)** - 1 month ago
   - **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044#issuecomment-2698360200)** - 1 month ago
   - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 1 month ago
   - **[The version is now `jscep-2.5.8`?](https://github.com/seize-the-dave/jscep/issues/364)** - 1 month ago
@@ -24,4 +24,4 @@
   - **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200#issuecomment-2440167283)** - 5 months ago
   - **[NI does not work on Mac/AMR64 ](https://github.com/mukel/llama3.java/issues/19#issuecomment-2414532091)** - 5 months ago
 
-<sub>updated: 2025-04-05 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-04-06 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
