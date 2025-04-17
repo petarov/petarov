@@ -1,14 +1,14 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 1 day ago
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 1 day ago
-  - **[sandbox](https://github.com/petarov/sandbox)** - 9 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 24 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 2 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 2 days ago
+  - **[sandbox](https://github.com/petarov/sandbox)** - 10 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 25 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[Anchor always set to (0.5, 0.5) after P2.enableBody](https://github.com/phaserjs/phaser/issues/938)** - 24 days ago
-  - **[game.add.spriteBatch parameters suggestion](https://github.com/phaserjs/phaser/issues/1000)** - 25 days ago
+  - **[Anchor always set to (0.5, 0.5) after P2.enableBody](https://github.com/phaserjs/phaser/issues/938)** - 25 days ago
+  - **[game.add.spriteBatch parameters suggestion](https://github.com/phaserjs/phaser/issues/1000)** - 26 days ago
   - **[TLS 1.3 Support](https://github.com/eclipse-vertx/vert.x/issues/2729#issuecomment-2701144322)** - 1 month ago
   - **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044#issuecomment-2698360200)** - 1 month ago
   - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 1 month ago
@@ -24,4 +24,4 @@
   - **[apns-priority has three enumeration values. Why do you only have 10 and 5 here, missing 1?](https://github.com/jchambers/pushy/issues/1088#issuecomment-2454831973)** - 5 months ago
   - **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200#issuecomment-2440167283)** - 5 months ago
 
-<sub>updated: 2025-04-16 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-04-17 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
