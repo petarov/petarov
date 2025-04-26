@@ -1,9 +1,9 @@
 **recent work** <sub>past 30 days</sub>
 
   - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - in the last 24 hours
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 10 days ago
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 10 days ago
-  - **[sandbox](https://github.com/petarov/sandbox)** - 18 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 11 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 11 days ago
+  - **[sandbox](https://github.com/petarov/sandbox)** - 19 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
@@ -24,4 +24,4 @@
   - **[apns-priority has three enumeration values. Why do you only have 10 and 5 here, missing 1?](https://github.com/jchambers/pushy/issues/1088#issuecomment-2454831973)** - 5 months ago
   - **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200#issuecomment-2440167283)** - 5 months ago
 
-<sub>updated: 2025-04-25 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-04-26 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
