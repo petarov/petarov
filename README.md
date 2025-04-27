@@ -1,9 +1,9 @@
 **recent work** <sub>past 30 days</sub>
 
   - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - in the last 24 hours
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 11 days ago
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 11 days ago
-  - **[sandbox](https://github.com/petarov/sandbox)** - 19 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 12 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 12 days ago
+  - **[sandbox](https://github.com/petarov/sandbox)** - 20 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
@@ -22,6 +22,5 @@
   - **[FEATURE: Decode Active Directory server GUIDs](https://github.com/fengtan/ldap-explorer/issues/33#issuecomment-2483148204)** - 5 months ago
   - **[High security alert found in jscep lib](https://github.com/seize-the-dave/jscep/issues/304#issuecomment-2468942681)** - 5 months ago
   - **[apns-priority has three enumeration values. Why do you only have 10 and 5 here, missing 1?](https://github.com/jchambers/pushy/issues/1088#issuecomment-2454831973)** - 5 months ago
-  - **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200#issuecomment-2440167283)** - 5 months ago
 
-<sub>updated: 2025-04-26 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-04-27 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
