@@ -1,13 +1,13 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 3 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 11 days ago
-  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 13 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 4 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 12 days ago
+  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 14 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8#issuecomment-2913071243)** - 9 days ago
-  - **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 12 days ago
+  - **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8#issuecomment-2913071243)** - 10 days ago
+  - **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 13 days ago
   - **[Bump com.google.guava:guava from 33.1.0-jre to 33.3.1-jre](https://github.com/petarov/apple-mdm-clients/pull/6#issuecomment-2835049988)** - 1 month ago
   - **[Bump com.google.guava:guava from 33.1.0-jre to 33.4.8-jre](https://github.com/petarov/apple-mdm-clients/pull/3#issuecomment-2834568299)** - 1 month ago
   - **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.8.0 to 0.10.0](https://github.com/petarov/apple-mdm-clients/pull/1#issuecomment-2834560869)** - 1 month ago
@@ -23,4 +23,4 @@
   - **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 4 months ago
   - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 5 months ago
 
-<sub>updated: 2025-06-06 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-06-07 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
