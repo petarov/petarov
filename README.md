@@ -1,19 +1,19 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 4 days ago
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 5 days ago
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 5 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 26 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 5 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 6 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 6 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 27 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8#issuecomment-2913071243)** - 24 days ago
-  - **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 27 days ago
+  - **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8#issuecomment-2913071243)** - 25 days ago
+  - **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 28 days ago
   - **[Bump com.google.guava:guava from 33.1.0-jre to 33.3.1-jre](https://github.com/petarov/apple-mdm-clients/pull/6#issuecomment-2835049988)** - 1 month ago
   - **[Bump com.google.guava:guava from 33.1.0-jre to 33.4.8-jre](https://github.com/petarov/apple-mdm-clients/pull/3#issuecomment-2834568299)** - 1 month ago
   - **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.8.0 to 0.10.0](https://github.com/petarov/apple-mdm-clients/pull/1#issuecomment-2834560869)** - 1 month ago
   - **[Anchor always set to (0.5, 0.5) after P2.enableBody](https://github.com/phaserjs/phaser/issues/938)** - 2 months ago
-  - **[game.add.spriteBatch parameters suggestion](https://github.com/phaserjs/phaser/issues/1000)** - 2 months ago
+  - **[game.add.spriteBatch parameters suggestion](https://github.com/phaserjs/phaser/issues/1000)** - 3 months ago
   - **[TLS 1.3 Support](https://github.com/eclipse-vertx/vert.x/issues/2729#issuecomment-2701144322)** - 3 months ago
   - **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044#issuecomment-2698360200)** - 3 months ago
   - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 3 months ago
@@ -24,4 +24,4 @@
   - **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 5 months ago
   - **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60#issuecomment-2560302176)** - 5 months ago
 
-<sub>updated: 2025-06-21 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-06-22 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
