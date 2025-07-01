@@ -1,8 +1,8 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 5 days ago
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 14 days ago
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 14 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - in the last 24 hours
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 15 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 15 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
@@ -22,4 +22,4 @@
   - **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - 5 months ago
   - **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 5 months ago
 
-<sub>updated: 2025-06-30 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-07-01 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
