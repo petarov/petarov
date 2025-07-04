@@ -1,9 +1,9 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - in the last 24 hours
-  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 1 day ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 2 days ago
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 17 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 1 day ago
+  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 2 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 3 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 18 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
@@ -23,4 +23,4 @@
   - **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - 5 months ago
   - **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 5 months ago
 
-<sub>updated: 2025-07-03 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-07-04 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
