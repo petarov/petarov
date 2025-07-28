@@ -1,12 +1,12 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 5 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 24 days ago
-  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 25 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 6 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 25 days ago
+  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 26 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8#issuecomment-2913071243)** - 1 month ago
+  - **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8#issuecomment-2913071243)** - 2 months ago
   - **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 2 months ago
   - **[Bump com.google.guava:guava from 33.1.0-jre to 33.3.1-jre](https://github.com/petarov/apple-mdm-clients/pull/6#issuecomment-2835049988)** - 2 months ago
   - **[Bump com.google.guava:guava from 33.1.0-jre to 33.4.8-jre](https://github.com/petarov/apple-mdm-clients/pull/3#issuecomment-2834568299)** - 2 months ago
@@ -20,4 +20,4 @@
   - **[CVE-2024-57699 in net.minidev:json-smart@2.5.1](https://github.com/AzureAD/microsoft-authentication-library-for-java/issues/908#issuecomment-2666788607)** - 5 months ago
   - **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098#issuecomment-2642780976)** - 5 months ago
 
-<sub>updated: 2025-07-27 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-07-28 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
