@@ -1,7 +1,7 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - in the last 24 hours
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 12 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 1 day ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 13 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
@@ -19,4 +19,4 @@
   - **[CVE-2024-57699 in net.minidev:json-smart@2.5.1](https://github.com/AzureAD/microsoft-authentication-library-for-java/issues/908#issuecomment-2666788607)** - 5 months ago
   - **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098#issuecomment-2642780976)** - 5 months ago
 
-<sub>updated: 2025-08-03 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-08-04 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
