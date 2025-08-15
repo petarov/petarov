@@ -1,7 +1,7 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 11 days ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 23 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 12 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 24 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
@@ -18,4 +18,4 @@
   - **[The version is now `jscep-2.5.8`?](https://github.com/seize-the-dave/jscep/issues/364)** - 5 months ago
   - **[CVE-2024-57699 in net.minidev:json-smart@2.5.1](https://github.com/AzureAD/microsoft-authentication-library-for-java/issues/908#issuecomment-2666788607)** - 5 months ago
 
-<sub>updated: 2025-08-14 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-08-15 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
