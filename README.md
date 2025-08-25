@@ -1,6 +1,6 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 21 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 22 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
@@ -15,4 +15,4 @@
   - **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044#issuecomment-2698360200)** - 5 months ago
   - **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 5 months ago
 
-<sub>updated: 2025-08-24 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-08-25 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
