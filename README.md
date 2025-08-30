@@ -1,6 +1,6 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 26 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 27 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
@@ -14,4 +14,4 @@
   - **[TLS 1.3 Support](https://github.com/eclipse-vertx/vert.x/issues/2729#issuecomment-2701144322)** - 5 months ago
   - **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044#issuecomment-2698360200)** - 5 months ago
 
-<sub>updated: 2025-08-29 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
+<sub>updated: 2025-08-30 | gh(@]vexelon.net | [sponsorship](https://liberapay.com/petarov)</sub>
