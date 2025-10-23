@@ -1,9 +1,9 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 7 days ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 14 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 17 days ago
-  - **[starghlist](https://github.com/petarov/starghlist)** - 25 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 8 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 15 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 18 days ago
+  - **[starghlist](https://github.com/petarov/starghlist)** - 26 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
@@ -15,4 +15,4 @@
   - **[Bump com.google.guava:guava from 33.1.0-jre to 33.4.8-jre](https://github.com/petarov/apple-mdm-clients/pull/3#issuecomment-2834568299)** - 5 months ago
   - **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.8.0 to 0.10.0](https://github.com/petarov/apple-mdm-clients/pull/1#issuecomment-2834560869)** - 5 months ago
 
-<sub>updated: 2025-10-22 | gh(@]vexelon.net</sub>
+<sub>updated: 2025-10-23 | gh(@]vexelon.net</sub>
