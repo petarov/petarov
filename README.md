@@ -1,8 +1,8 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 2 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 3 days ago
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 10 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 3 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 4 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 11 days ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
@@ -11,4 +11,4 @@
   - **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8#issuecomment-2913071243)** - 5 months ago
   - **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 5 months ago
 
-<sub>updated: 2025-11-06 | gh(@]vexelon.net</sub>
+<sub>updated: 2025-11-07 | gh(@]vexelon.net</sub>
