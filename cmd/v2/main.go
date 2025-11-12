@@ -9,9 +9,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/google/go-github/github"
+	"github.com/google/go-github/v78/github"
 	helper "github.com/petarov/petarov/internal"
-	"golang.org/x/oauth2"
 )
 
 const (
@@ -41,9 +40,7 @@ func main() {
 	token := os.Getenv("GITHUB_TOKEN")
 
 	ctx := context.Background()
-	ts := oauth2.StaticTokenSource(&oauth2.Token{AccessToken: token})
-	tc := oauth2.NewClient(ctx, ts)
-	client := github.NewClient(tc)
+	client := github.NewClient(nil).WithAuthToken(token)
 
 	index := helper.NewAnySet[int64]()
 
@@ -114,7 +111,7 @@ func fetchEntries(ctx context.Context, client *github.Client, query string, inde
 						// See: https://docs.github.com/en/rest/issues/comments?apiVersion=2022-11-28#list-issue-comments
 						// Sort:      "created",
 						// Direction: "desc",
-						Since: then,
+						Since: &then,
 						// Fetch no more than 25 comments back. I think more makes little to no sense at this point.
 						ListOptions: github.ListOptions{PerPage: 25},
 					})
@@ -131,8 +128,8 @@ func fetchEntries(ctx context.Context, client *github.Client, query string, inde
 								id:        entryId,
 								title:     issue.GetTitle(),
 								link:      comment.GetHTMLURL(),
-								createdAt: comment.GetCreatedAt(),
-								updatedAt: comment.GetUpdatedAt(),
+								createdAt: comment.GetCreatedAt().Time,
+								updatedAt: comment.GetUpdatedAt().Time,
 							}
 							entries = append(entries, entry)
 							index.Add(entryId)
@@ -155,8 +152,8 @@ func fetchEntries(ctx context.Context, client *github.Client, query string, inde
 				id:        entryId,
 				title:     issue.GetTitle(),
 				link:      issue.GetHTMLURL(),
-				createdAt: issue.GetCreatedAt(),
-				updatedAt: issue.GetUpdatedAt(),
+				createdAt: issue.GetCreatedAt().Time,
+				updatedAt: issue.GetUpdatedAt().Time,
 			}
 			entries = append(entries, entry)
 			index.Add(entryId)
