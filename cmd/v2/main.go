@@ -5,8 +5,10 @@ import (
 	"fmt"
 	"log"
 	"math"
+	"math/rand/v2"
 	"os"
 	"sort"
+	"strings"
 	"time"
 
 	"github.com/google/go-github/v78/github"
@@ -63,12 +65,12 @@ func main() {
 	printEntries(comments)
 
 	// Recent repos
-	repos, err := getRepositories(ctx, client)
+	repos, random, err := getRepositories(ctx, client)
 	if err != nil {
 		log.Fatalf("repos: %v\n", err)
 	}
 
-	if err := writeReadme(repos, pulls, issues, comments); err != nil {
+	if err := writeReadme(repos, random, pulls, issues, comments); err != nil {
 		log.Fatalf("readme.md: %v\n", err)
 	}
 }
@@ -202,7 +204,7 @@ func isExcluded(repoName string) bool {
 	return false
 }
 
-func getRepositories(ctx context.Context, client *github.Client) (recent []Entry, err error) {
+func getRepositories(ctx context.Context, client *github.Client) (recent []Entry, random *Entry, err error) {
 	then := time.Now().Add(-ThresholdReposDays)
 	recent = make([]Entry, 0, ThresholdMaxRecentRepos)
 
@@ -219,13 +221,16 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 		},
 	})
 	if err != nil {
-		return nil, fmt.Errorf("error fetching user repositories: %v", err)
+		return nil, nil, fmt.Errorf("error fetching user repositories: %v", err)
 	}
 
-	for _, repo := range repos {
-		excluded := isExcluded(repo.GetName()) || repo.GetPushedAt().Before(then)
+	totalCount := 0
 
-		if !excluded {
+	for _, repo := range repos {
+		excluded := isExcluded(repo.GetName())
+		inactive := repo.GetPushedAt().Before(then)
+
+		if !excluded && !inactive {
 			entry := Entry{
 				id:        repo.GetID(),
 				title:     repo.GetName(),
@@ -249,7 +254,26 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 					recent[found] = entry
 				}
 			}
+		} else if inactive && !strings.Contains(strings.ToLower(repo.GetDescription()), "deprecated") {
+			// random repo?
+			entry := Entry{
+				id:        repo.GetID(),
+				title:     repo.GetName(),
+				link:      repo.GetHTMLURL(),
+				createdAt: repo.GetCreatedAt().Time,
+				updatedAt: repo.GetPushedAt().Time,
+			}
+
+			if random == nil {
+				random = &entry
+			} else {
+				if rand.IntN(totalCount) == 0 {
+					random = &entry
+				}
+			}
 		}
+
+		totalCount += 1
 	}
 
 	// orgas
@@ -265,13 +289,14 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 		for {
 			repos, resp, err := client.Repositories.ListByOrg(ctx, org, opt)
 			if err != nil {
-				return nil, fmt.Errorf("error fetching orga repositories: %v", err)
+				return nil, nil, fmt.Errorf("error fetching orga repositories: %v", err)
 			}
 
 			for _, repo := range repos {
-				excluded := isExcluded(repo.GetName()) || repo.GetPushedAt().Before(then)
+				excluded := isExcluded(repo.GetName())
+				inactive := repo.GetPushedAt().Before(then)
 
-				if !excluded {
+				if !excluded && !inactive {
 					entry := Entry{
 						id:        repo.GetID(),
 						title:     repo.GetName(),
@@ -293,9 +318,38 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 						}
 						if found != -1 {
 							recent[found] = entry
+						} else {
+							log.Println("random from orga")
+							// random repo?
+							if random == nil {
+								random = &entry
+							} else {
+								if rand.IntN(totalCount) == 0 {
+									random = &entry
+								}
+							}
+						}
+					}
+				} else if inactive && !strings.Contains(strings.ToLower(repo.GetDescription()), "deprecated") {
+					// random repo?
+					entry := Entry{
+						id:        repo.GetID(),
+						title:     repo.GetName(),
+						link:      repo.GetHTMLURL(),
+						createdAt: repo.GetCreatedAt().Time,
+						updatedAt: repo.GetPushedAt().Time,
+					}
+
+					if random == nil {
+						random = &entry
+					} else {
+						if rand.IntN(totalCount) == 0 {
+							random = &entry
 						}
 					}
 				}
+
+				totalCount += 1
 			}
 
 			if resp.NextPage == 0 {
@@ -306,10 +360,10 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 		}
 	}
 
-	return recent, nil
+	return recent, random, nil
 }
 
-func writeReadme(repos []Entry, pulls []Entry, issues []Entry, comments []Entry) error {
+func writeReadme(repos []Entry, randomRepo *Entry, pulls []Entry, issues []Entry, comments []Entry) error {
 	out, err := os.Create("README.md")
 	if err != nil {
 		return err
@@ -324,6 +378,12 @@ func writeReadme(repos []Entry, pulls []Entry, issues []Entry, comments []Entry)
 			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
 				repo.title, repo.link, helper.GetTimeAgo(repo.updatedAt.Local())))
 		}
+	}
+
+	if randomRepo != nil {
+		out.WriteString("\n**random**\n\n")
+		out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
+			randomRepo.title, randomRepo.link, helper.GetTimeAgo(randomRepo.updatedAt.Local())))
 	}
 
 	if len(pulls) > 0 || len(issues) > 0 || len(comments) > 0 {
