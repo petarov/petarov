@@ -209,7 +209,7 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 	recent = make([]Entry, 0, ThresholdMaxRecentRepos)
 
 	// user repos
-	repos, _, err := client.Repositories.List(ctx, Username, &github.RepositoryListOptions{
+	repos, _, err := client.Repositories.ListByAuthenticatedUser(ctx, &github.RepositoryListByAuthenticatedUserOptions{
 		Visibility: "public",
 		// Affiliation: "owner,organization_member",
 		// Type:        "owner,public",
