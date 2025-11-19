@@ -1,13 +1,13 @@
 **recent work** <sub>past 30 days</sub>
 
   - **[scintillated](https://github.com/kenamick/scintillated)** - in the last 24 hours
-  - **[sandbox](https://github.com/petarov/sandbox)** - 5 days ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 14 days ago
+  - **[sandbox](https://github.com/petarov/sandbox)** - 6 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 15 days ago
   - **[scintillated](https://github.com/kenamick/scintillated)** - in the last 24 hours
 
 **random**
 
-  - **[game-off-2012](https://github.com/kenamick/game-off-2012)** - 84 months ago
+  - **[java-panama-ssh2](https://github.com/petarov/java-panama-ssh2)** - 77 months ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
@@ -16,4 +16,4 @@
   - **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8#issuecomment-2913071243)** - 5 months ago
   - **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 5 months ago
 
-<sub>updated: 2025-11-18 | gh(@]vexelon.net</sub>
+<sub>updated: 2025-11-19 | gh(@]vexelon.net</sub>
