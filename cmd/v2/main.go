@@ -276,89 +276,89 @@ func getRepositories(ctx context.Context, client *github.Client) (recent []Entry
 		totalCount += 1
 	}
 
-	// orgas
+	// // orgas
 
-	opt := &github.RepositoryListByOrgOptions{
-		ListOptions: github.ListOptions{PerPage: 20},
-		Type:        "public",
-	}
+	// opt := &github.RepositoryListByOrgOptions{
+	// 	ListOptions: github.ListOptions{PerPage: 20},
+	// 	Type:        "public",
+	// }
 
-	for _, org := range Orgs {
-		opt.Page = 0
+	// for _, org := range Orgs {
+	// 	opt.Page = 0
 
-		for {
-			repos, resp, err := client.Repositories.ListByOrg(ctx, org, opt)
-			if err != nil {
-				return nil, nil, fmt.Errorf("error fetching orga repositories: %v", err)
-			}
+	// 	for {
+	// 		repos, resp, err := client.Repositories.ListByOrg(ctx, org, opt)
+	// 		if err != nil {
+	// 			return nil, nil, fmt.Errorf("error fetching orga repositories: %v", err)
+	// 		}
 
-			for _, repo := range repos {
-				excluded := isExcluded(repo.GetName())
-				inactive := repo.GetPushedAt().Before(then)
+	// 		for _, repo := range repos {
+	// 			excluded := isExcluded(repo.GetName())
+	// 			inactive := repo.GetPushedAt().Before(then)
 
-				if !excluded && !inactive {
-					entry := Entry{
-						id:        repo.GetID(),
-						title:     repo.GetName(),
-						link:      repo.GetHTMLURL(),
-						createdAt: repo.GetCreatedAt().Time,
-						updatedAt: repo.GetPushedAt().Time,
-					}
+	// 			if !excluded && !inactive {
+	// 				entry := Entry{
+	// 					id:        repo.GetID(),
+	// 					title:     repo.GetName(),
+	// 					link:      repo.GetHTMLURL(),
+	// 					createdAt: repo.GetCreatedAt().Time,
+	// 					updatedAt: repo.GetPushedAt().Time,
+	// 				}
 
-					// recent commits?
-					if len(recent) < ThresholdMaxRecentRepos {
-						recent = append(recent, entry)
-					} else {
-						found := -1
-						for i, r := range recent {
-							if repo.GetPushedAt().After(r.updatedAt) &&
-								(found == -1 || recent[found].updatedAt.After(r.updatedAt)) {
-								found = i
-							}
-						}
-						if found != -1 {
-							recent[found] = entry
-						} else {
-							log.Println("random from orga")
-							// random repo?
-							if random == nil {
-								random = &entry
-							} else {
-								if rand.IntN(totalCount) == 0 {
-									random = &entry
-								}
-							}
-						}
-					}
-				} else if inactive && !strings.Contains(strings.ToLower(repo.GetDescription()), "deprecated") {
-					// random repo?
-					entry := Entry{
-						id:        repo.GetID(),
-						title:     repo.GetName(),
-						link:      repo.GetHTMLURL(),
-						createdAt: repo.GetCreatedAt().Time,
-						updatedAt: repo.GetPushedAt().Time,
-					}
+	// 				// recent commits?
+	// 				if len(recent) < ThresholdMaxRecentRepos {
+	// 					recent = append(recent, entry)
+	// 				} else {
+	// 					found := -1
+	// 					for i, r := range recent {
+	// 						if repo.GetPushedAt().After(r.updatedAt) &&
+	// 							(found == -1 || recent[found].updatedAt.After(r.updatedAt)) {
+	// 							found = i
+	// 						}
+	// 					}
+	// 					if found != -1 {
+	// 						recent[found] = entry
+	// 					} else {
+	// 						log.Println("random from orga")
+	// 						// random repo?
+	// 						if random == nil {
+	// 							random = &entry
+	// 						} else {
+	// 							if rand.IntN(totalCount) == 0 {
+	// 								random = &entry
+	// 							}
+	// 						}
+	// 					}
+	// 				}
+	// 			} else if inactive && !strings.Contains(strings.ToLower(repo.GetDescription()), "deprecated") {
+	// 				// random repo?
+	// 				entry := Entry{
+	// 					id:        repo.GetID(),
+	// 					title:     repo.GetName(),
+	// 					link:      repo.GetHTMLURL(),
+	// 					createdAt: repo.GetCreatedAt().Time,
+	// 					updatedAt: repo.GetPushedAt().Time,
+	// 				}
 
-					if random == nil {
-						random = &entry
-					} else {
-						if rand.IntN(totalCount) == 0 {
-							random = &entry
-						}
-					}
-				}
+	// 				if random == nil {
+	// 					random = &entry
+	// 				} else {
+	// 					if rand.IntN(totalCount) == 0 {
+	// 						random = &entry
+	// 					}
+	// 				}
+	// 			}
 
-				totalCount += 1
-			}
+	// 			totalCount += 1
+	// 		}
 
-			if resp.NextPage == 0 {
-				break
-			}
+	// 		if resp.NextPage == 0 {
+	// 			break
+	// 		}
 
-			opt.Page = resp.NextPage
-		}
-	}
+	// 		opt.Page = resp.NextPage
+	// 	}
+	// }
 
 	return recent, random, nil
 }
