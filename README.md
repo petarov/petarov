@@ -1,18 +1,17 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 13 days ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 20 days ago
-  - **[awesome-mdm-dev](https://github.com/petarov/awesome-mdm-dev)** - 29 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 14 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 21 days ago
 
 **random**
 
-  - **[gameoff-2023](https://github.com/olivergreening/gameoff-2023)** - 24 months ago
+  - **[spaceghost-cga](https://github.com/kenamick/spaceghost-cga)** - 83 months ago
 
 **pull requests, issues, comments** <sub>past 6 months</sub>
 
-  - **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157#issuecomment-3664568316)** - 4 days ago
-  - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 20 days ago
+  - **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157#issuecomment-3664568316)** - 5 days ago
+  - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 21 days ago
   - **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116#issuecomment-3252820064)** - 3 months ago
   - **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645#issuecomment-3242259065)** - 3 months ago
 
-<sub>updated: 2025-12-22 | gh(@]vexelon.net</sub>
+<sub>updated: 2025-12-23 | gh(@]vexelon.net</sub>
