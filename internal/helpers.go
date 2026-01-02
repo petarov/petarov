@@ -53,3 +53,15 @@ func ExtractGitHubOwnerAndRepo(repoURL string) (owner, repo string, err error) {
 
 	return parts[1], parts[2], nil
 }
+
+func ExtractGitHubRepoFullName(repoURL string) string {
+	// e.g., https://github.com/octocat/Hello-World/pull/1347
+	stripped := strings.TrimPrefix(repoURL, "https://github.com/")
+
+	parts := strings.Split(stripped, "/")
+	if len(parts) < 2 {
+		return repoURL
+	}
+
+	return fmt.Sprintf("%s/%s", parts[0], parts[1])
+}
