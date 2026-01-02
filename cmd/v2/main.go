@@ -2,6 +2,7 @@ package main
 
 import (
 	"context"
+	"flag"
 	"fmt"
 	"log"
 	"math"
@@ -31,6 +32,7 @@ type Entry struct {
 	id        int64
 	title     string
 	link      string
+	repoName  string
 	createdAt time.Time
 	updatedAt time.Time
 }
@@ -38,10 +40,21 @@ type Entry struct {
 type IdSet = helper.AnySet[int64]
 
 func main() {
+	var genComments bool
+	flag.BoolVar(&genComments, "gen-comments", false, "Generate just ALLCMNTS.MD file with all comments")
+	flag.Parse()
+
 	token := os.Getenv("GITHUB_TOKEN")
 
 	ctx := context.Background()
 	client := github.NewClient(nil).WithAuthToken(token)
+
+	if genComments {
+		if err := generateCommentsFile(ctx, client); err != nil {
+			log.Fatalf("comments generation: %v\n", err)
+		}
+		return
+	}
 
 	index := helper.NewAnySet[int64]()
 
@@ -63,7 +76,6 @@ func main() {
 	}
 	printEntries(comments)
 
-	// Recent repos
 	repos, random, err := getRepositories(ctx, client)
 	if err != nil {
 		log.Fatalf("repos: %v\n", err)
@@ -368,26 +380,25 @@ func writeReadme(repos []Entry, randomRepo *Entry, pulls []Entry, issues []Entry
 	if err != nil {
 		return err
 	}
-
 	defer out.Close()
 
 	if len(repos) > 0 {
-		out.WriteString(fmt.Sprintf("**recent work** <sub>past %d days</sub>\n\n", int(ThresholdReposDays.Hours()/24)))
+		fmt.Fprintf(out, "**recent work** <sub>past %d days</sub>\n\n", int(ThresholdReposDays.Hours()/24))
 
 		for _, repo := range repos {
-			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
-				repo.title, repo.link, helper.GetTimeAgo(repo.updatedAt.Local())))
+			fmt.Fprintf(out, "  - **[%s](%s)** - %s\n",
+				repo.title, repo.link, helper.GetTimeAgo(repo.updatedAt.Local()))
 		}
 	}
 
 	if randomRepo != nil {
 		out.WriteString("\n**random**\n\n")
-		out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
-			randomRepo.title, randomRepo.link, helper.GetTimeAgo(randomRepo.updatedAt.Local())))
+		fmt.Fprintf(out, "  - **[%s](%s)** - %s\n",
+			randomRepo.title, randomRepo.link, helper.GetTimeAgo(randomRepo.updatedAt.Local()))
 	}
 
 	if len(pulls) > 0 || len(issues) > 0 || len(comments) > 0 {
-		out.WriteString(fmt.Sprintf("\n**pull requests, issues, comments** <sub>past %d months</sub>\n\n", int(math.Ceil(ThresholdActivityDays.Hours()/24/30.44))))
+		fmt.Fprintf(out, "\n**pull requests, issues, comments** <sub>past %d months, [all](ALLCMNTS.MD)</sub>\n\n", int(math.Ceil(ThresholdActivityDays.Hours()/24/30.44)))
 
 		// Merge everything and sort by date
 		all := append(append(pulls, issues...), comments...)
@@ -397,8 +408,8 @@ func writeReadme(repos []Entry, randomRepo *Entry, pulls []Entry, issues []Entry
 		})
 
 		for _, entry := range all {
-			out.WriteString(fmt.Sprintf("  - **[%s](%s)** - %s\n",
-				entry.title, entry.link, helper.GetTimeAgo(entry.updatedAt)))
+			fmt.Fprintf(out, "  - **[%s](%s)** - %s\n",
+				entry.title, entry.link, helper.GetTimeAgo(entry.updatedAt))
 		}
 	}
 
@@ -406,5 +417,99 @@ func writeReadme(repos []Entry, randomRepo *Entry, pulls []Entry, issues []Entry
 	out.WriteString(time.Now().UTC().Format("2006-01-02"))
 	out.WriteString(" | gh(@]vexelon.net</sub>")
 
+	return nil
+}
+
+func fetchAllUserActivity(ctx context.Context, client *github.Client) (entries []Entry, err error) {
+	index := helper.NewAnySet[int64]()
+	var allEntries []Entry
+
+	queries := []string{
+		"author:@me type:issue",
+		"author:@me type:pr",
+		"commenter:@me type:issue",
+		"commenter:@me type:pr",
+	}
+
+	for _, query := range queries {
+		fmt.Printf("Fetching: %s\n", query)
+
+		page := 1
+		for {
+			opts := &github.SearchOptions{
+				Sort:  "updated",
+				Order: "desc",
+				ListOptions: github.ListOptions{
+					Page:    page,
+					PerPage: 100,
+				},
+			}
+
+			searchResult, resp, err := client.Search.Issues(ctx, query, opts)
+			if err != nil {
+				return nil, fmt.Errorf("error fetching %s: %v", query, err)
+			}
+
+			pageEntries := make([]Entry, 0, len(searchResult.Issues))
+
+			for _, issue := range searchResult.Issues {
+				entryId := issue.GetID()
+				if !index.Contains(entryId) {
+					entry := Entry{
+						id:        entryId,
+						title:     issue.GetTitle(),
+						link:      issue.GetHTMLURL(),
+						createdAt: issue.GetCreatedAt().Time,
+						updatedAt: issue.GetUpdatedAt().Time,
+						repoName:  helper.ExtractGitHubRepoFullName(issue.GetHTMLURL()),
+					}
+					pageEntries = append(pageEntries, entry)
+					index.Add(entryId)
+				}
+			}
+
+			allEntries = append(allEntries, pageEntries...)
+			fmt.Printf("Page %d: %d items (total: %d)\n", page, len(pageEntries), len(allEntries))
+
+			if resp == nil || resp.NextPage == 0 || len(searchResult.Issues) == 0 {
+				break
+			}
+			page = resp.NextPage
+		}
+	}
+
+	sort.Slice(allEntries, func(i, j int) bool {
+		return allEntries[i].updatedAt.After(allEntries[j].updatedAt)
+	})
+
+	fmt.Printf("Total unique entries: %d\n", len(allEntries))
+	return allEntries, nil
+}
+
+func generateCommentsFile(ctx context.Context, client *github.Client) error {
+	fmt.Println("Generating ALLCMNTS.MD file...")
+
+	entries, err := fetchAllUserActivity(ctx, client)
+	if err != nil {
+		return err
+	}
+
+	out, err := os.Create("ALLCMNTS.MD")
+	if err != nil {
+		return err
+	}
+	defer out.Close()
+
+	out.WriteString("**pull requests, issues, comments** <sub>all</sub>\n\n")
+	// count := len(entries)
+
+	for _, entry := range entries {
+		timeAgo := helper.GetTimeAgo(entry.updatedAt)
+		fmt.Fprintf(out, "- `%s` **[%s](%s)** - %s\n",
+			entry.repoName, entry.title, entry.link, timeAgo)
+		// count -= 1
+	}
+
+	fmt.Printf("ALLCMNTS.MD entries generated: %d\n", len(entries))
 	return nil
 }
