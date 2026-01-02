@@ -33,8 +33,10 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-go-
 
-      - name: Generate README.md
-        run: GITHUB_TOKEN="${{ secrets.GHTKN }}" go run $GITHUB_WORKSPACE/cmd/v2/main.go
+      - name: Generate .md files
+        run: |
+          GITHUB_TOKEN="${{ secrets.GHTKN }}" go run $GITHUB_WORKSPACE/cmd/v2/main.go
+          GITHUB_TOKEN="${{ secrets.GHTKN }}" go run $GITHUB_WORKSPACE/cmd/v2/main.go --gen-comments
 
       - name: Configure Git
         run: |
@@ -44,6 +46,7 @@ jobs:
       - name: Commit changes
         run: |
           git add README.md || true
+          git add ALLCMNTS.md || true
           git commit -m 'Scheduled activity update' || true
       
       - name: Push changes

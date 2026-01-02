@@ -41,7 +41,7 @@ type IdSet = helper.AnySet[int64]
 
 func main() {
 	var genComments bool
-	flag.BoolVar(&genComments, "gen-comments", false, "Generate just ALLCMNTS.MD file with all comments")
+	flag.BoolVar(&genComments, "gen-comments", false, "Generate just ALLCMNTS.md file with all comments")
 	flag.Parse()
 
 	token := os.Getenv("GITHUB_TOKEN")
@@ -398,7 +398,7 @@ func writeReadme(repos []Entry, randomRepo *Entry, pulls []Entry, issues []Entry
 	}
 
 	if len(pulls) > 0 || len(issues) > 0 || len(comments) > 0 {
-		fmt.Fprintf(out, "\n**pull requests, issues, comments** <sub>past %d months, [all](ALLCMNTS.MD)</sub>\n\n", int(math.Ceil(ThresholdActivityDays.Hours()/24/30.44)))
+		fmt.Fprintf(out, "\n**pull requests, issues, comments** <sub>past %d months, [all](ALLCMNTS.md)</sub>\n\n", int(math.Ceil(ThresholdActivityDays.Hours()/24/30.44)))
 
 		// Merge everything and sort by date
 		all := append(append(pulls, issues...), comments...)
@@ -487,14 +487,14 @@ func fetchAllUserActivity(ctx context.Context, client *github.Client) (entries [
 }
 
 func generateCommentsFile(ctx context.Context, client *github.Client) error {
-	fmt.Println("Generating ALLCMNTS.MD file...")
+	fmt.Println("Generating ALLCMNTS.md file...")
 
 	entries, err := fetchAllUserActivity(ctx, client)
 	if err != nil {
 		return err
 	}
 
-	out, err := os.Create("ALLCMNTS.MD")
+	out, err := os.Create("ALLCMNTS.md")
 	if err != nil {
 		return err
 	}
@@ -510,6 +510,6 @@ func generateCommentsFile(ctx context.Context, client *github.Client) error {
 		// count -= 1
 	}
 
-	fmt.Printf("ALLCMNTS.MD entries generated: %d\n", len(entries))
+	fmt.Printf("ALLCMNTS.md entries generated: %d\n", len(entries))
 	return nil
 }

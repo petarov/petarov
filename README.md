@@ -5,9 +5,9 @@
 
 **random**
 
-  - **[pravitelstvobg](https://github.com/vexelon-dot-net/pravitelstvobg)** - 9 years ago
+  - **[game-design-docs](https://github.com/kenamick/game-design-docs)** - 5 years ago
 
-**pull requests, issues, comments** <sub>past 6 months, [all](ALLCMNTS.MD)</sub>
+**pull requests, issues, comments** <sub>past 6 months, [all](ALLCMNTS.md)</sub>
 
   - **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157#issuecomment-3664568316)** - 16 days ago
   - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 1 month ago
