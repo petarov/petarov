@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 17 days ago
-- `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 24 days ago
+- `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 25 days ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 2 months ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 3 months ago
@@ -23,7 +23,7 @@
 - `phaserjs/phaser` **[grunt docs -> not found: jsdoc](https://github.com/phaserjs/phaser/issues/1491)** - 9 months ago
 - `eclipse-vertx/vert.x` **[TLS 1.3 Support](https://github.com/eclipse-vertx/vert.x/issues/2729)** - 9 months ago
 - `eclipse-vertx/vert.x` **[Unable to disable file caching in 3.5.1 in intelliJ IDEA](https://github.com/eclipse-vertx/vert.x/issues/2423)** - 9 months ago
-- `jchambers/pushy` **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044)** - 9 months ago
+- `jchambers/pushy` **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044)** - 10 months ago
 - `petarov/apns-push-cmd` **[Sending push from Windows](https://github.com/petarov/apns-push-cmd/issues/8)** - 10 months ago
 - `AzureAD/microsoft-authentication-library-for-java` **[CVE-2024-57699 in net.minidev:json-smart@2.5.1](https://github.com/AzureAD/microsoft-authentication-library-for-java/issues/908)** - 10 months ago
 - `petarov/apns-push-cmd` **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 10 months ago
