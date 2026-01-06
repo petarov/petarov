@@ -1,7 +1,9 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 18 days ago
-- `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 26 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - in the last 24 hours
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - in the last 24 hours
+- `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 19 days ago
+- `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 27 days ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 2 months ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 4 months ago
@@ -33,8 +35,8 @@
 - `brettwooldridge/HikariCP` **[SQLTimeoutException closes connection](https://github.com/brettwooldridge/HikariCP/issues/1388)** - 11 months ago
 - `fengtan/ldap-explorer` **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - 11 months ago
 - `fengtan/ldap-explorer` **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 11 months ago
-- `fengtan/ldap-explorer` **[FEATURE: Decode Active Directory server GUIDs](https://github.com/fengtan/ldap-explorer/issues/33)** - 11 months ago
-- `fengtan/ldap-explorer` **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60)** - 11 months ago
+- `fengtan/ldap-explorer` **[FEATURE: Decode Active Directory server GUIDs](https://github.com/fengtan/ldap-explorer/issues/33)** - 1 year ago
+- `fengtan/ldap-explorer` **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60)** - 1 year ago
 - `AzureAD/microsoft-authentication-library-for-objc` **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 1 year ago
 - `cooperspencer/gickup` **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200)** - 1 year ago
 - `mukel/llama3.java` **[NI does not work on Mac/AMR64 ](https://github.com/mukel/llama3.java/issues/19)** - 1 year ago
@@ -51,8 +53,8 @@
 - `kenamick/game-off-2017` **[You can't hit when invincible](https://github.com/kenamick/game-off-2017/issues/16)** - 2 years ago
 - `kenamick/game-off-2017` **[Improve enemies AI](https://github.com/kenamick/game-off-2017/issues/15)** - 2 years ago
 - `kenamick/game-off-2017` **[Font issues](https://github.com/kenamick/game-off-2017/issues/17)** - 2 years ago
-- `kenamick/game-off-2017` **[HUD: Enemies counter](https://github.com/kenamick/game-off-2017/issues/12)** - 2 years ago
 - `kenamick/game-off-2017` **[Game Score & Hall of Fame](https://github.com/kenamick/game-off-2017/issues/13)** - 2 years ago
+- `kenamick/game-off-2017` **[HUD: Enemies counter](https://github.com/kenamick/game-off-2017/issues/12)** - 2 years ago
 - `kenamick/game-off-2017` **[Breakable objects](https://github.com/kenamick/game-off-2017/issues/11)** - 2 years ago
 - `kenamick/game-off-2017` **[Player moves too slow or seems like moving too slow](https://github.com/kenamick/game-off-2017/issues/8)** - 2 years ago
 - `petarov/translitbg.js` **[Update translitbg.js](https://github.com/petarov/translitbg.js/pull/83)** - 2 years ago
@@ -317,7 +319,7 @@
 - `cmackay/google-analytics-plugin` **[COOL-751 Fix conflict with Google Firebase on Android](https://github.com/cmackay/google-analytics-plugin/pull/72)** - 8 years ago
 - `cmackay/google-analytics-plugin` **[Feature/#64 multiple trackers](https://github.com/cmackay/google-analytics-plugin/pull/73)** - 8 years ago
 - `cmackay/google-analytics-plugin` **[Add support for multiple trackers](https://github.com/cmackay/google-analytics-plugin/issues/64)** - 8 years ago
-- `akhikhl/wuff` **[Eclipse sdk download fails for mac, luna, mars.](https://github.com/akhikhl/wuff/issues/111)** - 8 years ago
+- `akhikhl/wuff` **[Eclipse sdk download fails for mac, luna, mars.](https://github.com/akhikhl/wuff/issues/111)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[JSONP поддържка в API-то](https://github.com/vexelon-dot-net/currencybg.server/issues/38)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#30 users info](https://github.com/vexelon-dot-net/currencybg.app/pull/34)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/minor updates and fixes](https://github.com/vexelon-dot-net/currencybg.app/pull/33)** - 9 years ago
