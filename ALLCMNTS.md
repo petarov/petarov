@@ -1,9 +1,9 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 3 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 3 days ago
-- `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 22 days ago
-- `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 30 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 4 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 4 days ago
+- `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 23 days ago
+- `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 1 month ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 2 months ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 4 months ago
@@ -30,7 +30,7 @@
 - `AzureAD/microsoft-authentication-library-for-java` **[CVE-2024-57699 in net.minidev:json-smart@2.5.1](https://github.com/AzureAD/microsoft-authentication-library-for-java/issues/908)** - 10 months ago
 - `petarov/apns-push-cmd` **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 10 months ago
 - `seize-the-dave/jscep` **[The version is now `jscep-2.5.8`?](https://github.com/seize-the-dave/jscep/issues/364)** - 10 months ago
-- `jchambers/pushy` **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098)** - 10 months ago
+- `jchambers/pushy` **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098)** - 11 months ago
 - `seize-the-dave/jscep` **[High security alert found in jscep lib](https://github.com/seize-the-dave/jscep/issues/304)** - 11 months ago
 - `brettwooldridge/HikariCP` **[SQLTimeoutException closes connection](https://github.com/brettwooldridge/HikariCP/issues/1388)** - 11 months ago
 - `fengtan/ldap-explorer` **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - 11 months ago
@@ -398,8 +398,8 @@
 - `vexelon-dot-net/bgrates` **[Добавяне на фиксирани валути ](https://github.com/vexelon-dot-net/bgrates/issues/21)** - 9 years ago
 - `vexelon-dot-net/bgrates` **[Филтър на валути ](https://github.com/vexelon-dot-net/bgrates/issues/22)** - 9 years ago
 - `vexelon-dot-net/bgrates` **[Проблем със Code Formatter в Android Studio](https://github.com/vexelon-dot-net/bgrates/issues/25)** - 9 years ago
-- `schteppe/p2.js` **[DOM rendering demo](https://github.com/schteppe/p2.js/issues/45)** - 9 years ago
-- `vexelon-dot-net/bgrates` **[Проблем със cookie от сайта на БНБ](https://github.com/vexelon-dot-net/bgrates/issues/24)** - 9 years ago
+- `schteppe/p2.js` **[DOM rendering demo](https://github.com/schteppe/p2.js/issues/45)** - 10 years ago
+- `vexelon-dot-net/bgrates` **[Проблем със cookie от сайта на БНБ](https://github.com/vexelon-dot-net/bgrates/issues/24)** - 10 years ago
 - `ionic-team/ionic-ion-drawer` **[The drawer is close or open when I scroll down or up](https://github.com/ionic-team/ionic-ion-drawer/issues/6)** - 10 years ago
 - `johndevs/gradle-vaadin-plugin` **[plus(Iterable<FileCollection>) warning](https://github.com/johndevs/gradle-vaadin-plugin/issues/209)** - 10 years ago
 - `vexelon-dot-net/bgrates` **[Crash при първоначално стартиране](https://github.com/vexelon-dot-net/bgrates/issues/23)** - 10 years ago
