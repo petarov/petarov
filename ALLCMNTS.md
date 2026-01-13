@@ -1,8 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 6 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 6 days ago
-- `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 25 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 7 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 7 days ago
+- `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 26 days ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 1 month ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 2 months ago
@@ -22,7 +22,7 @@
 - `phaserjs/phaser` **[Animation object missing a 'resume' function.](https://github.com/phaserjs/phaser/issues/878)** - 9 months ago
 - `phaserjs/phaser` **[Phaser for mobile frameworks (PhoneGap/IntelXDK) without server connection](https://github.com/phaserjs/phaser/issues/833)** - 9 months ago
 - `phaserjs/phaser` **[P2, sprite with a shape and collideWorldBounds bug](https://github.com/phaserjs/phaser/issues/1010)** - 9 months ago
-- `phaserjs/phaser` **[grunt docs -> not found: jsdoc](https://github.com/phaserjs/phaser/issues/1491)** - 9 months ago
+- `phaserjs/phaser` **[grunt docs -> not found: jsdoc](https://github.com/phaserjs/phaser/issues/1491)** - 10 months ago
 - `eclipse-vertx/vert.x` **[TLS 1.3 Support](https://github.com/eclipse-vertx/vert.x/issues/2729)** - 10 months ago
 - `eclipse-vertx/vert.x` **[Unable to disable file caching in 3.5.1 in intelliJ IDEA](https://github.com/eclipse-vertx/vert.x/issues/2423)** - 10 months ago
 - `jchambers/pushy` **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044)** - 10 months ago
