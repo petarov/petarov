@@ -1,8 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 7 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 7 days ago
-- `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 26 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 8 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 8 days ago
+- `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 27 days ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 1 month ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 2 months ago
@@ -397,7 +397,7 @@
 - `Automattic/node-canvas` **[Error npm installing canvas@1.1.3 on Windows (GTK does not come with libpng.lib)](https://github.com/Automattic/node-canvas/issues/412)** - 9 years ago
 - `vexelon-dot-net/bgrates` **[Добавяне на фиксирани валути ](https://github.com/vexelon-dot-net/bgrates/issues/21)** - 9 years ago
 - `vexelon-dot-net/bgrates` **[Филтър на валути ](https://github.com/vexelon-dot-net/bgrates/issues/22)** - 9 years ago
-- `vexelon-dot-net/bgrates` **[Проблем със Code Formatter в Android Studio](https://github.com/vexelon-dot-net/bgrates/issues/25)** - 9 years ago
+- `vexelon-dot-net/bgrates` **[Проблем със Code Formatter в Android Studio](https://github.com/vexelon-dot-net/bgrates/issues/25)** - 10 years ago
 - `schteppe/p2.js` **[DOM rendering demo](https://github.com/schteppe/p2.js/issues/45)** - 10 years ago
 - `vexelon-dot-net/bgrates` **[Проблем със cookie от сайта на БНБ](https://github.com/vexelon-dot-net/bgrates/issues/24)** - 10 years ago
 - `ionic-team/ionic-ion-drawer` **[The drawer is close or open when I scroll down or up](https://github.com/ionic-team/ionic-ion-drawer/issues/6)** - 10 years ago
