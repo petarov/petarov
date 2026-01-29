@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 11 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 11 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - in the last 24 hours
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 12 days ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 1 month ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 1 month ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 months ago
@@ -28,11 +28,11 @@
 - `jchambers/pushy` **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044)** - 10 months ago
 - `petarov/apns-push-cmd` **[Sending push from Windows](https://github.com/petarov/apns-push-cmd/issues/8)** - 10 months ago
 - `AzureAD/microsoft-authentication-library-for-java` **[CVE-2024-57699 in net.minidev:json-smart@2.5.1](https://github.com/AzureAD/microsoft-authentication-library-for-java/issues/908)** - 10 months ago
-- `petarov/apns-push-cmd` **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 10 months ago
+- `petarov/apns-push-cmd` **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 11 months ago
 - `seize-the-dave/jscep` **[The version is now `jscep-2.5.8`?](https://github.com/seize-the-dave/jscep/issues/364)** - 11 months ago
 - `jchambers/pushy` **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098)** - 11 months ago
 - `seize-the-dave/jscep` **[High security alert found in jscep lib](https://github.com/seize-the-dave/jscep/issues/304)** - 11 months ago
-- `brettwooldridge/HikariCP` **[SQLTimeoutException closes connection](https://github.com/brettwooldridge/HikariCP/issues/1388)** - 11 months ago
+- `brettwooldridge/HikariCP` **[SQLTimeoutException closes connection](https://github.com/brettwooldridge/HikariCP/issues/1388)** - 1 year ago
 - `fengtan/ldap-explorer` **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - 1 year ago
 - `fengtan/ldap-explorer` **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 1 year ago
 - `fengtan/ldap-explorer` **[FEATURE: Decode Active Directory server GUIDs](https://github.com/fengtan/ldap-explorer/issues/33)** - 1 year ago
@@ -313,9 +313,9 @@
 - `vexelon-dot-net/currencybg.server` **[Upgrade Gradle wrapper to v3.3](https://github.com/vexelon-dot-net/currencybg.server/pull/50)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[E-mail репорти/известия](https://github.com/vexelon-dot-net/currencybg.server/issues/48)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#48 add email report](https://github.com/vexelon-dot-net/currencybg.server/pull/49)** - 8 years ago
-- `cmackay/google-analytics-plugin` **[iOS: sendHitsInBackground ability?](https://github.com/cmackay/google-analytics-plugin/issues/74)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Нов източник: www.factorin.bg](https://github.com/vexelon-dot-net/currencybg.server/issues/44)** - 8 years ago
-- `cmackay/google-analytics-plugin` **[Added dispatchHits function](https://github.com/cmackay/google-analytics-plugin/pull/75)** - 8 years ago
+- `cmackay/google-analytics-plugin` **[iOS: sendHitsInBackground ability?](https://github.com/cmackay/google-analytics-plugin/issues/74)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Нов източник: www.factorin.bg](https://github.com/vexelon-dot-net/currencybg.server/issues/44)** - 9 years ago
+- `cmackay/google-analytics-plugin` **[Added dispatchHits function](https://github.com/cmackay/google-analytics-plugin/pull/75)** - 9 years ago
 - `cmackay/google-analytics-plugin` **[COOL-751 Fix conflict with Google Firebase on Android](https://github.com/cmackay/google-analytics-plugin/pull/72)** - 9 years ago
 - `cmackay/google-analytics-plugin` **[Feature/#64 multiple trackers](https://github.com/cmackay/google-analytics-plugin/pull/73)** - 9 years ago
 - `cmackay/google-analytics-plugin` **[Add support for multiple trackers](https://github.com/cmackay/google-analytics-plugin/issues/64)** - 9 years ago
