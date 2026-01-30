@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - in the last 24 hours
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 12 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 day ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 13 days ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 1 month ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 1 month ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 months ago
@@ -312,7 +312,7 @@
 - `vexelon-dot-net/currencybg.server` **[Feature/unit tests](https://github.com/vexelon-dot-net/currencybg.server/pull/53)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Upgrade Gradle wrapper to v3.3](https://github.com/vexelon-dot-net/currencybg.server/pull/50)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[E-mail репорти/известия](https://github.com/vexelon-dot-net/currencybg.server/issues/48)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/#48 add email report](https://github.com/vexelon-dot-net/currencybg.server/pull/49)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/#48 add email report](https://github.com/vexelon-dot-net/currencybg.server/pull/49)** - 9 years ago
 - `cmackay/google-analytics-plugin` **[iOS: sendHitsInBackground ability?](https://github.com/cmackay/google-analytics-plugin/issues/74)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник: www.factorin.bg](https://github.com/vexelon-dot-net/currencybg.server/issues/44)** - 9 years ago
 - `cmackay/google-analytics-plugin` **[Added dispatchHits function](https://github.com/cmackay/google-analytics-plugin/pull/75)** - 9 years ago
@@ -395,8 +395,8 @@
 - `kenamick/savagewheels` **[Feature/linux dirs](https://github.com/kenamick/savagewheels/pull/7)** - 9 years ago
 - `akhikhl/wuff` **[Still maintained?](https://github.com/akhikhl/wuff/issues/105)** - 9 years ago
 - `Automattic/node-canvas` **[Error npm installing canvas@1.1.3 on Windows (GTK does not come with libpng.lib)](https://github.com/Automattic/node-canvas/issues/412)** - 9 years ago
-- `vexelon-dot-net/bgrates` **[Добавяне на фиксирани валути ](https://github.com/vexelon-dot-net/bgrates/issues/21)** - 9 years ago
-- `vexelon-dot-net/bgrates` **[Филтър на валути ](https://github.com/vexelon-dot-net/bgrates/issues/22)** - 9 years ago
+- `vexelon-dot-net/bgrates` **[Добавяне на фиксирани валути ](https://github.com/vexelon-dot-net/bgrates/issues/21)** - 10 years ago
+- `vexelon-dot-net/bgrates` **[Филтър на валути ](https://github.com/vexelon-dot-net/bgrates/issues/22)** - 10 years ago
 - `vexelon-dot-net/bgrates` **[Проблем със Code Formatter в Android Studio](https://github.com/vexelon-dot-net/bgrates/issues/25)** - 10 years ago
 - `schteppe/p2.js` **[DOM rendering demo](https://github.com/schteppe/p2.js/issues/45)** - 10 years ago
 - `vexelon-dot-net/bgrates` **[Проблем със cookie от сайта на БНБ](https://github.com/vexelon-dot-net/bgrates/issues/24)** - 10 years ago
