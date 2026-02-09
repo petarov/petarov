@@ -1,9 +1,9 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 4 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 22 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 5 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 23 days ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 1 month ago
-- `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 1 month ago
+- `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 months ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 3 months ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 5 months ago
@@ -130,7 +130,7 @@
 - `prasmussen/gdrive` **[ Rate Limit Exceeded](https://github.com/prasmussen/gdrive/issues/306)** - 6 years ago
 - `mattermost/mattermost` **[v3.6.0 upgrade failed: "Error 1071: Specified key was too long; max key length is 767 bytes"](https://github.com/mattermost/mattermost/issues/5079)** - 6 years ago
 - `eclipse-vertx/vert.x` **[HttpClientRequest.get/getNow is deprecated, what should I use instead?](https://github.com/eclipse-vertx/vert.x/issues/2831)** - 6 years ago
-- `mybatis/mybatis-3` **[OffsetDateTimeTypeHandler or ZonedDateTimeTypeHandler loses time zone information](https://github.com/mybatis/mybatis-3/issues/1081)** - 6 years ago
+- `mybatis/mybatis-3` **[OffsetDateTimeTypeHandler or ZonedDateTimeTypeHandler loses time zone information](https://github.com/mybatis/mybatis-3/issues/1081)** - 7 years ago
 - `kenamick/spaceghost-cga` **[TODOs v1](https://github.com/kenamick/spaceghost-cga/issues/1)** - 7 years ago
 - `microsoft/mssql-jdbc` **[java.time.OffsetDateTime value sent to the server should not be affected by the default time zone.](https://github.com/microsoft/mssql-jdbc/pull/831)** - 7 years ago
 - `erazorbg/smfapi` **[More Test cases](https://github.com/erazorbg/smfapi/issues/3)** - 7 years ago
@@ -300,10 +300,10 @@
 - `vexelon-dot-net/currencybg.server` **[Task/#58 refactor properties](https://github.com/vexelon-dot-net/currencybg.server/pull/62)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/currency fixes](https://github.com/vexelon-dot-net/currencybg.app/pull/41)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Bugfix/#59 io thread leaks](https://github.com/vexelon-dot-net/currencybg.server/pull/61)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Проблем с task лентата при 4.4 устройства](https://github.com/vexelon-dot-net/currencybg.app/issues/38)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Bugfix/#38 android44 taskbar](https://github.com/vexelon-dot-net/currencybg.app/pull/40)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Tavex - javax.net.ssl.SSLHandshakeException: General SSLEngine problem](https://github.com/vexelon-dot-net/currencybg.server/issues/56)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Bugfix/#56 encrypt ssl cert](https://github.com/vexelon-dot-net/currencybg.server/pull/60)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Проблем с task лентата при 4.4 устройства](https://github.com/vexelon-dot-net/currencybg.app/issues/38)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Bugfix/#38 android44 taskbar](https://github.com/vexelon-dot-net/currencybg.app/pull/40)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Tavex - javax.net.ssl.SSLHandshakeException: General SSLEngine problem](https://github.com/vexelon-dot-net/currencybg.server/issues/56)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Bugfix/#56 encrypt ssl cert](https://github.com/vexelon-dot-net/currencybg.server/pull/60)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[jdbc driver memory leak ](https://github.com/vexelon-dot-net/currencybg.server/issues/28)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Release jdbc drivers and stop connection thread(s)](https://github.com/vexelon-dot-net/currencybg.server/pull/54)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#5 my wallet](https://github.com/vexelon-dot-net/currencybg.app/pull/39)** - 9 years ago
