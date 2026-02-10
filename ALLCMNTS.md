@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 5 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 23 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 6 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 24 days ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 1 month ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 months ago
@@ -299,7 +299,7 @@
 - `vexelon-dot-net/currencybg.server` **[Refactor properties for consistency ](https://github.com/vexelon-dot-net/currencybg.server/issues/58)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Task/#58 refactor properties](https://github.com/vexelon-dot-net/currencybg.server/pull/62)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/currency fixes](https://github.com/vexelon-dot-net/currencybg.app/pull/41)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Bugfix/#59 io thread leaks](https://github.com/vexelon-dot-net/currencybg.server/pull/61)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Bugfix/#59 io thread leaks](https://github.com/vexelon-dot-net/currencybg.server/pull/61)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Проблем с task лентата при 4.4 устройства](https://github.com/vexelon-dot-net/currencybg.app/issues/38)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/#38 android44 taskbar](https://github.com/vexelon-dot-net/currencybg.app/pull/40)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Tavex - javax.net.ssl.SSLHandshakeException: General SSLEngine problem](https://github.com/vexelon-dot-net/currencybg.server/issues/56)** - 9 years ago
