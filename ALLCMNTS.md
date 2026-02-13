@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 8 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 26 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - in the last 24 hours
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 27 days ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 1 month ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 months ago
@@ -22,7 +22,7 @@
 - `phaserjs/phaser` **[Animation object missing a 'resume' function.](https://github.com/phaserjs/phaser/issues/878)** - 10 months ago
 - `phaserjs/phaser` **[Phaser for mobile frameworks (PhoneGap/IntelXDK) without server connection](https://github.com/phaserjs/phaser/issues/833)** - 10 months ago
 - `phaserjs/phaser` **[P2, sprite with a shape and collideWorldBounds bug](https://github.com/phaserjs/phaser/issues/1010)** - 10 months ago
-- `phaserjs/phaser` **[grunt docs -> not found: jsdoc](https://github.com/phaserjs/phaser/issues/1491)** - 10 months ago
+- `phaserjs/phaser` **[grunt docs -> not found: jsdoc](https://github.com/phaserjs/phaser/issues/1491)** - 11 months ago
 - `eclipse-vertx/vert.x` **[TLS 1.3 Support](https://github.com/eclipse-vertx/vert.x/issues/2729)** - 11 months ago
 - `eclipse-vertx/vert.x` **[Unable to disable file caching in 3.5.1 in intelliJ IDEA](https://github.com/eclipse-vertx/vert.x/issues/2423)** - 11 months ago
 - `jchambers/pushy` **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044)** - 11 months ago
@@ -293,12 +293,12 @@
 - `vexelon-dot-net/currencybg.app` **[Add clear action on Convert fragment](https://github.com/vexelon-dot-net/currencybg.app/pull/44)** - 8 years ago
 - `vexelon-dot-net/myglob` **[Migrate UI to AppCompat](https://github.com/vexelon-dot-net/myglob/issues/20)** - 8 years ago
 - `vexelon-dot-net/myglob` **[Status is empty for unpaid invoices](https://github.com/vexelon-dot-net/myglob/issues/19)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Добавяне на factorin към източниците](https://github.com/vexelon-dot-net/currencybg.app/issues/37)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Бъг при първо стартиране на "Convert" функцията](https://github.com/vexelon-dot-net/currencybg.app/issues/36)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Добавяне на инфо за потребителите относно версия 2.0](https://github.com/vexelon-dot-net/currencybg.app/issues/30)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Refactor properties for consistency ](https://github.com/vexelon-dot-net/currencybg.server/issues/58)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Task/#58 refactor properties](https://github.com/vexelon-dot-net/currencybg.server/pull/62)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Bugfix/currency fixes](https://github.com/vexelon-dot-net/currencybg.app/pull/41)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Добавяне на factorin към източниците](https://github.com/vexelon-dot-net/currencybg.app/issues/37)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Бъг при първо стартиране на "Convert" функцията](https://github.com/vexelon-dot-net/currencybg.app/issues/36)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Добавяне на инфо за потребителите относно версия 2.0](https://github.com/vexelon-dot-net/currencybg.app/issues/30)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Refactor properties for consistency ](https://github.com/vexelon-dot-net/currencybg.server/issues/58)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Task/#58 refactor properties](https://github.com/vexelon-dot-net/currencybg.server/pull/62)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Bugfix/currency fixes](https://github.com/vexelon-dot-net/currencybg.app/pull/41)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Bugfix/#59 io thread leaks](https://github.com/vexelon-dot-net/currencybg.server/pull/61)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Проблем с task лентата при 4.4 устройства](https://github.com/vexelon-dot-net/currencybg.app/issues/38)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/#38 android44 taskbar](https://github.com/vexelon-dot-net/currencybg.app/pull/40)** - 9 years ago
