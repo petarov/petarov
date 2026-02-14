@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - in the last 24 hours
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 27 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 day ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 28 days ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 1 month ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 months ago
@@ -291,8 +291,8 @@
 - `vexelon-dot-net/currencybg.app` **[Feature/#10 add missing flags](https://github.com/vexelon-dot-net/currencybg.app/pull/45)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Add clear button to Convert fragment](https://github.com/vexelon-dot-net/currencybg.app/issues/35)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Add clear action on Convert fragment](https://github.com/vexelon-dot-net/currencybg.app/pull/44)** - 8 years ago
-- `vexelon-dot-net/myglob` **[Migrate UI to AppCompat](https://github.com/vexelon-dot-net/myglob/issues/20)** - 8 years ago
-- `vexelon-dot-net/myglob` **[Status is empty for unpaid invoices](https://github.com/vexelon-dot-net/myglob/issues/19)** - 8 years ago
+- `vexelon-dot-net/myglob` **[Migrate UI to AppCompat](https://github.com/vexelon-dot-net/myglob/issues/20)** - 9 years ago
+- `vexelon-dot-net/myglob` **[Status is empty for unpaid invoices](https://github.com/vexelon-dot-net/myglob/issues/19)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Добавяне на factorin към източниците](https://github.com/vexelon-dot-net/currencybg.app/issues/37)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Бъг при първо стартиране на "Convert" функцията](https://github.com/vexelon-dot-net/currencybg.app/issues/36)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Добавяне на инфо за потребителите относно версия 2.0](https://github.com/vexelon-dot-net/currencybg.app/issues/30)** - 9 years ago
