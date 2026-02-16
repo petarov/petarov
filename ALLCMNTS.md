@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 2 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 29 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 3 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 30 days ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 1 month ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 3 months ago
@@ -290,7 +290,7 @@
 - `vexelon-dot-net/currencybg.app` **[Липсващи знамена](https://github.com/vexelon-dot-net/currencybg.app/issues/10)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#10 add missing flags](https://github.com/vexelon-dot-net/currencybg.app/pull/45)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Add clear button to Convert fragment](https://github.com/vexelon-dot-net/currencybg.app/issues/35)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Add clear action on Convert fragment](https://github.com/vexelon-dot-net/currencybg.app/pull/44)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Add clear action on Convert fragment](https://github.com/vexelon-dot-net/currencybg.app/pull/44)** - 9 years ago
 - `vexelon-dot-net/myglob` **[Migrate UI to AppCompat](https://github.com/vexelon-dot-net/myglob/issues/20)** - 9 years ago
 - `vexelon-dot-net/myglob` **[Status is empty for unpaid invoices](https://github.com/vexelon-dot-net/myglob/issues/19)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Добавяне на factorin към източниците](https://github.com/vexelon-dot-net/currencybg.app/issues/37)** - 9 years ago
@@ -394,7 +394,7 @@
 - `kenamick/savagewheels` **[Code updates requests for next release](https://github.com/kenamick/savagewheels/issues/6)** - 9 years ago
 - `kenamick/savagewheels` **[Feature/linux dirs](https://github.com/kenamick/savagewheels/pull/7)** - 9 years ago
 - `akhikhl/wuff` **[Still maintained?](https://github.com/akhikhl/wuff/issues/105)** - 9 years ago
-- `Automattic/node-canvas` **[Error npm installing canvas@1.1.3 on Windows (GTK does not come with libpng.lib)](https://github.com/Automattic/node-canvas/issues/412)** - 9 years ago
+- `Automattic/node-canvas` **[Error npm installing canvas@1.1.3 on Windows (GTK does not come with libpng.lib)](https://github.com/Automattic/node-canvas/issues/412)** - 10 years ago
 - `vexelon-dot-net/bgrates` **[Добавяне на фиксирани валути ](https://github.com/vexelon-dot-net/bgrates/issues/21)** - 10 years ago
 - `vexelon-dot-net/bgrates` **[Филтър на валути ](https://github.com/vexelon-dot-net/bgrates/issues/22)** - 10 years ago
 - `vexelon-dot-net/bgrates` **[Проблем със Code Formatter в Android Studio](https://github.com/vexelon-dot-net/bgrates/issues/25)** - 10 years ago
