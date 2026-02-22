@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 day ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 2 days ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 2 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
@@ -14,7 +14,7 @@
 - `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.4.8-jre](https://github.com/petarov/apple-mdm-clients/pull/3)** - 9 months ago
 - `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.8.0 to 0.10.0](https://github.com/petarov/apple-mdm-clients/pull/1)** - 9 months ago
 - `jchambers/pushy` **[apns-priority has three enumeration values. Why do you only have 10 and 5 here, missing 1?](https://github.com/jchambers/pushy/issues/1088)** - 10 months ago
-- `phaserjs/phaser` **[Anchor always set to (0.5, 0.5) after P2.enableBody](https://github.com/phaserjs/phaser/issues/938)** - 10 months ago
+- `phaserjs/phaser` **[Anchor always set to (0.5, 0.5) after P2.enableBody](https://github.com/phaserjs/phaser/issues/938)** - 11 months ago
 - `phaserjs/phaser` **[game.add.spriteBatch parameters suggestion](https://github.com/phaserjs/phaser/issues/1000)** - 11 months ago
 - `phaserjs/phaser` **[Phaser.Physics.P2.addPolygon now takes a flat array, but not a nested array any more](https://github.com/phaserjs/phaser/issues/1060)** - 11 months ago
 - `phaserjs/phaser` **[P2 problems](https://github.com/phaserjs/phaser/issues/974)** - 11 months ago
@@ -44,7 +44,7 @@
 - `google/play-work` **[Error - missing certificate_base64 in .json file while uploading JSON to playstore](https://github.com/google/play-work/issues/39)** - 1 year ago
 - `microsoftgraph/msgraph-sdk-java-core` **[possible bug (deadlock) when posting batch request content over a certain length](https://github.com/microsoftgraph/msgraph-sdk-java-core/issues/1687)** - 1 year ago
 - `jchambers/pushy` **[Bump Netty to 4.1.108.Final due to CVE-2024-29025](https://github.com/jchambers/pushy/pull/1068)** - 1 year ago
-- `clo4/apple_device_identifiers` **[URL Stopped Working](https://github.com/clo4/apple_device_identifiers/issues/36)** - 1 year ago
+- `clo4/apple_device_identifiers` **[URL Stopped Working](https://github.com/clo4/apple_device_identifiers/issues/36)** - 2 years ago
 - `eclipse-vertx/vert.x` **[updateSSLOptions doesn't update when the updated secret remain at the same path](https://github.com/eclipse-vertx/vert.x/issues/4867)** - 2 years ago
 - `petarov/sandbox` **[rndimg](https://github.com/petarov/sandbox/issues/10)** - 2 years ago
 - `kenamick/game-off-2017` **[Add shadows](https://github.com/kenamick/game-off-2017/issues/22)** - 2 years ago
