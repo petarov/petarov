@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 2 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 3 days ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 2 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
@@ -9,11 +9,11 @@
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 5 months ago
 - `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 5 months ago
 - `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 8 months ago
-- `petarov/apns-push-cmd` **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 8 months ago
+- `petarov/apns-push-cmd` **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 9 months ago
 - `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.3.1-jre](https://github.com/petarov/apple-mdm-clients/pull/6)** - 9 months ago
 - `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.4.8-jre](https://github.com/petarov/apple-mdm-clients/pull/3)** - 9 months ago
 - `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.8.0 to 0.10.0](https://github.com/petarov/apple-mdm-clients/pull/1)** - 9 months ago
-- `jchambers/pushy` **[apns-priority has three enumeration values. Why do you only have 10 and 5 here, missing 1?](https://github.com/jchambers/pushy/issues/1088)** - 10 months ago
+- `jchambers/pushy` **[apns-priority has three enumeration values. Why do you only have 10 and 5 here, missing 1?](https://github.com/jchambers/pushy/issues/1088)** - 11 months ago
 - `phaserjs/phaser` **[Anchor always set to (0.5, 0.5) after P2.enableBody](https://github.com/phaserjs/phaser/issues/938)** - 11 months ago
 - `phaserjs/phaser` **[game.add.spriteBatch parameters suggestion](https://github.com/phaserjs/phaser/issues/1000)** - 11 months ago
 - `phaserjs/phaser` **[Phaser.Physics.P2.addPolygon now takes a flat array, but not a nested array any more](https://github.com/phaserjs/phaser/issues/1060)** - 11 months ago
@@ -286,7 +286,7 @@
 - `vexelon-dot-net/currencybg.server` **[Bug/#69 missing hour](https://github.com/vexelon-dot-net/currencybg.server/pull/71)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Fix manual and service based currency updates](https://github.com/vexelon-dot-net/currencybg.app/pull/48)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#42 single currency info](https://github.com/vexelon-dot-net/currencybg.app/pull/47)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Информация за дадена валута/курс](https://github.com/vexelon-dot-net/currencybg.app/issues/42)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Информация за дадена валута/курс](https://github.com/vexelon-dot-net/currencybg.app/issues/42)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Липсващи знамена](https://github.com/vexelon-dot-net/currencybg.app/issues/10)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#10 add missing flags](https://github.com/vexelon-dot-net/currencybg.app/pull/45)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Add clear button to Convert fragment](https://github.com/vexelon-dot-net/currencybg.app/issues/35)** - 9 years ago
