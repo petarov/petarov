@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 4 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 5 days ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 2 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
@@ -284,7 +284,7 @@
 - `vexelon-dot-net/currencybg.app` **[Fix date-time localization](https://github.com/vexelon-dot-net/currencybg.app/pull/49)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Грешен час при обновяване от Полана1 източник](https://github.com/vexelon-dot-net/currencybg.server/issues/69)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Bug/#69 missing hour](https://github.com/vexelon-dot-net/currencybg.server/pull/71)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Fix manual and service based currency updates](https://github.com/vexelon-dot-net/currencybg.app/pull/48)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Fix manual and service based currency updates](https://github.com/vexelon-dot-net/currencybg.app/pull/48)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#42 single currency info](https://github.com/vexelon-dot-net/currencybg.app/pull/47)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Информация за дадена валута/курс](https://github.com/vexelon-dot-net/currencybg.app/issues/42)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Липсващи знамена](https://github.com/vexelon-dot-net/currencybg.app/issues/10)** - 9 years ago
