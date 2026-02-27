@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - in the last 24 hours
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 6 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - in the last 24 hours
+- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 day ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 2 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
@@ -9,7 +9,7 @@
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 3 months ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 5 months ago
 - `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 5 months ago
-- `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 8 months ago
+- `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 9 months ago
 - `petarov/apns-push-cmd` **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 9 months ago
 - `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.3.1-jre](https://github.com/petarov/apple-mdm-clients/pull/6)** - 9 months ago
 - `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.4.8-jre](https://github.com/petarov/apple-mdm-clients/pull/3)** - 9 months ago
@@ -282,8 +282,8 @@
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Unicredit](https://github.com/vexelon-dot-net/currencybg.server/issues/21)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Enhancement/#51 reporter background thread](https://github.com/vexelon-dot-net/currencybg.server/pull/72)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Fix date-time localization](https://github.com/vexelon-dot-net/currencybg.app/pull/49)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Грешен час при обновяване от Полана1 източник](https://github.com/vexelon-dot-net/currencybg.server/issues/69)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Bug/#69 missing hour](https://github.com/vexelon-dot-net/currencybg.server/pull/71)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Грешен час при обновяване от Полана1 източник](https://github.com/vexelon-dot-net/currencybg.server/issues/69)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Bug/#69 missing hour](https://github.com/vexelon-dot-net/currencybg.server/pull/71)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Fix manual and service based currency updates](https://github.com/vexelon-dot-net/currencybg.app/pull/48)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#42 single currency info](https://github.com/vexelon-dot-net/currencybg.app/pull/47)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Информация за дадена валута/курс](https://github.com/vexelon-dot-net/currencybg.app/issues/42)** - 9 years ago
