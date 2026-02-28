@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - in the last 24 hours
-- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 day ago
+- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 2 days ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 2 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
@@ -11,9 +11,9 @@
 - `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 5 months ago
 - `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 9 months ago
 - `petarov/apns-push-cmd` **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 9 months ago
-- `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.3.1-jre](https://github.com/petarov/apple-mdm-clients/pull/6)** - 9 months ago
-- `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.4.8-jre](https://github.com/petarov/apple-mdm-clients/pull/3)** - 9 months ago
-- `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.8.0 to 0.10.0](https://github.com/petarov/apple-mdm-clients/pull/1)** - 9 months ago
+- `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.3.1-jre](https://github.com/petarov/apple-mdm-clients/pull/6)** - 10 months ago
+- `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.4.8-jre](https://github.com/petarov/apple-mdm-clients/pull/3)** - 10 months ago
+- `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.8.0 to 0.10.0](https://github.com/petarov/apple-mdm-clients/pull/1)** - 10 months ago
 - `jchambers/pushy` **[apns-priority has three enumeration values. Why do you only have 10 and 5 here, missing 1?](https://github.com/jchambers/pushy/issues/1088)** - 11 months ago
 - `phaserjs/phaser` **[Anchor always set to (0.5, 0.5) after P2.enableBody](https://github.com/phaserjs/phaser/issues/938)** - 11 months ago
 - `phaserjs/phaser` **[game.add.spriteBatch parameters suggestion](https://github.com/phaserjs/phaser/issues/1000)** - 11 months ago
@@ -29,7 +29,7 @@
 - `jchambers/pushy` **[Network is unreachable: `api.push.apple.com/2620:149:208:4308:0:0:0:a:443`](https://github.com/jchambers/pushy/issues/1044)** - 11 months ago
 - `petarov/apns-push-cmd` **[Sending push from Windows](https://github.com/petarov/apns-push-cmd/issues/8)** - 11 months ago
 - `AzureAD/microsoft-authentication-library-for-java` **[CVE-2024-57699 in net.minidev:json-smart@2.5.1](https://github.com/AzureAD/microsoft-authentication-library-for-java/issues/908)** - 11 months ago
-- `petarov/apns-push-cmd` **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 11 months ago
+- `petarov/apns-push-cmd` **[Update APNS CA](https://github.com/petarov/apns-push-cmd/issues/11)** - 1 year ago
 - `seize-the-dave/jscep` **[The version is now `jscep-2.5.8`?](https://github.com/seize-the-dave/jscep/issues/364)** - 1 year ago
 - `jchambers/pushy` **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098)** - 1 year ago
 - `seize-the-dave/jscep` **[High security alert found in jscep lib](https://github.com/seize-the-dave/jscep/issues/304)** - 1 year ago
