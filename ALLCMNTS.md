@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - in the last 24 hours
-- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 4 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 day ago
+- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 5 days ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 2 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
@@ -166,8 +166,8 @@
 - `pac4j/pac4j` **[(2.3.x Backport) Add case-insensitive header name comparison in HeaderExtractor](https://github.com/pac4j/pac4j/pull/1142)** - 7 years ago
 - `pac4j/pac4j` **[Add case-insensitive header name comparison in HeaderExtractor](https://github.com/pac4j/pac4j/pull/1141)** - 7 years ago
 - `Homebrew/homebrew-core` **[gradle 3.4](https://github.com/Homebrew/homebrew-core/pull/10181)** - 7 years ago
-- `vexelon-dot-net/currencybg.server` **[Нов източник - Altcoins](https://github.com/vexelon-dot-net/currencybg.server/issues/108)** - 7 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/#108 altcoins source](https://github.com/vexelon-dot-net/currencybg.server/pull/109)** - 7 years ago
+- `vexelon-dot-net/currencybg.server` **[Нов източник - Altcoins](https://github.com/vexelon-dot-net/currencybg.server/issues/108)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/#108 altcoins source](https://github.com/vexelon-dot-net/currencybg.server/pull/109)** - 8 years ago
 - `github/game-off-2013` **[List of all 2013 entries](https://github.com/github/game-off-2013/issues/30)** - 8 years ago
 - `java-decompiler/jd-gui` **[Incorrect decompile when ternary operator is used](https://github.com/java-decompiler/jd-gui/issues/120)** - 8 years ago
 - `akhikhl/wuff` **[Wrong extension point generation in plugin.xml](https://github.com/akhikhl/wuff/issues/95)** - 8 years ago
