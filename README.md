@@ -1,13 +1,13 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 1 day ago
-  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 1 day ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 6 days ago
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 14 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - in the last 24 hours
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 2 days ago
+  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 2 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 7 days ago
 
 **random**
 
-  - **[currencybg.server](https://github.com/vexelon-dot-net/currencybg.server)** - 1 year ago
+  - **[scintillated](https://github.com/kenamick/scintillated)** - 3 months ago
 
 **pull requests, issues, comments** <sub>past 6 months, [all](ALLCMNTS.md)</sub>
 
@@ -17,4 +17,4 @@
   - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 3 months ago
   - **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116#issuecomment-3252820064)** - 5 months ago
 
-<sub>updated: 2026-03-03 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-03-04 | gh(@]vexelon.net</sub>
