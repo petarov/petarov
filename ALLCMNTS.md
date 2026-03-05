@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 2 days ago
-- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 6 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 3 days ago
+- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 7 days ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 2 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
@@ -461,8 +461,8 @@
 - `vexelon-dot-net/myglob` **[App automatically deletes itself!](https://github.com/vexelon-dot-net/myglob/issues/11)** - 11 years ago
 - `vexelon-dot-net/e-additives.server` **[System crash on data import](https://github.com/vexelon-dot-net/e-additives.server/issues/3)** - 11 years ago
 - `vexelon-dot-net/e-additives.server` **[API: Proper Access Control and authorization keys handling](https://github.com/vexelon-dot-net/e-additives.server/issues/16)** - 11 years ago
-- `melonjs/melonJS` **[Improve `getEntityByProp` (extend usage, and optimize performance)](https://github.com/melonjs/melonJS/issues/302)** - 11 years ago
-- `melonjs/melonJS` **[Add me.timer.setTimeout and me.timer.setInterval](https://github.com/melonjs/melonJS/issues/301)** - 11 years ago
+- `melonjs/melonJS` **[Improve `getEntityByProp` (extend usage, and optimize performance)](https://github.com/melonjs/melonJS/issues/302)** - 12 years ago
+- `melonjs/melonJS` **[Add me.timer.setTimeout and me.timer.setInterval](https://github.com/melonjs/melonJS/issues/301)** - 12 years ago
 - `slimphp/Slim` **[Writing unit test for Slim powered PHP application?](https://github.com/slimphp/Slim/issues/740)** - 12 years ago
 - `kenamick/psiral` **[Buttons do not work on IE11](https://github.com/kenamick/psiral/issues/2)** - 12 years ago
 - `melonjs/melonJS` **[add support for Web Audio API](https://github.com/melonjs/melonJS/issues/157)** - 12 years ago
@@ -523,7 +523,7 @@
 - `vexelon-dot-net/myglob` **[Cannot get bill info for other than one account](https://github.com/vexelon-dot-net/myglob/issues/8)** - 12 years ago
 - `vexelon-dot-net/myglob` **[Page does not exist (Страницата не съществува)](https://github.com/vexelon-dot-net/myglob/issues/7)** - 12 years ago
 - `vexelon-dot-net/myglob` **[No menu button on latest Android phones](https://github.com/vexelon-dot-net/myglob/issues/6)** - 12 years ago
-- `towbi/CraftyEntityBoxOverlays` **[sprintf is not defined](https://github.com/towbi/CraftyEntityBoxOverlays/issues/1)** - 12 years ago
+- `towbi/CraftyEntityBoxOverlays` **[sprintf is not defined](https://github.com/towbi/CraftyEntityBoxOverlays/issues/1)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[	Icon not transparent on Nokia 9300i](https://github.com/vexelon-dot-net/e-additives.j2me/issues/3)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[Absence of a "find" button](https://github.com/vexelon-dot-net/e-additives.j2me/issues/2)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[Application hangs on the loading screen on Nokia 5140i](https://github.com/vexelon-dot-net/e-additives.j2me/issues/1)** - 13 years ago
