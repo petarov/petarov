@@ -1,13 +1,13 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 4 days ago
-- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 8 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 5 days ago
+- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 9 days ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 2 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 2 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 3 months ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 4 months ago
-- `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 5 months ago
+- `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 6 months ago
 - `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 6 months ago
 - `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 9 months ago
 - `petarov/apns-push-cmd` **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 9 months ago
@@ -51,11 +51,11 @@
 - `kenamick/game-off-2017` **[Add shadows](https://github.com/kenamick/game-off-2017/issues/22)** - 2 years ago
 - `kenamick/game-off-2017` **[Desktop version](https://github.com/kenamick/game-off-2017/issues/21)** - 2 years ago
 - `kenamick/game-off-2017` **[Add player lives](https://github.com/kenamick/game-off-2017/issues/19)** - 2 years ago
-- `kenamick/game-off-2017` **[Improve enemies AI](https://github.com/kenamick/game-off-2017/issues/15)** - 2 years ago
 - `kenamick/game-off-2017` **[You can't hit when invincible](https://github.com/kenamick/game-off-2017/issues/16)** - 2 years ago
+- `kenamick/game-off-2017` **[Improve enemies AI](https://github.com/kenamick/game-off-2017/issues/15)** - 2 years ago
 - `kenamick/game-off-2017` **[Font issues](https://github.com/kenamick/game-off-2017/issues/17)** - 2 years ago
-- `kenamick/game-off-2017` **[HUD: Enemies counter](https://github.com/kenamick/game-off-2017/issues/12)** - 2 years ago
 - `kenamick/game-off-2017` **[Game Score & Hall of Fame](https://github.com/kenamick/game-off-2017/issues/13)** - 2 years ago
+- `kenamick/game-off-2017` **[HUD: Enemies counter](https://github.com/kenamick/game-off-2017/issues/12)** - 2 years ago
 - `kenamick/game-off-2017` **[Breakable objects](https://github.com/kenamick/game-off-2017/issues/11)** - 2 years ago
 - `kenamick/game-off-2017` **[Player moves too slow or seems like moving too slow](https://github.com/kenamick/game-off-2017/issues/8)** - 2 years ago
 - `petarov/translitbg.js` **[Update translitbg.js](https://github.com/petarov/translitbg.js/pull/83)** - 2 years ago
@@ -134,7 +134,6 @@
 - `kenamick/spaceghost-cga` **[TODOs v1](https://github.com/kenamick/spaceghost-cga/issues/1)** - 7 years ago
 - `microsoft/mssql-jdbc` **[java.time.OffsetDateTime value sent to the server should not be affected by the default time zone.](https://github.com/microsoft/mssql-jdbc/pull/831)** - 7 years ago
 - `erazorbg/smfapi` **[More Test cases](https://github.com/erazorbg/smfapi/issues/3)** - 7 years ago
-- `kenamick/game-off-2018` **[The Plan](https://github.com/kenamick/game-off-2018/issues/1)** - 7 years ago
 - `invertase/react-native-firebase` **[Android: JDK 10 not supported for v4.1.0](https://github.com/invertase/react-native-firebase/issues/1070)** - 7 years ago
 - `k0shk0sh/FastHub` **[Add missing BG language translations](https://github.com/k0shk0sh/FastHub/pull/2060)** - 7 years ago
 - `mcollovati/vertx-vaadin` **[Create branch for vaadin 10 support](https://github.com/mcollovati/vertx-vaadin/issues/4)** - 7 years ago
@@ -186,9 +185,6 @@
 - `kenamick/game-off-2017` **[Confusion at the end of Act 2](https://github.com/kenamick/game-off-2017/issues/10)** - 8 years ago
 - `kenamick/game-off-2017` **[The Punch Script](https://github.com/kenamick/game-off-2017/issues/3)** - 8 years ago
 - `github/game-off-2013` **[Submission timezone](https://github.com/github/game-off-2013/issues/22)** - 8 years ago
-- `vexelon-dot-net/myglob` **[New: Support for more mobile operators](https://github.com/vexelon-dot-net/myglob/issues/2)** - 8 years ago
-- `vexelon-dot-net/myglob` **[New: Support for security code inquiry](https://github.com/vexelon-dot-net/myglob/issues/3)** - 8 years ago
-- `vexelon-dot-net/myglob` **[Missing operations](https://github.com/vexelon-dot-net/myglob/issues/17)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Slow SQL select](https://github.com/vexelon-dot-net/currencybg.app/issues/90)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#90 sql optimize](https://github.com/vexelon-dot-net/currencybg.app/pull/93)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Филтър - да се изобразяват само избрани валути](https://github.com/vexelon-dot-net/currencybg.app/issues/25)** - 8 years ago
@@ -215,9 +211,6 @@
 - `vexelon-dot-net/currencybg.app` **[Bugfix/#82 background service downloads](https://github.com/vexelon-dot-net/currencybg.app/pull/83)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/remove wallet refresh #78](https://github.com/vexelon-dot-net/currencybg.app/pull/81)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Fix bg translation](https://github.com/vexelon-dot-net/currencybg.app/pull/80)** - 8 years ago
-- `vexelon-dot-net/bgrates` **[Проверка за обменната стойност на валута към даден период от време](https://github.com/vexelon-dot-net/bgrates/issues/26)** - 8 years ago
-- `vexelon-dot-net/bgrates` **[Споделяне на валути](https://github.com/vexelon-dot-net/bgrates/issues/12)** - 8 years ago
-- `vexelon-dot-net/bgrates` **[Add analytics](https://github.com/vexelon-dot-net/bgrates/issues/10)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/refactor env variables](https://github.com/vexelon-dot-net/currencybg.server/pull/100)** - 8 years ago
 - `Automattic/node-canvas` **[Render SVG img elements when librsvg is available](https://github.com/Automattic/node-canvas/pull/811)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Fix 'cannot parse Buy value=0..465'](https://github.com/vexelon-dot-net/currencybg.server/pull/99)** - 8 years ago
@@ -291,8 +284,6 @@
 - `vexelon-dot-net/currencybg.app` **[Feature/#10 add missing flags](https://github.com/vexelon-dot-net/currencybg.app/pull/45)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Add clear button to Convert fragment](https://github.com/vexelon-dot-net/currencybg.app/issues/35)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Add clear action on Convert fragment](https://github.com/vexelon-dot-net/currencybg.app/pull/44)** - 9 years ago
-- `vexelon-dot-net/myglob` **[Migrate UI to AppCompat](https://github.com/vexelon-dot-net/myglob/issues/20)** - 9 years ago
-- `vexelon-dot-net/myglob` **[Status is empty for unpaid invoices](https://github.com/vexelon-dot-net/myglob/issues/19)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Добавяне на factorin към източниците](https://github.com/vexelon-dot-net/currencybg.app/issues/37)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Бъг при първо стартиране на "Convert" функцията](https://github.com/vexelon-dot-net/currencybg.app/issues/36)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Добавяне на инфо за потребителите относно версия 2.0](https://github.com/vexelon-dot-net/currencybg.app/issues/30)** - 9 years ago
@@ -395,35 +386,18 @@
 - `kenamick/savagewheels` **[Feature/linux dirs](https://github.com/kenamick/savagewheels/pull/7)** - 9 years ago
 - `akhikhl/wuff` **[Still maintained?](https://github.com/akhikhl/wuff/issues/105)** - 9 years ago
 - `Automattic/node-canvas` **[Error npm installing canvas@1.1.3 on Windows (GTK does not come with libpng.lib)](https://github.com/Automattic/node-canvas/issues/412)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Добавяне на фиксирани валути ](https://github.com/vexelon-dot-net/bgrates/issues/21)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Филтър на валути ](https://github.com/vexelon-dot-net/bgrates/issues/22)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Проблем със Code Formatter в Android Studio](https://github.com/vexelon-dot-net/bgrates/issues/25)** - 10 years ago
 - `schteppe/p2.js` **[DOM rendering demo](https://github.com/schteppe/p2.js/issues/45)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Проблем със cookie от сайта на БНБ](https://github.com/vexelon-dot-net/bgrates/issues/24)** - 10 years ago
 - `ionic-team/ionic-ion-drawer` **[The drawer is close or open when I scroll down or up](https://github.com/ionic-team/ionic-ion-drawer/issues/6)** - 10 years ago
 - `johndevs/gradle-vaadin-plugin` **[plus(Iterable<FileCollection>) warning](https://github.com/johndevs/gradle-vaadin-plugin/issues/209)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Crash при първоначално стартиране](https://github.com/vexelon-dot-net/bgrates/issues/23)** - 10 years ago
 - `kenamick/savagewheels` **[Can't Build - $TMP_PATH not defined?](https://github.com/kenamick/savagewheels/issues/5)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Индикатор за зареждане на валутите](https://github.com/vexelon-dot-net/bgrates/issues/15)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Проблем при първоначално зареждане ако няма Интернет](https://github.com/vexelon-dot-net/bgrates/issues/17)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Нов UI за конвертирането на валутите](https://github.com/vexelon-dot-net/bgrates/issues/8)** - 10 years ago
 - `johndevs/gradle-vaadin-plugin` **[vaadinCompileWidgetset fails on 0.10.3 with gradle 2.8](https://github.com/johndevs/gradle-vaadin-plugin/issues/210)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[more than one library with package name 'com.google.android.gms'](https://github.com/cmackay/google-analytics-plugin/issues/49)** - 10 years ago
 - `allegro/axion-release-plugin` **[Custom or no version incrementer](https://github.com/allegro/axion-release-plugin/issues/112)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Добавяне на EUR курс](https://github.com/vexelon-dot-net/bgrates/issues/11)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Изчитане на двете локализации на валутите](https://github.com/vexelon-dot-net/bgrates/issues/13)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[Xcode 7 BitCode linker error](https://github.com/cmackay/google-analytics-plugin/issues/48)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Get euro currency from BNB site](https://github.com/vexelon-dot-net/bgrates/issues/19)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Проверка за валута в базата на база локация](https://github.com/vexelon-dot-net/bgrates/issues/16)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Нормализация на базата от данни](https://github.com/vexelon-dot-net/bgrates/issues/7)** - 10 years ago
-- `vexelon-dot-net/myglob` **[Issue with fragments and menu options (v3.1.4)](https://github.com/vexelon-dot-net/myglob/issues/15)** - 10 years ago
 - `ionic-team/ionic-ion-drawer` **[Minor typo error found](https://github.com/ionic-team/ionic-ion-drawer/issues/5)** - 10 years ago
 - `akhikhl/wuff` **[Wuff must support p2 repositories as sources of OSGi/Eclipse bundles](https://github.com/akhikhl/wuff/issues/9)** - 10 years ago
 - `ionic-team/ionic-framework` **[Update gulp-sass dependency](https://github.com/ionic-team/ionic-framework/pull/4449)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Background service](https://github.com/vexelon-dot-net/bgrates/issues/6)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[how to set Anonymize IP?](https://github.com/cmackay/google-analytics-plugin/issues/43)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Java 1.6 съвместимост](https://github.com/vexelon-dot-net/bgrates/issues/5)** - 10 years ago
-- `vexelon-dot-net/bgrates` **[Добави оценете ни в Settings](https://github.com/vexelon-dot-net/bgrates/issues/9)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[App Build failing since last update](https://github.com/cmackay/google-analytics-plugin/issues/45)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[Add App-level Opt Out](https://github.com/cmackay/google-analytics-plugin/pull/46)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[Remove dependency and use cordova framework tag](https://github.com/cmackay/google-analytics-plugin/pull/44)** - 10 years ago
@@ -431,25 +405,19 @@
 - `krampstudio/grunt-jsdoc` **[Wrong path resolved in lib/exec.js](https://github.com/krampstudio/grunt-jsdoc/issues/125)** - 10 years ago
 - `vexelon-dot-net/e-additives.server` **[Cache stampeding](https://github.com/vexelon-dot-net/e-additives.server/issues/10)** - 10 years ago
 - `EddyVerbruggen/SocialSharing-PhoneGap-Plugin` **[Cordova 5 iOS problem](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin/issues/346)** - 10 years ago
-- `vexelon-dot-net/myglob` **[Setup dev environment](https://github.com/vexelon-dot-net/myglob/issues/21)** - 10 years ago
 - `floatinghotpot/cordova-iad-pro` **[How can i know if the banner is running](https://github.com/floatinghotpot/cordova-iad-pro/issues/6)** - 10 years ago
 - `craftyjs/Crafty` **[Twoway - allow keys for jumping to be configurable](https://github.com/craftyjs/Crafty/issues/895)** - 10 years ago
 - `craftyjs/Crafty` **[Add jump keys parameter to TwoWay component](https://github.com/craftyjs/Crafty/pull/898)** - 10 years ago
 - `craftyjs/Crafty` **[Add jump keys parameter to TwoWay functionality](https://github.com/craftyjs/Crafty/pull/900)** - 10 years ago
 - `alastairparagas/cordova-minify` **[[minor] uglify-js must not already be present in the package.json of the app](https://github.com/alastairparagas/cordova-minify/issues/4)** - 10 years ago
 - `leereilly/games` **[I have been making a script json2markdown](https://github.com/leereilly/games/issues/80)** - 10 years ago
-- `vexelon-dot-net/myglob` **[Invoices do not work for some accounts](https://github.com/vexelon-dot-net/myglob/issues/18)** - 11 years ago
 - `vexelon-dot-net/e-additives.server` **[API: Validate HTTP Accept header](https://github.com/vexelon-dot-net/e-additives.server/issues/15)** - 11 years ago
 - `vexelon-dot-net/e-additives.server` **[API: Edit additives and categories](https://github.com/vexelon-dot-net/e-additives.server/issues/14)** - 11 years ago
-- `vexelon-dot-net/myglob` **[Optimize subString calls ](https://github.com/vexelon-dot-net/myglob/issues/16)** - 11 years ago
 - `craftyjs/craftyjs.github.com` **[Crafty game prototype demo](https://github.com/craftyjs/craftyjs.github.com/issues/45)** - 11 years ago
 - `vexelon-dot-net/e-additives.web` **[SEO: Make site crawlable](https://github.com/vexelon-dot-net/e-additives.web/issues/25)** - 11 years ago
 - `kenamick/savagewheels` **[Cars get stuck during game play (problem in Physics)](https://github.com/kenamick/savagewheels/issues/4)** - 11 years ago
 - `erazorbg/smfapi` **[Why not list this on Packagist.org?](https://github.com/erazorbg/smfapi/issues/4)** - 11 years ago
-- `vexelon-dot-net/myglob` **[Upgrade ActionBarSherlock](https://github.com/vexelon-dot-net/myglob/issues/13)** - 11 years ago
-- `vexelon-dot-net/myglob` **[Unknown symbols when checking bill status (v3.1.4)](https://github.com/vexelon-dot-net/myglob/issues/14)** - 11 years ago
 - `ionic-team/ionic-site` **[Minor typo in Tabs](https://github.com/ionic-team/ionic-site/issues/197)** - 11 years ago
-- `vexelon-dot-net/myglob` **[Crash on Samsung S5](https://github.com/vexelon-dot-net/myglob/issues/12)** - 11 years ago
 - `craftyjs/craftyjs.github.com` **[CraftyMouseFace component](https://github.com/craftyjs/craftyjs.github.com/issues/44)** - 11 years ago
 - `phaserjs/phaser` **[Fix issue #883](https://github.com/phaserjs/phaser/pull/1002)** - 11 years ago
 - `slimphp/Slim` **[Refer to $app as $this inside a router](https://github.com/slimphp/Slim/pull/660)** - 11 years ago
@@ -458,7 +426,6 @@
 - `slimphp/Slim` **[Removes trailing slash from $_SERVER['DOCUMENT_ROOT'].](https://github.com/slimphp/Slim/pull/654)** - 11 years ago
 - `leereilly/games` **[Added Savage Wheels game](https://github.com/leereilly/games/pull/18)** - 11 years ago
 - `kenamick/psiral` **[Removing a  bit of abiguity - please correct me if I'm wrong.](https://github.com/kenamick/psiral/pull/1)** - 11 years ago
-- `vexelon-dot-net/myglob` **[App automatically deletes itself!](https://github.com/vexelon-dot-net/myglob/issues/11)** - 11 years ago
 - `vexelon-dot-net/e-additives.server` **[System crash on data import](https://github.com/vexelon-dot-net/e-additives.server/issues/3)** - 11 years ago
 - `vexelon-dot-net/e-additives.server` **[API: Proper Access Control and authorization keys handling](https://github.com/vexelon-dot-net/e-additives.server/issues/16)** - 11 years ago
 - `melonjs/melonJS` **[Improve `getEntityByProp` (extend usage, and optimize performance)](https://github.com/melonjs/melonJS/issues/302)** - 12 years ago
@@ -503,15 +470,11 @@
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Project structure and checkout requirements](https://github.com/vexelon-dot-net/e-additives.web/issues/5)** - 12 years ago
 - `vexelon-dot-net/e-additives.server` **[Authorization required for "/" route](https://github.com/vexelon-dot-net/e-additives.server/issues/11)** - 12 years ago
 - `vexelon-dot-net/e-additives.server` **[Add Unit and Automated Tests ](https://github.com/vexelon-dot-net/e-additives.server/issues/8)** - 12 years ago
-- `vexelon-dot-net/bgrates` **[No support for 960x540 screens !?](https://github.com/vexelon-dot-net/bgrates/issues/2)** - 12 years ago
 - `kenamick/savagewheels` **[Menu is only accessible via the mouse](https://github.com/kenamick/savagewheels/issues/3)** - 12 years ago
-- `vexelon-dot-net/myglob` **[New: Show my own number](https://github.com/vexelon-dot-net/myglob/issues/5)** - 12 years ago
 - `vexelon-dot-net/e-additives.server` **[Add Travis-CI build](https://github.com/vexelon-dot-net/e-additives.server/issues/7)** - 12 years ago
 - `vexelon-dot-net/e-additives.server` **[Milestone-01 TODOs](https://github.com/vexelon-dot-net/e-additives.server/issues/1)** - 12 years ago
 - `vexelon-dot-net/e-additives.server` **[Add headers validation and authorization API keys](https://github.com/vexelon-dot-net/e-additives.server/issues/6)** - 12 years ago
 - `vexelon-dot-net/e-additives.server` **[Milestone-02 (BETA) TODOs](https://github.com/vexelon-dot-net/e-additives.server/issues/2)** - 12 years ago
-- `vexelon-dot-net/myglob` **[Widgets not available in 3.1.0](https://github.com/vexelon-dot-net/myglob/issues/10)** - 12 years ago
-- `vexelon-dot-net/myglob` **[English localization](https://github.com/vexelon-dot-net/myglob/issues/9)** - 12 years ago
 - `vexelon-dot-net/e-additives.server` **[ISO formatted dates](https://github.com/vexelon-dot-net/e-additives.server/issues/5)** - 12 years ago
 - `erazorbg/smfapi` **[Fixes and improvements](https://github.com/erazorbg/smfapi/pull/2)** - 12 years ago
 - `vexelon-dot-net/e-additives.server` **[Encoding issues with xml2sql.py](https://github.com/vexelon-dot-net/e-additives.server/issues/4)** - 12 years ago
@@ -520,17 +483,9 @@
 - `towbi/CraftyEntityBoxOverlays` **[Issue with package.json](https://github.com/towbi/CraftyEntityBoxOverlays/issues/2)** - 12 years ago
 - `tanakahisateru/js-markdown-extra` **[CRLF line endings fix](https://github.com/tanakahisateru/js-markdown-extra/pull/25)** - 12 years ago
 - `petarov/CraftyMouseFace` **[Generalize mouse input](https://github.com/petarov/CraftyMouseFace/pull/2)** - 12 years ago
-- `vexelon-dot-net/myglob` **[Cannot get bill info for other than one account](https://github.com/vexelon-dot-net/myglob/issues/8)** - 12 years ago
-- `vexelon-dot-net/myglob` **[Page does not exist (Страницата не съществува)](https://github.com/vexelon-dot-net/myglob/issues/7)** - 12 years ago
-- `vexelon-dot-net/myglob` **[No menu button on latest Android phones](https://github.com/vexelon-dot-net/myglob/issues/6)** - 12 years ago
 - `towbi/CraftyEntityBoxOverlays` **[sprintf is not defined](https://github.com/towbi/CraftyEntityBoxOverlays/issues/1)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[	Icon not transparent on Nokia 9300i](https://github.com/vexelon-dot-net/e-additives.j2me/issues/3)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[Absence of a "find" button](https://github.com/vexelon-dot-net/e-additives.j2me/issues/2)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[Application hangs on the loading screen on Nokia 5140i](https://github.com/vexelon-dot-net/e-additives.j2me/issues/1)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[When press Up on the 1st item, the selection should go to the last item.](https://github.com/vexelon-dot-net/e-additives.j2me/issues/4)** - 13 years ago
-- `vexelon-dot-net/myglob` **[New: Add Widget](https://github.com/vexelon-dot-net/myglob/issues/4)** - 13 years ago
 - `thunderbird/thunderbird-android` **[Issue 4359:  IMAP message UIDs are 32 bit unsigned values](https://github.com/thunderbird/thunderbird-android/pull/153)** - 13 years ago
-- `vexelon-dot-net/myglob` **["Target server failed to responed" error message](https://github.com/vexelon-dot-net/myglob/issues/1)** - 13 years ago
-- `petarov/jdevlog` **[Problems with log4j.properties location](https://github.com/petarov/jdevlog/issues/2)** - 13 years ago
-- `petarov/jdevlog` **[RSS feed is not saved as UTF-8 encoded file](https://github.com/petarov/jdevlog/issues/1)** - 13 years ago
-- `vexelon-dot-net/bgrates` **[EUR currency is not presented in the currency list](https://github.com/vexelon-dot-net/bgrates/issues/1)** - 13 years ago
