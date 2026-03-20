@@ -1,9 +1,9 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[sandbox](https://github.com/petarov/sandbox)** - 3 days ago
-  - **[google-android-app-ids](https://github.com/petarov/google-android-app-ids)** - 5 days ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 9 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 13 days ago
+  - **[sandbox](https://github.com/petarov/sandbox)** - 4 days ago
+  - **[google-android-app-ids](https://github.com/petarov/google-android-app-ids)** - 6 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 10 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 14 days ago
 
 **random**
 
@@ -16,4 +16,4 @@
   - **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157#issuecomment-3664568316)** - 3 months ago
   - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 3 months ago
 
-<sub>updated: 2026-03-19 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-03-20 | gh(@]vexelon.net</sub>
