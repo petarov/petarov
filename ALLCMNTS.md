@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 14 days ago
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 16 days ago
+- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 15 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 17 days ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 2 months ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 3 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 3 months ago
@@ -126,7 +126,7 @@
 - `google/play-work` **[Android Device Policy crash during Registering Device.](https://github.com/google/play-work/issues/29)** - 6 years ago
 - `randytarampi/android-splash` **[splash-port-xhdpi.png](https://github.com/randytarampi/android-splash/issues/2)** - 6 years ago
 - `ionic-team/capacitor` **[Cordova plugins can't execute javascript code with webView.loadUrl](https://github.com/ionic-team/capacitor/issues/1353)** - 6 years ago
-- `micromdm/micromdm` **[restart_device is not a valid request](https://github.com/micromdm/micromdm/issues/573)** - 6 years ago
+- `micromdm/micromdm` **[restart_device is not a valid request](https://github.com/micromdm/micromdm/issues/573)** - 7 years ago
 - `prasmussen/gdrive` **[ Rate Limit Exceeded](https://github.com/prasmussen/gdrive/issues/306)** - 7 years ago
 - `mattermost/mattermost` **[v3.6.0 upgrade failed: "Error 1071: Specified key was too long; max key length is 767 bytes"](https://github.com/mattermost/mattermost/issues/5079)** - 7 years ago
 - `eclipse-vertx/vert.x` **[HttpClientRequest.get/getNow is deprecated, what should I use instead?](https://github.com/eclipse-vertx/vert.x/issues/2831)** - 7 years ago
@@ -482,7 +482,7 @@
 - `kenamick/savagewheels` **[Add SDL default shared object libraries into the Linux dist package](https://github.com/kenamick/savagewheels/issues/2)** - 12 years ago
 - `towbi/CraftyEntityBoxOverlays` **[Issue with package.json](https://github.com/towbi/CraftyEntityBoxOverlays/issues/2)** - 12 years ago
 - `tanakahisateru/js-markdown-extra` **[CRLF line endings fix](https://github.com/tanakahisateru/js-markdown-extra/pull/25)** - 12 years ago
-- `petarov/CraftyMouseFace` **[Generalize mouse input](https://github.com/petarov/CraftyMouseFace/pull/2)** - 12 years ago
+- `petarov/CraftyMouseFace` **[Generalize mouse input](https://github.com/petarov/CraftyMouseFace/pull/2)** - 13 years ago
 - `towbi/CraftyEntityBoxOverlays` **[sprintf is not defined](https://github.com/towbi/CraftyEntityBoxOverlays/issues/1)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[	Icon not transparent on Nokia 9300i](https://github.com/vexelon-dot-net/e-additives.j2me/issues/3)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[Absence of a "find" button](https://github.com/vexelon-dot-net/e-additives.j2me/issues/2)** - 13 years ago
