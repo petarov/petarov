@@ -1,13 +1,13 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 6 days ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 7 days ago
-  - **[fastmail-masked-email-for-safari](https://github.com/petarov/fastmail-masked-email-for-safari)** - 8 days ago
-  - **[sandbox](https://github.com/petarov/sandbox)** - 10 days ago
+  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 7 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 8 days ago
+  - **[fastmail-masked-email-for-safari](https://github.com/petarov/fastmail-masked-email-for-safari)** - 9 days ago
+  - **[sandbox](https://github.com/petarov/sandbox)** - 11 days ago
 
 **random**
 
-  - **[the-bank-job](https://github.com/kenamick/the-bank-job)** - 9 years ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 1 month ago
 
 **pull requests, issues, comments** <sub>past 6 months, [all](ALLCMNTS.md)</sub>
 
@@ -16,4 +16,4 @@
   - **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157#issuecomment-3664568316)** - 3 months ago
   - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 3 months ago
 
-<sub>updated: 2026-04-01 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-04-02 | gh(@]vexelon.net</sub>
