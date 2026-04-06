@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 23 days ago
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 25 days ago
+- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 24 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 26 days ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 2 months ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 3 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 3 months ago
@@ -480,7 +480,7 @@
 - `vexelon-dot-net/e-additives.server` **[Encoding issues with xml2sql.py](https://github.com/vexelon-dot-net/e-additives.server/issues/4)** - 12 years ago
 - `kenamick/savagewheels` **[Create startup shell script](https://github.com/kenamick/savagewheels/issues/1)** - 12 years ago
 - `kenamick/savagewheels` **[Add SDL default shared object libraries into the Linux dist package](https://github.com/kenamick/savagewheels/issues/2)** - 12 years ago
-- `towbi/CraftyEntityBoxOverlays` **[Issue with package.json](https://github.com/towbi/CraftyEntityBoxOverlays/issues/2)** - 12 years ago
+- `towbi/CraftyEntityBoxOverlays` **[Issue with package.json](https://github.com/towbi/CraftyEntityBoxOverlays/issues/2)** - 13 years ago
 - `tanakahisateru/js-markdown-extra` **[CRLF line endings fix](https://github.com/tanakahisateru/js-markdown-extra/pull/25)** - 13 years ago
 - `petarov/CraftyMouseFace` **[Generalize mouse input](https://github.com/petarov/CraftyMouseFace/pull/2)** - 13 years ago
 - `towbi/CraftyEntityBoxOverlays` **[sprintf is not defined](https://github.com/towbi/CraftyEntityBoxOverlays/issues/1)** - 13 years ago
