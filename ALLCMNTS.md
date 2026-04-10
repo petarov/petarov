@@ -1,7 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 27 days ago
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 29 days ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - in the last 24 hours
+- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 28 days ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 month ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 2 months ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 3 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 3 months ago
@@ -47,13 +48,12 @@
 - `jchambers/pushy` **[Bump Netty to 4.1.108.Final due to CVE-2024-29025](https://github.com/jchambers/pushy/pull/1068)** - 1 year ago
 - `clo4/apple_device_identifiers` **[URL Stopped Working](https://github.com/clo4/apple_device_identifiers/issues/36)** - 2 years ago
 - `eclipse-vertx/vert.x` **[updateSSLOptions doesn't update when the updated secret remain at the same path](https://github.com/eclipse-vertx/vert.x/issues/4867)** - 2 years ago
-- `petarov/sandbox` **[rndimg](https://github.com/petarov/sandbox/issues/10)** - 2 years ago
 - `kenamick/game-off-2017` **[Add shadows](https://github.com/kenamick/game-off-2017/issues/22)** - 2 years ago
-- `kenamick/game-off-2017` **[Desktop version](https://github.com/kenamick/game-off-2017/issues/21)** - 2 years ago
 - `kenamick/game-off-2017` **[Add player lives](https://github.com/kenamick/game-off-2017/issues/19)** - 2 years ago
+- `kenamick/game-off-2017` **[Desktop version](https://github.com/kenamick/game-off-2017/issues/21)** - 2 years ago
+- `kenamick/game-off-2017` **[Font issues](https://github.com/kenamick/game-off-2017/issues/17)** - 2 years ago
 - `kenamick/game-off-2017` **[You can't hit when invincible](https://github.com/kenamick/game-off-2017/issues/16)** - 2 years ago
 - `kenamick/game-off-2017` **[Improve enemies AI](https://github.com/kenamick/game-off-2017/issues/15)** - 2 years ago
-- `kenamick/game-off-2017` **[Font issues](https://github.com/kenamick/game-off-2017/issues/17)** - 2 years ago
 - `kenamick/game-off-2017` **[Game Score & Hall of Fame](https://github.com/kenamick/game-off-2017/issues/13)** - 2 years ago
 - `kenamick/game-off-2017` **[HUD: Enemies counter](https://github.com/kenamick/game-off-2017/issues/12)** - 2 years ago
 - `kenamick/game-off-2017` **[Breakable objects](https://github.com/kenamick/game-off-2017/issues/11)** - 2 years ago
@@ -105,7 +105,6 @@
 - `petarov/java-app-icons` **[Improve reliability of playstore parser and polish](https://github.com/petarov/java-app-icons/pull/2)** - 5 years ago
 - `petarov/shut-up-bird` **[401 error](https://github.com/petarov/shut-up-bird/issues/1)** - 5 years ago
 - `notnoop/java-apns` **[Getting Connection Resets from apns server](https://github.com/notnoop/java-apns/issues/360)** - 5 years ago
-- `vexelon-dot-net/e-additives.server` **[Documentation Related Question](https://github.com/vexelon-dot-net/e-additives.server/issues/18)** - 5 years ago
 - `flyway/flyway` **[Migration breaks due to java.io.IOException: Mark invalid ](https://github.com/flyway/flyway/issues/2875)** - 5 years ago
 - `petarov/translitbg.js` **[there is no transliteration for the character "ѝ" ](https://github.com/petarov/translitbg.js/issues/1)** - 5 years ago
 - `petarov/translitbg.js` **[added transliteration for "ѝ" and "Ѝ"](https://github.com/petarov/translitbg.js/pull/2)** - 5 years ago
@@ -224,7 +223,6 @@
 - `vexelon-dot-net/currencybg.app` **[Add Allianz Bank source](https://github.com/vexelon-dot-net/currencybg.app/pull/76)** - 8 years ago
 - `allegro/axion-release-plugin` **[minor release tag supersedes major alpha tag](https://github.com/allegro/axion-release-plugin/issues/95)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/add missing icons](https://github.com/vexelon-dot-net/currencybg.app/pull/75)** - 8 years ago
-- `vexelon-dot-net/e-additives.server` **[Can I rely on this being around for a while? :)](https://github.com/vexelon-dot-net/e-additives.server/issues/17)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - ForexHouse](https://github.com/vexelon-dot-net/currencybg.server/issues/65)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[App vote & redirect to playstore](https://github.com/vexelon-dot-net/currencybg.app/issues/70)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/optimize fragments](https://github.com/vexelon-dot-net/currencybg.app/pull/74)** - 8 years ago
@@ -403,7 +401,6 @@
 - `cmackay/google-analytics-plugin` **[Remove dependency and use cordova framework tag](https://github.com/cmackay/google-analytics-plugin/pull/44)** - 10 years ago
 - `kenamick/game-off-2012` **[Asset licenses?](https://github.com/kenamick/game-off-2012/issues/1)** - 10 years ago
 - `krampstudio/grunt-jsdoc` **[Wrong path resolved in lib/exec.js](https://github.com/krampstudio/grunt-jsdoc/issues/125)** - 10 years ago
-- `vexelon-dot-net/e-additives.server` **[Cache stampeding](https://github.com/vexelon-dot-net/e-additives.server/issues/10)** - 10 years ago
 - `EddyVerbruggen/SocialSharing-PhoneGap-Plugin` **[Cordova 5 iOS problem](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin/issues/346)** - 10 years ago
 - `floatinghotpot/cordova-iad-pro` **[How can i know if the banner is running](https://github.com/floatinghotpot/cordova-iad-pro/issues/6)** - 10 years ago
 - `craftyjs/Crafty` **[Twoway - allow keys for jumping to be configurable](https://github.com/craftyjs/Crafty/issues/895)** - 10 years ago
@@ -411,8 +408,6 @@
 - `craftyjs/Crafty` **[Add jump keys parameter to TwoWay functionality](https://github.com/craftyjs/Crafty/pull/900)** - 10 years ago
 - `alastairparagas/cordova-minify` **[[minor] uglify-js must not already be present in the package.json of the app](https://github.com/alastairparagas/cordova-minify/issues/4)** - 10 years ago
 - `leereilly/games` **[I have been making a script json2markdown](https://github.com/leereilly/games/issues/80)** - 10 years ago
-- `vexelon-dot-net/e-additives.server` **[API: Validate HTTP Accept header](https://github.com/vexelon-dot-net/e-additives.server/issues/15)** - 11 years ago
-- `vexelon-dot-net/e-additives.server` **[API: Edit additives and categories](https://github.com/vexelon-dot-net/e-additives.server/issues/14)** - 11 years ago
 - `craftyjs/craftyjs.github.com` **[Crafty game prototype demo](https://github.com/craftyjs/craftyjs.github.com/issues/45)** - 11 years ago
 - `vexelon-dot-net/e-additives.web` **[SEO: Make site crawlable](https://github.com/vexelon-dot-net/e-additives.web/issues/25)** - 11 years ago
 - `kenamick/savagewheels` **[Cars get stuck during game play (problem in Physics)](https://github.com/kenamick/savagewheels/issues/4)** - 11 years ago
@@ -426,8 +421,6 @@
 - `slimphp/Slim` **[Removes trailing slash from $_SERVER['DOCUMENT_ROOT'].](https://github.com/slimphp/Slim/pull/654)** - 11 years ago
 - `leereilly/games` **[Added Savage Wheels game](https://github.com/leereilly/games/pull/18)** - 11 years ago
 - `kenamick/psiral` **[Removing a  bit of abiguity - please correct me if I'm wrong.](https://github.com/kenamick/psiral/pull/1)** - 11 years ago
-- `vexelon-dot-net/e-additives.server` **[System crash on data import](https://github.com/vexelon-dot-net/e-additives.server/issues/3)** - 11 years ago
-- `vexelon-dot-net/e-additives.server` **[API: Proper Access Control and authorization keys handling](https://github.com/vexelon-dot-net/e-additives.server/issues/16)** - 11 years ago
 - `melonjs/melonJS` **[Improve `getEntityByProp` (extend usage, and optimize performance)](https://github.com/melonjs/melonJS/issues/302)** - 12 years ago
 - `melonjs/melonJS` **[Add me.timer.setTimeout and me.timer.setInterval](https://github.com/melonjs/melonJS/issues/301)** - 12 years ago
 - `slimphp/Slim` **[Writing unit test for Slim powered PHP application?](https://github.com/slimphp/Slim/issues/740)** - 12 years ago
@@ -440,15 +433,12 @@
 - `melonjs/melonJS` **['animationspeed' is irrelevant when extending AnimationSheet](https://github.com/melonjs/melonJS/issues/298)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Comments on additives pages](https://github.com/vexelon-dot-net/e-additives.web/issues/27)** - 12 years ago
 - `slimphp/Slim` **[Routing broken in 2.3.3 when using Apache aliases](https://github.com/slimphp/Slim/issues/655)** - 12 years ago
-- `vexelon-dot-net/e-additives.server` **[Add cache headers to HTTP response](https://github.com/vexelon-dot-net/e-additives.server/issues/12)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Additives - Search include dates too](https://github.com/vexelon-dot-net/e-additives.web/issues/20)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Explicit statement that IE7 and IE8 are not supported](https://github.com/vexelon-dot-net/e-additives.web/issues/26)** - 12 years ago
-- `vexelon-dot-net/e-additives.server` **[Review/Optimize SQL queries](https://github.com/vexelon-dot-net/e-additives.server/issues/9)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Additives visualization is too slow](https://github.com/vexelon-dot-net/e-additives.web/issues/24)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[de-DE browser locale breaks functionality](https://github.com/vexelon-dot-net/e-additives.web/issues/23)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Browser locale is not recognized](https://github.com/vexelon-dot-net/e-additives.web/issues/22)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Styling of search input box on additives page](https://github.com/vexelon-dot-net/e-additives.web/issues/21)** - 12 years ago
-- `vexelon-dot-net/e-additives.server` **[Add SQL tables prefixes](https://github.com/vexelon-dot-net/e-additives.server/issues/13)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Categories list page](https://github.com/vexelon-dot-net/e-additives.web/issues/13)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Localization - Missing localization in F.A.Q. and partial localization in additive result list](https://github.com/vexelon-dot-net/e-additives.web/issues/18)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Ajax 'wait' animation](https://github.com/vexelon-dot-net/e-additives.web/issues/12)** - 12 years ago
@@ -468,16 +458,8 @@
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Home (index) page](https://github.com/vexelon-dot-net/e-additives.web/issues/1)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Page Header](https://github.com/vexelon-dot-net/e-additives.web/issues/2)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Project structure and checkout requirements](https://github.com/vexelon-dot-net/e-additives.web/issues/5)** - 12 years ago
-- `vexelon-dot-net/e-additives.server` **[Authorization required for "/" route](https://github.com/vexelon-dot-net/e-additives.server/issues/11)** - 12 years ago
-- `vexelon-dot-net/e-additives.server` **[Add Unit and Automated Tests ](https://github.com/vexelon-dot-net/e-additives.server/issues/8)** - 12 years ago
 - `kenamick/savagewheels` **[Menu is only accessible via the mouse](https://github.com/kenamick/savagewheels/issues/3)** - 12 years ago
-- `vexelon-dot-net/e-additives.server` **[Add Travis-CI build](https://github.com/vexelon-dot-net/e-additives.server/issues/7)** - 12 years ago
-- `vexelon-dot-net/e-additives.server` **[Milestone-01 TODOs](https://github.com/vexelon-dot-net/e-additives.server/issues/1)** - 12 years ago
-- `vexelon-dot-net/e-additives.server` **[Add headers validation and authorization API keys](https://github.com/vexelon-dot-net/e-additives.server/issues/6)** - 12 years ago
-- `vexelon-dot-net/e-additives.server` **[Milestone-02 (BETA) TODOs](https://github.com/vexelon-dot-net/e-additives.server/issues/2)** - 12 years ago
-- `vexelon-dot-net/e-additives.server` **[ISO formatted dates](https://github.com/vexelon-dot-net/e-additives.server/issues/5)** - 12 years ago
 - `erazorbg/smfapi` **[Fixes and improvements](https://github.com/erazorbg/smfapi/pull/2)** - 12 years ago
-- `vexelon-dot-net/e-additives.server` **[Encoding issues with xml2sql.py](https://github.com/vexelon-dot-net/e-additives.server/issues/4)** - 12 years ago
 - `kenamick/savagewheels` **[Create startup shell script](https://github.com/kenamick/savagewheels/issues/1)** - 12 years ago
 - `kenamick/savagewheels` **[Add SDL default shared object libraries into the Linux dist package](https://github.com/kenamick/savagewheels/issues/2)** - 12 years ago
 - `towbi/CraftyEntityBoxOverlays` **[Issue with package.json](https://github.com/towbi/CraftyEntityBoxOverlays/issues/2)** - 13 years ago
