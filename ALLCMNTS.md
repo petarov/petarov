@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - in the last 24 hours
-- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 4 days ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 5 days ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 month ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 month ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 2 months ago
@@ -98,7 +98,7 @@
 - `notnoop/java-apns` **[java.net.SocketException: Connection closed by remote host](https://github.com/notnoop/java-apns/issues/375)** - 4 years ago
 - `chris2511/xca` **[Application won't start](https://github.com/chris2511/xca/issues/263)** - 4 years ago
 - `notnoop/java-apns` **[Push Notifications not working for iOS 13](https://github.com/notnoop/java-apns/issues/366)** - 4 years ago
-- `kenamick/savagewheels` **[CMD open](https://github.com/kenamick/savagewheels/issues/9)** - 4 years ago
+- `kenamick/savagewheels` **[CMD open](https://github.com/kenamick/savagewheels/issues/9)** - 5 years ago
 - `petarov/google-android-app-ids` **[Create package.json](https://github.com/petarov/google-android-app-ids/pull/1)** - 5 years ago
 - `kenamick/desktopdefender2` **[Long time no see](https://github.com/kenamick/desktopdefender2/issues/1)** - 5 years ago
 - `petarov/java-app-icons` **[Turn into a CLI](https://github.com/petarov/java-app-icons/issues/1)** - 5 years ago
