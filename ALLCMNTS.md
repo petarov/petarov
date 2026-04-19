@@ -1,11 +1,11 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 day ago
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 3 days ago
-- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 8 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 2 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 4 days ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 9 days ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 month ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 month ago
-- `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 3 months ago
+- `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 4 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 4 months ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 5 months ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 7 months ago
@@ -91,7 +91,7 @@
 - `drawrowfly/amazon-keyword-scraper-go` **[Fix an issue where keyChannel for loop hangs](https://github.com/drawrowfly/amazon-keyword-scraper-go/pull/3)** - 3 years ago
 - `drawrowfly/amazon-keyword-scraper-go` **[Feature/add tld support](https://github.com/drawrowfly/amazon-keyword-scraper-go/pull/4)** - 3 years ago
 - `gogs/gogs` **[Invalid csrf token](https://github.com/gogs/gogs/issues/1891)** - 3 years ago
-- `kenamick/savagewheels` **[Fixed incompatible desktop entries](https://github.com/kenamick/savagewheels/pull/10)** - 3 years ago
+- `kenamick/savagewheels` **[Fixed incompatible desktop entries](https://github.com/kenamick/savagewheels/pull/10)** - 4 years ago
 - `petarov/awesome-mdm-dev` **[Add Headwind MDM](https://github.com/petarov/awesome-mdm-dev/pull/1)** - 4 years ago
 - `mybatis/mybatis-3` **[MyBatis and JDK 9: Illegal reflective access](https://github.com/mybatis/mybatis-3/issues/1156)** - 4 years ago
 - `eclipse-vertx/vert.x` **[Added default value for query parameters.](https://github.com/eclipse-vertx/vert.x/pull/3239)** - 4 years ago
@@ -122,7 +122,7 @@
 - `eclipse-vertx/vert.x` **[Performance issues with vert.x using apache bench](https://github.com/eclipse-vertx/vert.x/issues/2950)** - 6 years ago
 - `admob-plus/admob-plus` **[Fixes NoClassDefFoundError and NPE in Admob cordova plugin](https://github.com/admob-plus/admob-plus/pull/86)** - 6 years ago
 - `googlesamples/android-testdpc` **[INSTALL_FAILED_TEST_ONLY](https://github.com/googlesamples/android-testdpc/issues/32)** - 6 years ago
-- `google/play-work` **[Android Device Policy crash during Registering Device.](https://github.com/google/play-work/issues/29)** - 6 years ago
+- `google/play-work` **[Android Device Policy crash during Registering Device.](https://github.com/google/play-work/issues/29)** - 7 years ago
 - `randytarampi/android-splash` **[splash-port-xhdpi.png](https://github.com/randytarampi/android-splash/issues/2)** - 7 years ago
 - `ionic-team/capacitor` **[Cordova plugins can't execute javascript code with webView.loadUrl](https://github.com/ionic-team/capacitor/issues/1353)** - 7 years ago
 - `micromdm/micromdm` **[restart_device is not a valid request](https://github.com/micromdm/micromdm/issues/573)** - 7 years ago
@@ -264,9 +264,9 @@
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Societe Generale Експресбанк](https://github.com/vexelon-dot-net/currencybg.server/issues/63)** - 8 years ago
 - `notnoop/java-apns` **[Push Notification Server Hangs/Freezes while Sending Notifications to APNS Server](https://github.com/notnoop/java-apns/issues/289)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Нови източници от сървър 1.2](https://github.com/vexelon-dot-net/currencybg.app/issues/50)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Изпращане на репорти в отделен background thread](https://github.com/vexelon-dot-net/currencybg.server/issues/51)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Проблем с теглене на валутите след смяната на часа (DST)](https://github.com/vexelon-dot-net/currencybg.server/issues/77)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Üsed withZoneSameLocal(ZoneId instead of withZoneSameInstant](https://github.com/vexelon-dot-net/currencybg.server/pull/79)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Изпращане на репорти в отделен background thread](https://github.com/vexelon-dot-net/currencybg.server/issues/51)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Проблем с теглене на валутите след смяната на часа (DST)](https://github.com/vexelon-dot-net/currencybg.server/issues/77)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Üsed withZoneSameLocal(ZoneId instead of withZoneSameInstant](https://github.com/vexelon-dot-net/currencybg.server/pull/79)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Wi-Fi only background downloads](https://github.com/vexelon-dot-net/currencybg.app/issues/51)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Upgrade Gradle wrapper to 3.5](https://github.com/vexelon-dot-net/currencybg.server/pull/78)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#51 wifi only downloads](https://github.com/vexelon-dot-net/currencybg.app/pull/52)** - 9 years ago
