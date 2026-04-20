@@ -1,8 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 2 days ago
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 4 days ago
-- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 9 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 3 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 days ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 10 days ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 month ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 4 months ago
@@ -111,7 +111,7 @@
 - `petarov/translitbg.js` **[add support for ѝ and Ѝ](https://github.com/petarov/translitbg.js/pull/3)** - 5 years ago
 - `bbottema/simple-java-mail` **[Send multiple emails per session connection](https://github.com/bbottema/simple-java-mail/issues/198)** - 5 years ago
 - `mattermost/mattermost` **[v5.8.0 upgrade failed: "Error 1071: Specified key was too long; max key length is 767 bytes"](https://github.com/mattermost/mattermost/issues/10358)** - 5 years ago
-- `notnoop/java-apns` **[feature request: add support for priority](https://github.com/notnoop/java-apns/issues/333)** - 5 years ago
+- `notnoop/java-apns` **[feature request: add support for priority](https://github.com/notnoop/java-apns/issues/333)** - 6 years ago
 - `jgthms/bulma` **[Media Object image not displayed](https://github.com/jgthms/bulma/issues/79)** - 6 years ago
 - `googleapis/java-pubsub` **[com.google.pubsub.v1.ProjectTopicName is deprecated](https://github.com/googleapis/java-pubsub/issues/58)** - 6 years ago
 - `notnoop/java-apns` **[Add a more robust way to look up TlsTunnel proxy host name](https://github.com/notnoop/java-apns/pull/347)** - 6 years ago
@@ -263,7 +263,7 @@
 - `vexelon-dot-net/currencybg.app` **[Feature/#5 wallet take2](https://github.com/vexelon-dot-net/currencybg.app/pull/56)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Societe Generale Експресбанк](https://github.com/vexelon-dot-net/currencybg.server/issues/63)** - 8 years ago
 - `notnoop/java-apns` **[Push Notification Server Hangs/Freezes while Sending Notifications to APNS Server](https://github.com/notnoop/java-apns/issues/289)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Нови източници от сървър 1.2](https://github.com/vexelon-dot-net/currencybg.app/issues/50)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Нови източници от сървър 1.2](https://github.com/vexelon-dot-net/currencybg.app/issues/50)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Изпращане на репорти в отделен background thread](https://github.com/vexelon-dot-net/currencybg.server/issues/51)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Проблем с теглене на валутите след смяната на часа (DST)](https://github.com/vexelon-dot-net/currencybg.server/issues/77)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Üsed withZoneSameLocal(ZoneId instead of withZoneSameInstant](https://github.com/vexelon-dot-net/currencybg.server/pull/79)** - 9 years ago
