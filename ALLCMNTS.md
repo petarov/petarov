@@ -1,8 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - in the last 24 hours
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 5 days ago
-- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 12 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 day ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 6 days ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 13 days ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 month ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 4 months ago
@@ -68,7 +68,7 @@
 - `micromdm/micromdm` **[Apply dep-profiles with error](https://github.com/micromdm/micromdm/issues/838)** - 2 years ago
 - `3breadt/dd-plist` **[Add support for POJO annotations](https://github.com/3breadt/dd-plist/pull/58)** - 2 years ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 2 years ago
-- `petarov/apns-push-cmd` **[Added apns-push-type parameter](https://github.com/petarov/apns-push-cmd/pull/5)** - 2 years ago
+- `petarov/apns-push-cmd` **[Added apns-push-type parameter](https://github.com/petarov/apns-push-cmd/pull/5)** - 3 years ago
 - `capawesome-team/capacitor-managed-configurations` **[feat: add iOS support](https://github.com/capawesome-team/capacitor-managed-configurations/issues/4)** - 3 years ago
 - `micromdm/scep` **[Enrollment from CISCO Router](https://github.com/micromdm/scep/issues/211)** - 3 years ago
 - `nihui/realsr-ncnn-vulkan` **[vkCreateInstance failed -9](https://github.com/nihui/realsr-ncnn-vulkan/issues/18)** - 3 years ago
