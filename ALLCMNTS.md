@@ -1,8 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 7 days ago
-- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 14 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 3 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 8 days ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 15 days ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 month ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 4 months ago
@@ -11,7 +11,7 @@
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 7 months ago
 - `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 7 months ago
 - `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 10 months ago
-- `petarov/apns-push-cmd` **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 10 months ago
+- `petarov/apns-push-cmd` **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 11 months ago
 - `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.3.1-jre](https://github.com/petarov/apple-mdm-clients/pull/6)** - 11 months ago
 - `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.4.8-jre](https://github.com/petarov/apple-mdm-clients/pull/3)** - 11 months ago
 - `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.8.0 to 0.10.0](https://github.com/petarov/apple-mdm-clients/pull/1)** - 11 months ago
