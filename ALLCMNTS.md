@@ -1,8 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 3 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 8 days ago
-- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 15 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 4 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 9 days ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 16 days ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 month ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 4 months ago
@@ -90,7 +90,7 @@
 - `vexelon-dot-net/currencybg.app` **[Проверка за обменната стойност на валута към даден период от време](https://github.com/vexelon-dot-net/currencybg.app/issues/2)** - 3 years ago
 - `drawrowfly/amazon-keyword-scraper-go` **[Fix an issue where keyChannel for loop hangs](https://github.com/drawrowfly/amazon-keyword-scraper-go/pull/3)** - 3 years ago
 - `drawrowfly/amazon-keyword-scraper-go` **[Feature/add tld support](https://github.com/drawrowfly/amazon-keyword-scraper-go/pull/4)** - 3 years ago
-- `gogs/gogs` **[Invalid csrf token](https://github.com/gogs/gogs/issues/1891)** - 3 years ago
+- `gogs/gogs` **[Invalid csrf token](https://github.com/gogs/gogs/issues/1891)** - 4 years ago
 - `kenamick/savagewheels` **[Fixed incompatible desktop entries](https://github.com/kenamick/savagewheels/pull/10)** - 4 years ago
 - `petarov/awesome-mdm-dev` **[Add Headwind MDM](https://github.com/petarov/awesome-mdm-dev/pull/1)** - 4 years ago
 - `mybatis/mybatis-3` **[MyBatis and JDK 9: Illegal reflective access](https://github.com/mybatis/mybatis-3/issues/1156)** - 4 years ago
@@ -110,7 +110,7 @@
 - `petarov/translitbg.js` **[added transliteration for "ѝ" and "Ѝ"](https://github.com/petarov/translitbg.js/pull/2)** - 5 years ago
 - `petarov/translitbg.js` **[add support for ѝ and Ѝ](https://github.com/petarov/translitbg.js/pull/3)** - 5 years ago
 - `bbottema/simple-java-mail` **[Send multiple emails per session connection](https://github.com/bbottema/simple-java-mail/issues/198)** - 5 years ago
-- `mattermost/mattermost` **[v5.8.0 upgrade failed: "Error 1071: Specified key was too long; max key length is 767 bytes"](https://github.com/mattermost/mattermost/issues/10358)** - 5 years ago
+- `mattermost/mattermost` **[v5.8.0 upgrade failed: "Error 1071: Specified key was too long; max key length is 767 bytes"](https://github.com/mattermost/mattermost/issues/10358)** - 6 years ago
 - `notnoop/java-apns` **[feature request: add support for priority](https://github.com/notnoop/java-apns/issues/333)** - 6 years ago
 - `jgthms/bulma` **[Media Object image not displayed](https://github.com/jgthms/bulma/issues/79)** - 6 years ago
 - `googleapis/java-pubsub` **[com.google.pubsub.v1.ProjectTopicName is deprecated](https://github.com/googleapis/java-pubsub/issues/58)** - 6 years ago
