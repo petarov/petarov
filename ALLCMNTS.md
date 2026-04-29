@@ -1,8 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 6 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 11 days ago
-- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 18 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 7 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 12 days ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 19 days ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 month ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 4 months ago
@@ -10,11 +10,11 @@
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 5 months ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 7 months ago
 - `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 7 months ago
-- `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 10 months ago
+- `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 11 months ago
 - `petarov/apns-push-cmd` **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 11 months ago
-- `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.3.1-jre](https://github.com/petarov/apple-mdm-clients/pull/6)** - 11 months ago
-- `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.4.8-jre](https://github.com/petarov/apple-mdm-clients/pull/3)** - 11 months ago
-- `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.8.0 to 0.10.0](https://github.com/petarov/apple-mdm-clients/pull/1)** - 11 months ago
+- `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.3.1-jre](https://github.com/petarov/apple-mdm-clients/pull/6)** - 1 year ago
+- `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.4.8-jre](https://github.com/petarov/apple-mdm-clients/pull/3)** - 1 year ago
+- `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.8.0 to 0.10.0](https://github.com/petarov/apple-mdm-clients/pull/1)** - 1 year ago
 - `jchambers/pushy` **[apns-priority has three enumeration values. Why do you only have 10 and 5 here, missing 1?](https://github.com/jchambers/pushy/issues/1088)** - 1 year ago
 - `phaserjs/phaser` **[Anchor always set to (0.5, 0.5) after P2.enableBody](https://github.com/phaserjs/phaser/issues/938)** - 1 year ago
 - `phaserjs/phaser` **[game.add.spriteBatch parameters suggestion](https://github.com/phaserjs/phaser/issues/1000)** - 1 year ago
@@ -48,8 +48,8 @@
 - `kenamick/game-off-2017` **[Add shadows](https://github.com/kenamick/game-off-2017/issues/22)** - 2 years ago
 - `kenamick/game-off-2017` **[Desktop version](https://github.com/kenamick/game-off-2017/issues/21)** - 2 years ago
 - `kenamick/game-off-2017` **[Add player lives](https://github.com/kenamick/game-off-2017/issues/19)** - 2 years ago
-- `kenamick/game-off-2017` **[Improve enemies AI](https://github.com/kenamick/game-off-2017/issues/15)** - 2 years ago
 - `kenamick/game-off-2017` **[Font issues](https://github.com/kenamick/game-off-2017/issues/17)** - 2 years ago
+- `kenamick/game-off-2017` **[Improve enemies AI](https://github.com/kenamick/game-off-2017/issues/15)** - 2 years ago
 - `kenamick/game-off-2017` **[You can't hit when invincible](https://github.com/kenamick/game-off-2017/issues/16)** - 2 years ago
 - `kenamick/game-off-2017` **[Game Score & Hall of Fame](https://github.com/kenamick/game-off-2017/issues/13)** - 2 years ago
 - `kenamick/game-off-2017` **[HUD: Enemies counter](https://github.com/kenamick/game-off-2017/issues/12)** - 2 years ago
@@ -59,6 +59,7 @@
 - `clo4/apple_device_identifiers` **[Reverse mapping: identifiers to device name](https://github.com/clo4/apple_device_identifiers/issues/35)** - 2 years ago
 - `micromdm/micromdm` **[Leave Remote Management](https://github.com/micromdm/micromdm/issues/922)** - 2 years ago
 - `micromdm/micromdm` **[Apply dep-profiles with error](https://github.com/micromdm/micromdm/issues/838)** - 2 years ago
+- `3breadt/dd-plist` **[Add support for POJO annotations](https://github.com/3breadt/dd-plist/pull/58)** - 2 years ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 3 years ago
 - `petarov/apns-push-cmd` **[Added apns-push-type parameter](https://github.com/petarov/apns-push-cmd/pull/5)** - 3 years ago
 - `capawesome-team/capacitor-managed-configurations` **[feat: add iOS support](https://github.com/capawesome-team/capacitor-managed-configurations/issues/4)** - 3 years ago
@@ -79,6 +80,7 @@
 - `chris2511/xca` **[Application won't start](https://github.com/chris2511/xca/issues/263)** - 4 years ago
 - `notnoop/java-apns` **[Push Notifications not working for iOS 13](https://github.com/notnoop/java-apns/issues/366)** - 4 years ago
 - `kenamick/savagewheels` **[CMD open](https://github.com/kenamick/savagewheels/issues/9)** - 5 years ago
+- `petarov/google-android-app-ids` **[Create package.json](https://github.com/petarov/google-android-app-ids/pull/1)** - 5 years ago
 - `kenamick/desktopdefender2` **[Long time no see](https://github.com/kenamick/desktopdefender2/issues/1)** - 5 years ago
 - `petarov/java-app-icons` **[Turn into a CLI](https://github.com/petarov/java-app-icons/issues/1)** - 5 years ago
 - `petarov/shut-up-bird` **[401 error](https://github.com/petarov/shut-up-bird/issues/1)** - 5 years ago
@@ -97,6 +99,7 @@
 - `admob-plus/admob-plus` **[Crash Issue In Android](https://github.com/admob-plus/admob-plus/issues/77)** - 6 years ago
 - `tcurdt/jdependency` **[java.lang.UnsupportedOperationException: This feature requires ASM7](https://github.com/tcurdt/jdependency/issues/21)** - 6 years ago
 - `eclipse-vertx/vert.x` **[Performance issues with vert.x using apache bench](https://github.com/eclipse-vertx/vert.x/issues/2950)** - 6 years ago
+- `admob-plus/admob-plus` **[Fixes NoClassDefFoundError and NPE in Admob cordova plugin](https://github.com/admob-plus/admob-plus/pull/86)** - 6 years ago
 - `googlesamples/android-testdpc` **[INSTALL_FAILED_TEST_ONLY](https://github.com/googlesamples/android-testdpc/issues/32)** - 6 years ago
 - `google/play-work` **[Android Device Policy crash during Registering Device.](https://github.com/google/play-work/issues/29)** - 7 years ago
 - `randytarampi/android-splash` **[splash-port-xhdpi.png](https://github.com/randytarampi/android-splash/issues/2)** - 7 years ago
@@ -109,6 +112,7 @@
 - `kenamick/spaceghost-cga` **[TODOs v1](https://github.com/kenamick/spaceghost-cga/issues/1)** - 7 years ago
 - `erazorbg/smfapi` **[More Test cases](https://github.com/erazorbg/smfapi/issues/3)** - 7 years ago
 - `invertase/react-native-firebase` **[Android: JDK 10 not supported for v4.1.0](https://github.com/invertase/react-native-firebase/issues/1070)** - 7 years ago
+- `k0shk0sh/FastHub` **[Add missing BG language translations](https://github.com/k0shk0sh/FastHub/pull/2060)** - 7 years ago
 - `mcollovati/vertx-vaadin` **[Create branch for vaadin 10 support](https://github.com/mcollovati/vertx-vaadin/issues/4)** - 7 years ago
 - `vexelon-dot-net/currencybg.app` **[Немска локализация](https://github.com/vexelon-dot-net/currencybg.app/issues/32)** - 7 years ago
 - `vexelon-dot-net/currencybg.app` **[GA Event/Exception reports](https://github.com/vexelon-dot-net/currencybg.app/issues/54)** - 7 years ago
