@@ -1,8 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 7 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 12 days ago
-- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 19 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 8 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 13 days ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 20 days ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 month ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 4 months ago
@@ -35,6 +35,8 @@
 - `jchambers/pushy` **[2025 CA change for apns](https://github.com/jchambers/pushy/issues/1098)** - 1 year ago
 - `seize-the-dave/jscep` **[High security alert found in jscep lib](https://github.com/seize-the-dave/jscep/issues/304)** - 1 year ago
 - `brettwooldridge/HikariCP` **[SQLTimeoutException closes connection](https://github.com/brettwooldridge/HikariCP/issues/1388)** - 1 year ago
+- `fengtan/ldap-explorer` **[Add connectTimeout LdapConnection field with default value of 5000 ms.](https://github.com/fengtan/ldap-explorer/pull/63)** - 1 year ago
+- `fengtan/ldap-explorer` **[Decode binary ObjectSid to its string representation](https://github.com/fengtan/ldap-explorer/pull/62)** - 1 year ago
 - `fengtan/ldap-explorer` **[FEATURE: Decode Active Directory server GUIDs](https://github.com/fengtan/ldap-explorer/issues/33)** - 1 year ago
 - `fengtan/ldap-explorer` **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60)** - 1 year ago
 - `AzureAD/microsoft-authentication-library-for-objc` **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 1 year ago
@@ -43,21 +45,26 @@
 - `petarov/google-android-app-ids` **[easy uninstall script](https://github.com/petarov/google-android-app-ids/issues/3)** - 1 year ago
 - `google/play-work` **[Error - missing certificate_base64 in .json file while uploading JSON to playstore](https://github.com/google/play-work/issues/39)** - 1 year ago
 - `microsoftgraph/msgraph-sdk-java-core` **[possible bug (deadlock) when posting batch request content over a certain length](https://github.com/microsoftgraph/msgraph-sdk-java-core/issues/1687)** - 1 year ago
+- `jchambers/pushy` **[Bump Netty to 4.1.108.Final due to CVE-2024-29025](https://github.com/jchambers/pushy/pull/1068)** - 1 year ago
 - `clo4/apple_device_identifiers` **[URL Stopped Working](https://github.com/clo4/apple_device_identifiers/issues/36)** - 2 years ago
 - `eclipse-vertx/vert.x` **[updateSSLOptions doesn't update when the updated secret remain at the same path](https://github.com/eclipse-vertx/vert.x/issues/4867)** - 2 years ago
 - `kenamick/game-off-2017` **[Add shadows](https://github.com/kenamick/game-off-2017/issues/22)** - 2 years ago
-- `kenamick/game-off-2017` **[Desktop version](https://github.com/kenamick/game-off-2017/issues/21)** - 2 years ago
 - `kenamick/game-off-2017` **[Add player lives](https://github.com/kenamick/game-off-2017/issues/19)** - 2 years ago
+- `kenamick/game-off-2017` **[Desktop version](https://github.com/kenamick/game-off-2017/issues/21)** - 2 years ago
 - `kenamick/game-off-2017` **[Font issues](https://github.com/kenamick/game-off-2017/issues/17)** - 2 years ago
-- `kenamick/game-off-2017` **[Improve enemies AI](https://github.com/kenamick/game-off-2017/issues/15)** - 2 years ago
 - `kenamick/game-off-2017` **[You can't hit when invincible](https://github.com/kenamick/game-off-2017/issues/16)** - 2 years ago
+- `kenamick/game-off-2017` **[Improve enemies AI](https://github.com/kenamick/game-off-2017/issues/15)** - 2 years ago
 - `kenamick/game-off-2017` **[Game Score & Hall of Fame](https://github.com/kenamick/game-off-2017/issues/13)** - 2 years ago
 - `kenamick/game-off-2017` **[HUD: Enemies counter](https://github.com/kenamick/game-off-2017/issues/12)** - 2 years ago
 - `kenamick/game-off-2017` **[Breakable objects](https://github.com/kenamick/game-off-2017/issues/11)** - 2 years ago
 - `kenamick/game-off-2017` **[Player moves too slow or seems like moving too slow](https://github.com/kenamick/game-off-2017/issues/8)** - 2 years ago
+- `petarov/translitbg.js` **[Update translitbg.js](https://github.com/petarov/translitbg.js/pull/83)** - 2 years ago
 - `vexelon-dot-net/currencybg.server` **[Използване на Java Persistence API](https://github.com/vexelon-dot-net/currencybg.server/issues/73)** - 2 years ago
 - `clo4/apple_device_identifiers` **[Reverse mapping: identifiers to device name](https://github.com/clo4/apple_device_identifiers/issues/35)** - 2 years ago
 - `micromdm/micromdm` **[Leave Remote Management](https://github.com/micromdm/micromdm/issues/922)** - 2 years ago
+- `petarov/bulgarian-control-numbers` **[Build(deps-dev): Bump prettier from 2.8.8 to 3.0.1](https://github.com/petarov/bulgarian-control-numbers/pull/209)** - 2 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/gcp migration](https://github.com/vexelon-dot-net/currencybg.server/pull/110)** - 2 years ago
+- `petarov/bulgarian-control-numbers` **[Build(deps-dev): Bump prettier from 2.8.8 to 3.0.0](https://github.com/petarov/bulgarian-control-numbers/pull/206)** - 2 years ago
 - `micromdm/micromdm` **[Apply dep-profiles with error](https://github.com/micromdm/micromdm/issues/838)** - 2 years ago
 - `3breadt/dd-plist` **[Add support for POJO annotations](https://github.com/3breadt/dd-plist/pull/58)** - 2 years ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 3 years ago
@@ -67,26 +74,40 @@
 - `nihui/realsr-ncnn-vulkan` **[vkCreateInstance failed -9](https://github.com/nihui/realsr-ncnn-vulkan/issues/18)** - 3 years ago
 - `micromdm/micromdm` **[How to install ABM apps with micromdm?](https://github.com/micromdm/micromdm/issues/845)** - 3 years ago
 - `99designs/colorific` **[except Exception, e: / SyntaxError: invalid syntax ](https://github.com/99designs/colorific/issues/5)** - 3 years ago
+- `micromdm/micromdm` **[Added installAsManaged to Installapplication](https://github.com/micromdm/micromdm/pull/684)** - 3 years ago
+- `petarov/bulgarian-control-numbers` **[Bump @babel/core from 7.19.3 to 7.19.6](https://github.com/petarov/bulgarian-control-numbers/pull/165)** - 3 years ago
+- `petarov/bulgarian-control-numbers` **[Bump @babel/preset-env from 7.19.3 to 7.19.4](https://github.com/petarov/bulgarian-control-numbers/pull/166)** - 3 years ago
+- `petarov/bulgarian-control-numbers` **[Bump jest from 29.1.2 to 29.2.2](https://github.com/petarov/bulgarian-control-numbers/pull/164)** - 3 years ago
 - `justinpinkney/stable-diffusion` **[AttributeError: 'FrozenCLIPImageEmbedder' object has no attribute 'transformer'](https://github.com/justinpinkney/stable-diffusion/issues/13)** - 3 years ago
 - `Automattic/node-canvas` **[Import SVG files](https://github.com/Automattic/node-canvas/issues/494)** - 3 years ago
+- `micromdm/micromdm` **[Change PushCertificateRequest file extension to txt](https://github.com/micromdm/micromdm/pull/833)** - 3 years ago
+- `coder/code-server` **[Fix caddy installation docs](https://github.com/coder/code-server/pull/5209)** - 3 years ago
 - `melonjs/melonJS` **[TMX tileset image loading issue](https://github.com/melonjs/melonJS/issues/296)** - 3 years ago
+- `petarov/apns-push-cmd` **[Allow sending custom JSON message](https://github.com/petarov/apns-push-cmd/pull/1)** - 3 years ago
 - `Kotlin/dokka` **[ClassCastException when parsing a java file with method annotations passing array values](https://github.com/Kotlin/dokka/issues/2350)** - 3 years ago
 - `vexelon-dot-net/currencybg.app` **[android.view.WindowLeaked при смяна на ориентацията](https://github.com/vexelon-dot-net/currencybg.app/issues/55)** - 3 years ago
 - `vexelon-dot-net/currencybg.app` **[Auto-complete при екрана Преобразуване](https://github.com/vexelon-dot-net/currencybg.app/issues/53)** - 3 years ago
 - `vexelon-dot-net/currencybg.app` **[Проверка за обменната стойност на валута към даден период от време](https://github.com/vexelon-dot-net/currencybg.app/issues/2)** - 3 years ago
+- `drawrowfly/amazon-keyword-scraper-go` **[Fix an issue where keyChannel for loop hangs](https://github.com/drawrowfly/amazon-keyword-scraper-go/pull/3)** - 3 years ago
+- `drawrowfly/amazon-keyword-scraper-go` **[Feature/add tld support](https://github.com/drawrowfly/amazon-keyword-scraper-go/pull/4)** - 3 years ago
 - `gogs/gogs` **[Invalid csrf token](https://github.com/gogs/gogs/issues/1891)** - 4 years ago
+- `kenamick/savagewheels` **[Fixed incompatible desktop entries](https://github.com/kenamick/savagewheels/pull/10)** - 4 years ago
+- `petarov/awesome-mdm-dev` **[Add Headwind MDM](https://github.com/petarov/awesome-mdm-dev/pull/1)** - 4 years ago
 - `mybatis/mybatis-3` **[MyBatis and JDK 9: Illegal reflective access](https://github.com/mybatis/mybatis-3/issues/1156)** - 4 years ago
+- `eclipse-vertx/vert.x` **[Added default value for query parameters.](https://github.com/eclipse-vertx/vert.x/pull/3239)** - 4 years ago
 - `notnoop/java-apns` **[java.net.SocketException: Connection closed by remote host](https://github.com/notnoop/java-apns/issues/375)** - 4 years ago
 - `chris2511/xca` **[Application won't start](https://github.com/chris2511/xca/issues/263)** - 4 years ago
-- `notnoop/java-apns` **[Push Notifications not working for iOS 13](https://github.com/notnoop/java-apns/issues/366)** - 4 years ago
+- `notnoop/java-apns` **[Push Notifications not working for iOS 13](https://github.com/notnoop/java-apns/issues/366)** - 5 years ago
 - `kenamick/savagewheels` **[CMD open](https://github.com/kenamick/savagewheels/issues/9)** - 5 years ago
 - `petarov/google-android-app-ids` **[Create package.json](https://github.com/petarov/google-android-app-ids/pull/1)** - 5 years ago
 - `kenamick/desktopdefender2` **[Long time no see](https://github.com/kenamick/desktopdefender2/issues/1)** - 5 years ago
 - `petarov/java-app-icons` **[Turn into a CLI](https://github.com/petarov/java-app-icons/issues/1)** - 5 years ago
+- `petarov/java-app-icons` **[Improve reliability of playstore parser and polish](https://github.com/petarov/java-app-icons/pull/2)** - 5 years ago
 - `petarov/shut-up-bird` **[401 error](https://github.com/petarov/shut-up-bird/issues/1)** - 5 years ago
 - `notnoop/java-apns` **[Getting Connection Resets from apns server](https://github.com/notnoop/java-apns/issues/360)** - 5 years ago
 - `flyway/flyway` **[Migration breaks due to java.io.IOException: Mark invalid ](https://github.com/flyway/flyway/issues/2875)** - 5 years ago
 - `petarov/translitbg.js` **[there is no transliteration for the character "ѝ" ](https://github.com/petarov/translitbg.js/issues/1)** - 5 years ago
+- `petarov/translitbg.js` **[added transliteration for "ѝ" and "Ѝ"](https://github.com/petarov/translitbg.js/pull/2)** - 5 years ago
 - `petarov/translitbg.js` **[add support for ѝ and Ѝ](https://github.com/petarov/translitbg.js/pull/3)** - 5 years ago
 - `bbottema/simple-java-mail` **[Send multiple emails per session connection](https://github.com/bbottema/simple-java-mail/issues/198)** - 5 years ago
 - `mattermost/mattermost` **[v5.8.0 upgrade failed: "Error 1071: Specified key was too long; max key length is 767 bytes"](https://github.com/mattermost/mattermost/issues/10358)** - 6 years ago
@@ -110,6 +131,7 @@
 - `eclipse-vertx/vert.x` **[HttpClientRequest.get/getNow is deprecated, what should I use instead?](https://github.com/eclipse-vertx/vert.x/issues/2831)** - 7 years ago
 - `mybatis/mybatis-3` **[OffsetDateTimeTypeHandler or ZonedDateTimeTypeHandler loses time zone information](https://github.com/mybatis/mybatis-3/issues/1081)** - 7 years ago
 - `kenamick/spaceghost-cga` **[TODOs v1](https://github.com/kenamick/spaceghost-cga/issues/1)** - 7 years ago
+- `microsoft/mssql-jdbc` **[java.time.OffsetDateTime value sent to the server should not be affected by the default time zone.](https://github.com/microsoft/mssql-jdbc/pull/831)** - 7 years ago
 - `erazorbg/smfapi` **[More Test cases](https://github.com/erazorbg/smfapi/issues/3)** - 7 years ago
 - `invertase/react-native-firebase` **[Android: JDK 10 not supported for v4.1.0](https://github.com/invertase/react-native-firebase/issues/1070)** - 7 years ago
 - `k0shk0sh/FastHub` **[Add missing BG language translations](https://github.com/k0shk0sh/FastHub/pull/2060)** - 7 years ago
@@ -118,9 +140,11 @@
 - `vexelon-dot-net/currencybg.app` **[GA Event/Exception reports](https://github.com/vexelon-dot-net/currencybg.app/issues/54)** - 7 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Varchev](https://github.com/vexelon-dot-net/currencybg.server/issues/67)** - 7 years ago
 - `GradleUp/shadow` **[shadowJar fails - lower ASM API version](https://github.com/GradleUp/shadow/issues/406)** - 7 years ago
+- `GradleUp/shadow` **[Upgrade ASM to 7.0-beta and jdependency to 2.1.1](https://github.com/GradleUp/shadow/pull/415)** - 7 years ago
 - `kenamick/game-off-2017` **[The Punch Plan](https://github.com/kenamick/game-off-2017/issues/2)** - 7 years ago
 - `akhikhl/wuff` **[Errror with Convert existing Eclipse plugins and apps to Gradle](https://github.com/akhikhl/wuff/issues/113)** - 7 years ago
 - `viritin/viritin` **[BrowserCookie NPE when reading cookie](https://github.com/viritin/viritin/issues/53)** - 7 years ago
+- `petarov/wuff` **[Add missing extendsFrom directives.](https://github.com/petarov/wuff/pull/1)** - 7 years ago
 - `slimphp/Slim` **[Documentation is awesome, tutorials are lacking](https://github.com/slimphp/Slim/issues/656)** - 7 years ago
 - `ionic-team/ionic-framework` **[bug: node.js 5.0.0 and ionic-cli problem](https://github.com/ionic-team/ionic-framework/issues/4598)** - 7 years ago
 - `ionic-team/ionic-framework` **[bug: window.device is undefined](https://github.com/ionic-team/ionic-framework/issues/4370)** - 7 years ago
@@ -129,6 +153,7 @@
 - `ionic-team/ionic-framework` **[bug: Navigation Title won't update after HTTP request](https://github.com/ionic-team/ionic-framework/issues/2900)** - 7 years ago
 - `ionic-team/ionic-framework` **[bug: Navbar title mispalced on Android](https://github.com/ionic-team/ionic-framework/issues/3064)** - 7 years ago
 - `moby/moby` **[[1.6.0][graphdriver] prior storage driver "devicemapper" failed: error intializing graphdriver](https://github.com/moby/moby/issues/13008)** - 7 years ago
+- `petarov/reside` **[Bugfix/duplicate keys](https://github.com/petarov/reside/pull/1)** - 7 years ago
 - `framework7io/framework7` **[Feat. request: myApp.showTab(tab, force) ](https://github.com/framework7io/framework7/issues/362)** - 7 years ago
 - `framework7io/framework7` **[tabs as a sub header? Feature Request!](https://github.com/framework7io/framework7/issues/360)** - 7 years ago
 - `framework7io/framework7` **[framework7.min.css is not minified](https://github.com/framework7io/framework7/issues/371)** - 7 years ago
@@ -236,8 +261,8 @@
 - `vexelon-dot-net/currencybg.app` **[Моят портфейл](https://github.com/vexelon-dot-net/currencybg.app/issues/5)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Catch runtime exception explicitly when parsing currncies from a source](https://github.com/vexelon-dot-net/currencybg.server/pull/80)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#5 wallet take2](https://github.com/vexelon-dot-net/currencybg.app/pull/56)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Нов източник - Societe Generale Експресбанк](https://github.com/vexelon-dot-net/currencybg.server/issues/63)** - 8 years ago
-- `notnoop/java-apns` **[Push Notification Server Hangs/Freezes while Sending Notifications to APNS Server](https://github.com/notnoop/java-apns/issues/289)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Нов източник - Societe Generale Експресбанк](https://github.com/vexelon-dot-net/currencybg.server/issues/63)** - 9 years ago
+- `notnoop/java-apns` **[Push Notification Server Hangs/Freezes while Sending Notifications to APNS Server](https://github.com/notnoop/java-apns/issues/289)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Нови източници от сървър 1.2](https://github.com/vexelon-dot-net/currencybg.app/issues/50)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Изпращане на репорти в отделен background thread](https://github.com/vexelon-dot-net/currencybg.server/issues/51)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Проблем с теглене на валутите след смяната на часа (DST)](https://github.com/vexelon-dot-net/currencybg.server/issues/77)** - 9 years ago
@@ -435,8 +460,8 @@
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Project structure and checkout requirements](https://github.com/vexelon-dot-net/e-additives.web/issues/5)** - 12 years ago
 - `kenamick/savagewheels` **[Menu is only accessible via the mouse](https://github.com/kenamick/savagewheels/issues/3)** - 12 years ago
 - `erazorbg/smfapi` **[Fixes and improvements](https://github.com/erazorbg/smfapi/pull/2)** - 12 years ago
-- `kenamick/savagewheels` **[Add SDL default shared object libraries into the Linux dist package](https://github.com/kenamick/savagewheels/issues/2)** - 12 years ago
 - `kenamick/savagewheels` **[Create startup shell script](https://github.com/kenamick/savagewheels/issues/1)** - 12 years ago
+- `kenamick/savagewheels` **[Add SDL default shared object libraries into the Linux dist package](https://github.com/kenamick/savagewheels/issues/2)** - 12 years ago
 - `towbi/CraftyEntityBoxOverlays` **[Issue with package.json](https://github.com/towbi/CraftyEntityBoxOverlays/issues/2)** - 13 years ago
 - `tanakahisateru/js-markdown-extra` **[CRLF line endings fix](https://github.com/tanakahisateru/js-markdown-extra/pull/25)** - 13 years ago
 - `petarov/CraftyMouseFace` **[Generalize mouse input](https://github.com/petarov/CraftyMouseFace/pull/2)** - 13 years ago
