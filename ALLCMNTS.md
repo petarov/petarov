@@ -1,8 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 8 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 13 days ago
-- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 20 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 9 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 14 days ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 21 days ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 month ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 4 months ago
@@ -258,9 +258,9 @@
 - `vexelon-dot-net/currencybg.server` **[java.lang.OutOfMemoryError: unable to create new native thread](https://github.com/vexelon-dot-net/currencybg.server/issues/59)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Обмяна на валута - Цветово кодиране](https://github.com/vexelon-dot-net/currencybg.app/issues/43)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#43 convert colors](https://github.com/vexelon-dot-net/currencybg.app/pull/57)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Моят портфейл](https://github.com/vexelon-dot-net/currencybg.app/issues/5)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Catch runtime exception explicitly when parsing currncies from a source](https://github.com/vexelon-dot-net/currencybg.server/pull/80)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Feature/#5 wallet take2](https://github.com/vexelon-dot-net/currencybg.app/pull/56)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Моят портфейл](https://github.com/vexelon-dot-net/currencybg.app/issues/5)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Catch runtime exception explicitly when parsing currncies from a source](https://github.com/vexelon-dot-net/currencybg.server/pull/80)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Feature/#5 wallet take2](https://github.com/vexelon-dot-net/currencybg.app/pull/56)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Societe Generale Експресбанк](https://github.com/vexelon-dot-net/currencybg.server/issues/63)** - 9 years ago
 - `notnoop/java-apns` **[Push Notification Server Hangs/Freezes while Sending Notifications to APNS Server](https://github.com/notnoop/java-apns/issues/289)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Нови източници от сървър 1.2](https://github.com/vexelon-dot-net/currencybg.app/issues/50)** - 9 years ago
