@@ -1,8 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 16 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 21 days ago
-- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 28 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 17 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 22 days ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 29 days ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 month ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 month ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 4 months ago
@@ -121,7 +121,7 @@
 - `tcurdt/jdependency` **[java.lang.UnsupportedOperationException: This feature requires ASM7](https://github.com/tcurdt/jdependency/issues/21)** - 6 years ago
 - `eclipse-vertx/vert.x` **[Performance issues with vert.x using apache bench](https://github.com/eclipse-vertx/vert.x/issues/2950)** - 6 years ago
 - `admob-plus/admob-plus` **[Fixes NoClassDefFoundError and NPE in Admob cordova plugin](https://github.com/admob-plus/admob-plus/pull/86)** - 6 years ago
-- `googlesamples/android-testdpc` **[INSTALL_FAILED_TEST_ONLY](https://github.com/googlesamples/android-testdpc/issues/32)** - 6 years ago
+- `googlesamples/android-testdpc` **[INSTALL_FAILED_TEST_ONLY](https://github.com/googlesamples/android-testdpc/issues/32)** - 7 years ago
 - `google/play-work` **[Android Device Policy crash during Registering Device.](https://github.com/google/play-work/issues/29)** - 7 years ago
 - `randytarampi/android-splash` **[splash-port-xhdpi.png](https://github.com/randytarampi/android-splash/issues/2)** - 7 years ago
 - `ionic-team/capacitor` **[Cordova plugins can't execute javascript code with webView.loadUrl](https://github.com/ionic-team/capacitor/issues/1353)** - 7 years ago
@@ -380,8 +380,8 @@
 - `vexelon-dot-net/currencybg.app` **[Не работещ ENTER бутон](https://github.com/vexelon-dot-net/currencybg.app/issues/11)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Празно пространство](https://github.com/vexelon-dot-net/currencybg.app/issues/12)** - 9 years ago
 - `notnoop/java-apns` **[New release](https://github.com/notnoop/java-apns/issues/293)** - 9 years ago
-- `kenamick/savagewheels` **[Code updates requests for next release](https://github.com/kenamick/savagewheels/issues/6)** - 9 years ago
-- `kenamick/savagewheels` **[Feature/linux dirs](https://github.com/kenamick/savagewheels/pull/7)** - 9 years ago
+- `kenamick/savagewheels` **[Code updates requests for next release](https://github.com/kenamick/savagewheels/issues/6)** - 10 years ago
+- `kenamick/savagewheels` **[Feature/linux dirs](https://github.com/kenamick/savagewheels/pull/7)** - 10 years ago
 - `akhikhl/wuff` **[Still maintained?](https://github.com/akhikhl/wuff/issues/105)** - 10 years ago
 - `Automattic/node-canvas` **[Error npm installing canvas@1.1.3 on Windows (GTK does not come with libpng.lib)](https://github.com/Automattic/node-canvas/issues/412)** - 10 years ago
 - `schteppe/p2.js` **[DOM rendering demo](https://github.com/schteppe/p2.js/issues/45)** - 10 years ago
