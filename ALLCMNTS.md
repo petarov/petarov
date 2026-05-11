@@ -1,10 +1,10 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 18 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 23 days ago
-- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 30 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 19 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 24 days ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 1 month ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 month ago
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 1 month ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 2 months ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 4 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 4 months ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 6 months ago
@@ -120,7 +120,7 @@
 - `admob-plus/admob-plus` **[Crash Issue In Android](https://github.com/admob-plus/admob-plus/issues/77)** - 6 years ago
 - `tcurdt/jdependency` **[java.lang.UnsupportedOperationException: This feature requires ASM7](https://github.com/tcurdt/jdependency/issues/21)** - 6 years ago
 - `eclipse-vertx/vert.x` **[Performance issues with vert.x using apache bench](https://github.com/eclipse-vertx/vert.x/issues/2950)** - 6 years ago
-- `admob-plus/admob-plus` **[Fixes NoClassDefFoundError and NPE in Admob cordova plugin](https://github.com/admob-plus/admob-plus/pull/86)** - 6 years ago
+- `admob-plus/admob-plus` **[Fixes NoClassDefFoundError and NPE in Admob cordova plugin](https://github.com/admob-plus/admob-plus/pull/86)** - 7 years ago
 - `googlesamples/android-testdpc` **[INSTALL_FAILED_TEST_ONLY](https://github.com/googlesamples/android-testdpc/issues/32)** - 7 years ago
 - `google/play-work` **[Android Device Policy crash during Registering Device.](https://github.com/google/play-work/issues/29)** - 7 years ago
 - `randytarampi/android-splash` **[splash-port-xhdpi.png](https://github.com/randytarampi/android-splash/issues/2)** - 7 years ago
@@ -251,8 +251,8 @@
 - `vexelon-dot-net/currencybg.server` **[Източници за Биткойни](https://github.com/vexelon-dot-net/currencybg.server/issues/68)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Информация за източниците](https://github.com/vexelon-dot-net/currencybg.app/issues/46)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#46 sources information view](https://github.com/vexelon-dot-net/currencybg.app/pull/62)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Добавяне на повече от 1 валута/източник при Преобразуване](https://github.com/vexelon-dot-net/currencybg.app/issues/59)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Feature/#59 convert select checkboxes](https://github.com/vexelon-dot-net/currencybg.app/pull/60)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Добавяне на повече от 1 валута/източник при Преобразуване](https://github.com/vexelon-dot-net/currencybg.app/issues/59)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Feature/#59 convert select checkboxes](https://github.com/vexelon-dot-net/currencybg.app/pull/60)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Added Crypto as Source(for bitcoins)](https://github.com/vexelon-dot-net/currencybg.server/pull/84)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Invalid/#81 fix tavex parsing date issue](https://github.com/vexelon-dot-net/currencybg.server/pull/82)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[java.lang.OutOfMemoryError: unable to create new native thread](https://github.com/vexelon-dot-net/currencybg.server/issues/59)** - 9 years ago
@@ -406,7 +406,7 @@
 - `craftyjs/Crafty` **[Twoway - allow keys for jumping to be configurable](https://github.com/craftyjs/Crafty/issues/895)** - 10 years ago
 - `craftyjs/Crafty` **[Add jump keys parameter to TwoWay component](https://github.com/craftyjs/Crafty/pull/898)** - 10 years ago
 - `craftyjs/Crafty` **[Add jump keys parameter to TwoWay functionality](https://github.com/craftyjs/Crafty/pull/900)** - 10 years ago
-- `alastairparagas/cordova-minify` **[[minor] uglify-js must not already be present in the package.json of the app](https://github.com/alastairparagas/cordova-minify/issues/4)** - 10 years ago
+- `alastairparagas/cordova-minify` **[[minor] uglify-js must not already be present in the package.json of the app](https://github.com/alastairparagas/cordova-minify/issues/4)** - 11 years ago
 - `leereilly/games` **[I have been making a script json2markdown](https://github.com/leereilly/games/issues/80)** - 11 years ago
 - `craftyjs/craftyjs.github.com` **[Crafty game prototype demo](https://github.com/craftyjs/craftyjs.github.com/issues/45)** - 11 years ago
 - `vexelon-dot-net/e-additives.web` **[SEO: Make site crawlable](https://github.com/vexelon-dot-net/e-additives.web/issues/25)** - 11 years ago
