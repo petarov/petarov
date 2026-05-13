@@ -1,9 +1,9 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 20 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 25 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 21 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 26 days ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 1 month ago
-- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 1 month ago
+- `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 2 months ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 2 months ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 4 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 5 months ago
@@ -248,7 +248,7 @@
 - `vexelon-dot-net/currencybg.server` **[Тестове за UniCredit и SGExpress](https://github.com/vexelon-dot-net/currencybg.server/issues/83)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Add Crypto.bg source](https://github.com/vexelon-dot-net/currencybg.app/issues/63)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Add BTC source, image and infos](https://github.com/vexelon-dot-net/currencybg.app/pull/64)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Източници за Биткойни](https://github.com/vexelon-dot-net/currencybg.server/issues/68)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Източници за Биткойни](https://github.com/vexelon-dot-net/currencybg.server/issues/68)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Информация за източниците](https://github.com/vexelon-dot-net/currencybg.app/issues/46)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#46 sources information view](https://github.com/vexelon-dot-net/currencybg.app/pull/62)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Добавяне на повече от 1 валута/източник при Преобразуване](https://github.com/vexelon-dot-net/currencybg.app/issues/59)** - 9 years ago
