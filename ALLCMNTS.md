@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 21 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 26 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 22 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 27 days ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 1 month ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 2 months ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 2 months ago
@@ -379,7 +379,7 @@
 - `seize-the-dave/jscep` **[Hotfix/1.3.1-bouncycastle-146](https://github.com/seize-the-dave/jscep/pull/56)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Не работещ ENTER бутон](https://github.com/vexelon-dot-net/currencybg.app/issues/11)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Празно пространство](https://github.com/vexelon-dot-net/currencybg.app/issues/12)** - 9 years ago
-- `notnoop/java-apns` **[New release](https://github.com/notnoop/java-apns/issues/293)** - 9 years ago
+- `notnoop/java-apns` **[New release](https://github.com/notnoop/java-apns/issues/293)** - 10 years ago
 - `kenamick/savagewheels` **[Code updates requests for next release](https://github.com/kenamick/savagewheels/issues/6)** - 10 years ago
 - `kenamick/savagewheels` **[Feature/linux dirs](https://github.com/kenamick/savagewheels/pull/7)** - 10 years ago
 - `akhikhl/wuff` **[Still maintained?](https://github.com/akhikhl/wuff/issues/105)** - 10 years ago
