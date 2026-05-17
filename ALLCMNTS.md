@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 24 days ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 29 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 25 days ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 30 days ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 1 month ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 2 months ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 2 months ago
@@ -66,7 +66,7 @@
 - `vexelon-dot-net/currencybg.server` **[Feature/gcp migration](https://github.com/vexelon-dot-net/currencybg.server/pull/110)** - 2 years ago
 - `petarov/bulgarian-control-numbers` **[Build(deps-dev): Bump prettier from 2.8.8 to 3.0.0](https://github.com/petarov/bulgarian-control-numbers/pull/206)** - 2 years ago
 - `micromdm/micromdm` **[Apply dep-profiles with error](https://github.com/micromdm/micromdm/issues/838)** - 2 years ago
-- `3breadt/dd-plist` **[Add support for POJO annotations](https://github.com/3breadt/dd-plist/pull/58)** - 2 years ago
+- `3breadt/dd-plist` **[Add support for POJO annotations](https://github.com/3breadt/dd-plist/pull/58)** - 3 years ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 3 years ago
 - `petarov/apns-push-cmd` **[Added apns-push-type parameter](https://github.com/petarov/apns-push-cmd/pull/5)** - 3 years ago
 - `capawesome-team/capacitor-managed-configurations` **[feat: add iOS support](https://github.com/capawesome-team/capacitor-managed-configurations/issues/4)** - 3 years ago
@@ -246,7 +246,7 @@
 - `vexelon-dot-net/currencybg.app` **[Оптимизация при ръчно обновяване на курсовете](https://github.com/vexelon-dot-net/currencybg.app/issues/58)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/#58 manual updates query](https://github.com/vexelon-dot-net/currencybg.app/pull/65)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Тестове за UniCredit и SGExpress](https://github.com/vexelon-dot-net/currencybg.server/issues/83)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Add Crypto.bg source](https://github.com/vexelon-dot-net/currencybg.app/issues/63)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Add Crypto.bg source](https://github.com/vexelon-dot-net/currencybg.app/issues/63)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Add BTC source, image and infos](https://github.com/vexelon-dot-net/currencybg.app/pull/64)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Източници за Биткойни](https://github.com/vexelon-dot-net/currencybg.server/issues/68)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Информация за източниците](https://github.com/vexelon-dot-net/currencybg.app/issues/46)** - 9 years ago
@@ -376,7 +376,7 @@
 - `kenamick/psiral` **[Game doesn't scale on Retina displays](https://github.com/kenamick/psiral/issues/13)** - 9 years ago
 - `akhikhl/wuff` **[How to nest jar's into bundle lib folder?](https://github.com/akhikhl/wuff/issues/106)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Encoding на данните в таблицата](https://github.com/vexelon-dot-net/currencybg.server/issues/2)** - 9 years ago
-- `seize-the-dave/jscep` **[Hotfix/1.3.1-bouncycastle-146](https://github.com/seize-the-dave/jscep/pull/56)** - 9 years ago
+- `seize-the-dave/jscep` **[Hotfix/1.3.1-bouncycastle-146](https://github.com/seize-the-dave/jscep/pull/56)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Не работещ ENTER бутон](https://github.com/vexelon-dot-net/currencybg.app/issues/11)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Празно пространство](https://github.com/vexelon-dot-net/currencybg.app/issues/12)** - 10 years ago
 - `notnoop/java-apns` **[New release](https://github.com/notnoop/java-apns/issues/293)** - 10 years ago
