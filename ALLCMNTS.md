@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 27 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 28 days ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 1 month ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 2 months ago
@@ -85,11 +85,11 @@
 - `melonjs/melonJS` **[TMX tileset image loading issue](https://github.com/melonjs/melonJS/issues/296)** - 3 years ago
 - `petarov/apns-push-cmd` **[Allow sending custom JSON message](https://github.com/petarov/apns-push-cmd/pull/1)** - 3 years ago
 - `Kotlin/dokka` **[ClassCastException when parsing a java file with method annotations passing array values](https://github.com/Kotlin/dokka/issues/2350)** - 3 years ago
-- `vexelon-dot-net/currencybg.app` **[android.view.WindowLeaked при смяна на ориентацията](https://github.com/vexelon-dot-net/currencybg.app/issues/55)** - 3 years ago
-- `vexelon-dot-net/currencybg.app` **[Auto-complete при екрана Преобразуване](https://github.com/vexelon-dot-net/currencybg.app/issues/53)** - 3 years ago
-- `vexelon-dot-net/currencybg.app` **[Проверка за обменната стойност на валута към даден период от време](https://github.com/vexelon-dot-net/currencybg.app/issues/2)** - 3 years ago
-- `drawrowfly/amazon-keyword-scraper-go` **[Fix an issue where keyChannel for loop hangs](https://github.com/drawrowfly/amazon-keyword-scraper-go/pull/3)** - 3 years ago
-- `drawrowfly/amazon-keyword-scraper-go` **[Feature/add tld support](https://github.com/drawrowfly/amazon-keyword-scraper-go/pull/4)** - 3 years ago
+- `vexelon-dot-net/currencybg.app` **[android.view.WindowLeaked при смяна на ориентацията](https://github.com/vexelon-dot-net/currencybg.app/issues/55)** - 4 years ago
+- `vexelon-dot-net/currencybg.app` **[Auto-complete при екрана Преобразуване](https://github.com/vexelon-dot-net/currencybg.app/issues/53)** - 4 years ago
+- `vexelon-dot-net/currencybg.app` **[Проверка за обменната стойност на валута към даден период от време](https://github.com/vexelon-dot-net/currencybg.app/issues/2)** - 4 years ago
+- `drawrowfly/amazon-keyword-scraper-go` **[Fix an issue where keyChannel for loop hangs](https://github.com/drawrowfly/amazon-keyword-scraper-go/pull/3)** - 4 years ago
+- `drawrowfly/amazon-keyword-scraper-go` **[Feature/add tld support](https://github.com/drawrowfly/amazon-keyword-scraper-go/pull/4)** - 4 years ago
 - `gogs/gogs` **[Invalid csrf token](https://github.com/gogs/gogs/issues/1891)** - 4 years ago
 - `kenamick/savagewheels` **[Fixed incompatible desktop entries](https://github.com/kenamick/savagewheels/pull/10)** - 4 years ago
 - `petarov/awesome-mdm-dev` **[Add Headwind MDM](https://github.com/petarov/awesome-mdm-dev/pull/1)** - 4 years ago
