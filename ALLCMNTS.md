@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 30 days ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 1 month ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 2 months ago
@@ -242,7 +242,7 @@
 - `vexelon-dot-net/currencybg.server` **[Removed unnecessary comment from Crypto test class](https://github.com/vexelon-dot-net/currencybg.server/pull/90)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Changed CryptoBg accress for parse of data](https://github.com/vexelon-dot-net/currencybg.server/pull/89)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Tavex parsing failure](https://github.com/vexelon-dot-net/currencybg.server/issues/81)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Bug/crypto arrow issue](https://github.com/vexelon-dot-net/currencybg.server/pull/86)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Bug/crypto arrow issue](https://github.com/vexelon-dot-net/currencybg.server/pull/86)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Оптимизация при ръчно обновяване на курсовете](https://github.com/vexelon-dot-net/currencybg.app/issues/58)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/#58 manual updates query](https://github.com/vexelon-dot-net/currencybg.app/pull/65)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Тестове за UniCredit и SGExpress](https://github.com/vexelon-dot-net/currencybg.server/issues/83)** - 9 years ago
@@ -375,7 +375,7 @@
 - `vexelon-dot-net/currencybg.server` **[Преразглеждане на формата на валутите от BNB](https://github.com/vexelon-dot-net/currencybg.server/issues/10)** - 9 years ago
 - `kenamick/psiral` **[Game doesn't scale on Retina displays](https://github.com/kenamick/psiral/issues/13)** - 9 years ago
 - `akhikhl/wuff` **[How to nest jar's into bundle lib folder?](https://github.com/akhikhl/wuff/issues/106)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Encoding на данните в таблицата](https://github.com/vexelon-dot-net/currencybg.server/issues/2)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Encoding на данните в таблицата](https://github.com/vexelon-dot-net/currencybg.server/issues/2)** - 10 years ago
 - `seize-the-dave/jscep` **[Hotfix/1.3.1-bouncycastle-146](https://github.com/seize-the-dave/jscep/pull/56)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Не работещ ENTER бутон](https://github.com/vexelon-dot-net/currencybg.app/issues/11)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Празно пространство](https://github.com/vexelon-dot-net/currencybg.app/issues/12)** - 10 years ago
