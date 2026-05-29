@@ -1,5 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
+- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - in the last 24 hours
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 1 month ago
@@ -460,8 +461,8 @@
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Project structure and checkout requirements](https://github.com/vexelon-dot-net/e-additives.web/issues/5)** - 12 years ago
 - `kenamick/savagewheels` **[Menu is only accessible via the mouse](https://github.com/kenamick/savagewheels/issues/3)** - 12 years ago
 - `erazorbg/smfapi` **[Fixes and improvements](https://github.com/erazorbg/smfapi/pull/2)** - 12 years ago
-- `kenamick/savagewheels` **[Create startup shell script](https://github.com/kenamick/savagewheels/issues/1)** - 12 years ago
 - `kenamick/savagewheels` **[Add SDL default shared object libraries into the Linux dist package](https://github.com/kenamick/savagewheels/issues/2)** - 12 years ago
+- `kenamick/savagewheels` **[Create startup shell script](https://github.com/kenamick/savagewheels/issues/1)** - 12 years ago
 - `towbi/CraftyEntityBoxOverlays` **[Issue with package.json](https://github.com/towbi/CraftyEntityBoxOverlays/issues/2)** - 13 years ago
 - `tanakahisateru/js-markdown-extra` **[CRLF line endings fix](https://github.com/tanakahisateru/js-markdown-extra/pull/25)** - 13 years ago
 - `petarov/CraftyMouseFace` **[Generalize mouse input](https://github.com/petarov/CraftyMouseFace/pull/2)** - 13 years ago
