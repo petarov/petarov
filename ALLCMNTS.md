@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - in the last 24 hours
+- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 1 day ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 1 month ago
@@ -374,7 +374,7 @@
 - `vexelon-dot-net/currencybg.server` **[Нов източник Tavex](https://github.com/vexelon-dot-net/currencybg.server/issues/8)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/tarvex source](https://github.com/vexelon-dot-net/currencybg.server/pull/15)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Преразглеждане на формата на валутите от BNB](https://github.com/vexelon-dot-net/currencybg.server/issues/10)** - 9 years ago
-- `kenamick/psiral` **[Game doesn't scale on Retina displays](https://github.com/kenamick/psiral/issues/13)** - 9 years ago
+- `kenamick/psiral` **[Game doesn't scale on Retina displays](https://github.com/kenamick/psiral/issues/13)** - 10 years ago
 - `akhikhl/wuff` **[How to nest jar's into bundle lib folder?](https://github.com/akhikhl/wuff/issues/106)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Encoding на данните в таблицата](https://github.com/vexelon-dot-net/currencybg.server/issues/2)** - 10 years ago
 - `seize-the-dave/jscep` **[Hotfix/1.3.1-bouncycastle-146](https://github.com/seize-the-dave/jscep/pull/56)** - 10 years ago
