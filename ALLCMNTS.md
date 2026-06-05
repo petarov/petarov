@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 1 day ago
-- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 6 days ago
+- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 2 days ago
+- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 7 days ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 1 month ago
@@ -372,8 +372,8 @@
 - `vexelon-dot-net/currencybg.server` **[Изтриване на първоначален сървър от OShft](https://github.com/vexelon-dot-net/currencybg.server/issues/5)** - 9 years ago
 - `cmackay/google-analytics-plugin` **[Active page won't show in GA Real time](https://github.com/cmackay/google-analytics-plugin/issues/63)** - 9 years ago
 - `nwutils/nw-builder` **[0.13.0-alpha3 linux64 build fails](https://github.com/nwutils/nw-builder/issues/254)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Нов източник Tavex](https://github.com/vexelon-dot-net/currencybg.server/issues/8)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/tarvex source](https://github.com/vexelon-dot-net/currencybg.server/pull/15)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Нов източник Tavex](https://github.com/vexelon-dot-net/currencybg.server/issues/8)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/tarvex source](https://github.com/vexelon-dot-net/currencybg.server/pull/15)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Преразглеждане на формата на валутите от BNB](https://github.com/vexelon-dot-net/currencybg.server/issues/10)** - 10 years ago
 - `kenamick/psiral` **[Game doesn't scale on Retina displays](https://github.com/kenamick/psiral/issues/13)** - 10 years ago
 - `akhikhl/wuff` **[How to nest jar's into bundle lib folder?](https://github.com/akhikhl/wuff/issues/106)** - 10 years ago
