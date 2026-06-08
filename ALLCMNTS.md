@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 days ago
-- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 9 days ago
+- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 5 days ago
+- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 10 days ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 1 month ago
@@ -371,7 +371,7 @@
 - `vexelon-dot-net/currencybg.server` **[Таблица на източници на валути](https://github.com/vexelon-dot-net/currencybg.server/issues/7)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Изтриване на първоначален сървър от OShft](https://github.com/vexelon-dot-net/currencybg.server/issues/5)** - 9 years ago
 - `cmackay/google-analytics-plugin` **[Active page won't show in GA Real time](https://github.com/cmackay/google-analytics-plugin/issues/63)** - 9 years ago
-- `nwutils/nw-builder` **[0.13.0-alpha3 linux64 build fails](https://github.com/nwutils/nw-builder/issues/254)** - 9 years ago
+- `nwutils/nw-builder` **[0.13.0-alpha3 linux64 build fails](https://github.com/nwutils/nw-builder/issues/254)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник Tavex](https://github.com/vexelon-dot-net/currencybg.server/issues/8)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/tarvex source](https://github.com/vexelon-dot-net/currencybg.server/pull/15)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Преразглеждане на формата на валутите от BNB](https://github.com/vexelon-dot-net/currencybg.server/issues/10)** - 10 years ago
@@ -403,7 +403,7 @@
 - `cmackay/google-analytics-plugin` **[Remove dependency and use cordova framework tag](https://github.com/cmackay/google-analytics-plugin/pull/44)** - 10 years ago
 - `kenamick/game-off-2012` **[Asset licenses?](https://github.com/kenamick/game-off-2012/issues/1)** - 10 years ago
 - `krampstudio/grunt-jsdoc` **[Wrong path resolved in lib/exec.js](https://github.com/krampstudio/grunt-jsdoc/issues/125)** - 10 years ago
-- `EddyVerbruggen/SocialSharing-PhoneGap-Plugin` **[Cordova 5 iOS problem](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin/issues/346)** - 10 years ago
+- `EddyVerbruggen/SocialSharing-PhoneGap-Plugin` **[Cordova 5 iOS problem](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin/issues/346)** - 11 years ago
 - `floatinghotpot/cordova-iad-pro` **[How can i know if the banner is running](https://github.com/floatinghotpot/cordova-iad-pro/issues/6)** - 11 years ago
 - `craftyjs/Crafty` **[Twoway - allow keys for jumping to be configurable](https://github.com/craftyjs/Crafty/issues/895)** - 11 years ago
 - `craftyjs/Crafty` **[Add jump keys parameter to TwoWay component](https://github.com/craftyjs/Crafty/pull/898)** - 11 years ago
