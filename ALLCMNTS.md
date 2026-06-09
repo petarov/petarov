@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 5 days ago
-- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 10 days ago
+- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 6 days ago
+- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 11 days ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 1 month ago
@@ -242,8 +242,8 @@
 - `vexelon-dot-net/currencybg.server` **[Added changepartner as source](https://github.com/vexelon-dot-net/currencybg.server/pull/87)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Оптимизация на данните от cryptobg](https://github.com/vexelon-dot-net/currencybg.server/issues/88)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Removed unnecessary comment from Crypto test class](https://github.com/vexelon-dot-net/currencybg.server/pull/90)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Changed CryptoBg accress for parse of data](https://github.com/vexelon-dot-net/currencybg.server/pull/89)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Tavex parsing failure](https://github.com/vexelon-dot-net/currencybg.server/issues/81)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Changed CryptoBg accress for parse of data](https://github.com/vexelon-dot-net/currencybg.server/pull/89)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Tavex parsing failure](https://github.com/vexelon-dot-net/currencybg.server/issues/81)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Bug/crypto arrow issue](https://github.com/vexelon-dot-net/currencybg.server/pull/86)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Оптимизация при ръчно обновяване на курсовете](https://github.com/vexelon-dot-net/currencybg.app/issues/58)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/#58 manual updates query](https://github.com/vexelon-dot-net/currencybg.app/pull/65)** - 9 years ago
