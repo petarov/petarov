@@ -1,14 +1,14 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 7 days ago
-- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 12 days ago
+- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 8 days ago
+- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 13 days ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 2 months ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 2 months ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 3 months ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 5 months ago
-- `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 5 months ago
+- `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 6 months ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 7 months ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 9 months ago
 - `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 9 months ago
@@ -162,7 +162,7 @@
 - `framework7io/framework7` **[page.context is undefined when in onPageBack callback](https://github.com/framework7io/framework7/issues/369)** - 7 years ago
 - `framework7io/framework7` **[ajaxComplete and ajaxSend](https://github.com/framework7io/framework7/issues/168)** - 7 years ago
 - `framework7io/framework7` **[Prevent 'JSON parse error' exceptions](https://github.com/framework7io/framework7/issues/363)** - 7 years ago
-- `j3k0/cordova-plugin-purchase` **[[Android] Invalid Purchases / Weird Receipts](https://github.com/j3k0/cordova-plugin-purchase/issues/619)** - 7 years ago
+- `j3k0/cordova-plugin-purchase` **[[Android] Invalid Purchases / Weird Receipts](https://github.com/j3k0/cordova-plugin-purchase/issues/619)** - 8 years ago
 - `pac4j/pac4j` **[(2.3.x Backport) Add case-insensitive header name comparison in HeaderExtractor](https://github.com/pac4j/pac4j/pull/1142)** - 8 years ago
 - `pac4j/pac4j` **[Add case-insensitive header name comparison in HeaderExtractor](https://github.com/pac4j/pac4j/pull/1141)** - 8 years ago
 - `Homebrew/homebrew-core` **[gradle 3.4](https://github.com/Homebrew/homebrew-core/pull/10181)** - 8 years ago
@@ -240,7 +240,7 @@
 - `vexelon-dot-net/currencybg.app` **[Feature/#66 source changepartner](https://github.com/vexelon-dot-net/currencybg.app/pull/68)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Changepartner](https://github.com/vexelon-dot-net/currencybg.server/issues/66)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Added changepartner as source](https://github.com/vexelon-dot-net/currencybg.server/pull/87)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Оптимизация на данните от cryptobg](https://github.com/vexelon-dot-net/currencybg.server/issues/88)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Оптимизация на данните от cryptobg](https://github.com/vexelon-dot-net/currencybg.server/issues/88)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Removed unnecessary comment from Crypto test class](https://github.com/vexelon-dot-net/currencybg.server/pull/90)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Changed CryptoBg accress for parse of data](https://github.com/vexelon-dot-net/currencybg.server/pull/89)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Tavex parsing failure](https://github.com/vexelon-dot-net/currencybg.server/issues/81)** - 9 years ago
