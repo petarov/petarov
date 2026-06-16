@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 12 days ago
-- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 17 days ago
+- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 13 days ago
+- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 18 days ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 1 month ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 1 month ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 2 months ago
@@ -234,10 +234,10 @@
 - `vexelon-dot-net/currencybg.app` **[Feature/#1 share rates](https://github.com/vexelon-dot-net/currencybg.app/pull/71)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Added new currency code exceptions](https://github.com/vexelon-dot-net/currencybg.server/pull/93)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Enhancement/#65 forex house](https://github.com/vexelon-dot-net/currencybg.server/pull/92)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Калкулатор при залагане на стойност в портфейла](https://github.com/vexelon-dot-net/currencybg.app/issues/61)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Upgrade Gradle wrapper to 4.0](https://github.com/vexelon-dot-net/currencybg.server/pull/91)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Feature/#61 wallet calculator](https://github.com/vexelon-dot-net/currencybg.app/pull/69)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Feature/#66 source changepartner](https://github.com/vexelon-dot-net/currencybg.app/pull/68)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Калкулатор при залагане на стойност в портфейла](https://github.com/vexelon-dot-net/currencybg.app/issues/61)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Upgrade Gradle wrapper to 4.0](https://github.com/vexelon-dot-net/currencybg.server/pull/91)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Feature/#61 wallet calculator](https://github.com/vexelon-dot-net/currencybg.app/pull/69)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Feature/#66 source changepartner](https://github.com/vexelon-dot-net/currencybg.app/pull/68)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Changepartner](https://github.com/vexelon-dot-net/currencybg.server/issues/66)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Added changepartner as source](https://github.com/vexelon-dot-net/currencybg.server/pull/87)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Оптимизация на данните от cryptobg](https://github.com/vexelon-dot-net/currencybg.server/issues/88)** - 9 years ago
