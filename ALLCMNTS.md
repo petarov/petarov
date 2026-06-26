@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 22 days ago
-- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 27 days ago
+- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 23 days ago
+- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 28 days ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 months ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 2 months ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 2 months ago
@@ -232,7 +232,7 @@
 - `vexelon-dot-net/currencybg.app` **[Споделяне на валути и преобразувания](https://github.com/vexelon-dot-net/currencybg.app/issues/1)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#66 add forex house](https://github.com/vexelon-dot-net/currencybg.app/pull/72)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#1 share rates](https://github.com/vexelon-dot-net/currencybg.app/pull/71)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Added new currency code exceptions](https://github.com/vexelon-dot-net/currencybg.server/pull/93)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Added new currency code exceptions](https://github.com/vexelon-dot-net/currencybg.server/pull/93)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Enhancement/#65 forex house](https://github.com/vexelon-dot-net/currencybg.server/pull/92)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Калкулатор при залагане на стойност в портфейла](https://github.com/vexelon-dot-net/currencybg.app/issues/61)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Upgrade Gradle wrapper to 4.0](https://github.com/vexelon-dot-net/currencybg.server/pull/91)** - 9 years ago
