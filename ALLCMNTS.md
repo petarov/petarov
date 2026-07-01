@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 27 days ago
+- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 28 days ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 1 month ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 months ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 2 months ago
@@ -368,7 +368,7 @@
 - `vexelon-dot-net/currencybg.server` **[Нов източник Полана1](https://github.com/vexelon-dot-net/currencybg.server/issues/13)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник FIB](https://github.com/vexelon-dot-net/currencybg.server/issues/9)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Maintenance режим](https://github.com/vexelon-dot-net/currencybg.server/issues/1)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Таблица на източници на валути](https://github.com/vexelon-dot-net/currencybg.server/issues/7)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Таблица на източници на валути](https://github.com/vexelon-dot-net/currencybg.server/issues/7)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Изтриване на първоначален сървър от OShft](https://github.com/vexelon-dot-net/currencybg.server/issues/5)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[Active page won't show in GA Real time](https://github.com/cmackay/google-analytics-plugin/issues/63)** - 10 years ago
 - `nwutils/nw-builder` **[0.13.0-alpha3 linux64 build fails](https://github.com/nwutils/nw-builder/issues/254)** - 10 years ago
