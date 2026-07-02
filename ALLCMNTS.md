@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 28 days ago
+- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 29 days ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 1 month ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 months ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 2 months ago
@@ -97,7 +97,7 @@
 - `petarov/awesome-mdm-dev` **[Add Headwind MDM](https://github.com/petarov/awesome-mdm-dev/pull/1)** - 4 years ago
 - `mybatis/mybatis-3` **[MyBatis and JDK 9: Illegal reflective access](https://github.com/mybatis/mybatis-3/issues/1156)** - 4 years ago
 - `eclipse-vertx/vert.x` **[Added default value for query parameters.](https://github.com/eclipse-vertx/vert.x/pull/3239)** - 4 years ago
-- `notnoop/java-apns` **[java.net.SocketException: Connection closed by remote host](https://github.com/notnoop/java-apns/issues/375)** - 4 years ago
+- `notnoop/java-apns` **[java.net.SocketException: Connection closed by remote host](https://github.com/notnoop/java-apns/issues/375)** - 5 years ago
 - `chris2511/xca` **[Application won't start](https://github.com/chris2511/xca/issues/263)** - 5 years ago
 - `notnoop/java-apns` **[Push Notifications not working for iOS 13](https://github.com/notnoop/java-apns/issues/366)** - 5 years ago
 - `kenamick/savagewheels` **[CMD open](https://github.com/kenamick/savagewheels/issues/9)** - 5 years ago
@@ -229,9 +229,9 @@
 - `vexelon-dot-net/currencybg.app` **[App vote & redirect to playstore](https://github.com/vexelon-dot-net/currencybg.app/issues/70)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/optimize fragments](https://github.com/vexelon-dot-net/currencybg.app/pull/74)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#70 add vote for app](https://github.com/vexelon-dot-net/currencybg.app/pull/73)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Споделяне на валути и преобразувания](https://github.com/vexelon-dot-net/currencybg.app/issues/1)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Feature/#66 add forex house](https://github.com/vexelon-dot-net/currencybg.app/pull/72)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Feature/#1 share rates](https://github.com/vexelon-dot-net/currencybg.app/pull/71)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Споделяне на валути и преобразувания](https://github.com/vexelon-dot-net/currencybg.app/issues/1)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Feature/#66 add forex house](https://github.com/vexelon-dot-net/currencybg.app/pull/72)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Feature/#1 share rates](https://github.com/vexelon-dot-net/currencybg.app/pull/71)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Added new currency code exceptions](https://github.com/vexelon-dot-net/currencybg.server/pull/93)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Enhancement/#65 forex house](https://github.com/vexelon-dot-net/currencybg.server/pull/92)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Калкулатор при залагане на стойност в портфейла](https://github.com/vexelon-dot-net/currencybg.app/issues/61)** - 9 years ago
