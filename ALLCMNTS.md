@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 29 days ago
+- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 30 days ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 1 month ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 months ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 2 months ago
@@ -96,7 +96,7 @@
 - `kenamick/savagewheels` **[Fixed incompatible desktop entries](https://github.com/kenamick/savagewheels/pull/10)** - 4 years ago
 - `petarov/awesome-mdm-dev` **[Add Headwind MDM](https://github.com/petarov/awesome-mdm-dev/pull/1)** - 4 years ago
 - `mybatis/mybatis-3` **[MyBatis and JDK 9: Illegal reflective access](https://github.com/mybatis/mybatis-3/issues/1156)** - 4 years ago
-- `eclipse-vertx/vert.x` **[Added default value for query parameters.](https://github.com/eclipse-vertx/vert.x/pull/3239)** - 4 years ago
+- `eclipse-vertx/vert.x` **[Added default value for query parameters.](https://github.com/eclipse-vertx/vert.x/pull/3239)** - 5 years ago
 - `notnoop/java-apns` **[java.net.SocketException: Connection closed by remote host](https://github.com/notnoop/java-apns/issues/375)** - 5 years ago
 - `chris2511/xca` **[Application won't start](https://github.com/chris2511/xca/issues/263)** - 5 years ago
 - `notnoop/java-apns` **[Push Notifications not working for iOS 13](https://github.com/notnoop/java-apns/issues/366)** - 5 years ago
@@ -108,9 +108,9 @@
 - `petarov/shut-up-bird` **[401 error](https://github.com/petarov/shut-up-bird/issues/1)** - 5 years ago
 - `notnoop/java-apns` **[Getting Connection Resets from apns server](https://github.com/notnoop/java-apns/issues/360)** - 5 years ago
 - `flyway/flyway` **[Migration breaks due to java.io.IOException: Mark invalid ](https://github.com/flyway/flyway/issues/2875)** - 5 years ago
-- `petarov/translitbg.js` **[there is no transliteration for the character "ѝ" ](https://github.com/petarov/translitbg.js/issues/1)** - 5 years ago
-- `petarov/translitbg.js` **[added transliteration for "ѝ" and "Ѝ"](https://github.com/petarov/translitbg.js/pull/2)** - 5 years ago
-- `petarov/translitbg.js` **[add support for ѝ and Ѝ](https://github.com/petarov/translitbg.js/pull/3)** - 5 years ago
+- `petarov/translitbg.js` **[there is no transliteration for the character "ѝ" ](https://github.com/petarov/translitbg.js/issues/1)** - 6 years ago
+- `petarov/translitbg.js` **[added transliteration for "ѝ" and "Ѝ"](https://github.com/petarov/translitbg.js/pull/2)** - 6 years ago
+- `petarov/translitbg.js` **[add support for ѝ and Ѝ](https://github.com/petarov/translitbg.js/pull/3)** - 6 years ago
 - `bbottema/simple-java-mail` **[Send multiple emails per session connection](https://github.com/bbottema/simple-java-mail/issues/198)** - 6 years ago
 - `mattermost/mattermost` **[v5.8.0 upgrade failed: "Error 1071: Specified key was too long; max key length is 767 bytes"](https://github.com/mattermost/mattermost/issues/10358)** - 6 years ago
 - `notnoop/java-apns` **[feature request: add support for priority](https://github.com/notnoop/java-apns/issues/333)** - 6 years ago
@@ -225,10 +225,10 @@
 - `vexelon-dot-net/currencybg.app` **[Add Allianz Bank source](https://github.com/vexelon-dot-net/currencybg.app/pull/76)** - 8 years ago
 - `allegro/axion-release-plugin` **[minor release tag supersedes major alpha tag](https://github.com/allegro/axion-release-plugin/issues/95)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/add missing icons](https://github.com/vexelon-dot-net/currencybg.app/pull/75)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Нов източник - ForexHouse](https://github.com/vexelon-dot-net/currencybg.server/issues/65)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[App vote & redirect to playstore](https://github.com/vexelon-dot-net/currencybg.app/issues/70)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Bugfix/optimize fragments](https://github.com/vexelon-dot-net/currencybg.app/pull/74)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Feature/#70 add vote for app](https://github.com/vexelon-dot-net/currencybg.app/pull/73)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Нов източник - ForexHouse](https://github.com/vexelon-dot-net/currencybg.server/issues/65)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[App vote & redirect to playstore](https://github.com/vexelon-dot-net/currencybg.app/issues/70)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Bugfix/optimize fragments](https://github.com/vexelon-dot-net/currencybg.app/pull/74)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Feature/#70 add vote for app](https://github.com/vexelon-dot-net/currencybg.app/pull/73)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Споделяне на валути и преобразувания](https://github.com/vexelon-dot-net/currencybg.app/issues/1)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#66 add forex house](https://github.com/vexelon-dot-net/currencybg.app/pull/72)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#1 share rates](https://github.com/vexelon-dot-net/currencybg.app/pull/71)** - 9 years ago
@@ -361,13 +361,13 @@
 - `vexelon-dot-net/currencybg.server` **[Added new method updateSource](https://github.com/vexelon-dot-net/currencybg.server/pull/16)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#11 use constants](https://github.com/vexelon-dot-net/currencybg.server/pull/25)** - 9 years ago
 - `kenamick/savagewheels` **[Update handling of Linux LIBEXEC and DATADIR paths](https://github.com/kenamick/savagewheels/pull/8)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Премахване на Redis от production сървъра](https://github.com/vexelon-dot-net/currencybg.server/issues/6)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Нормализация на Купува/Продава стойности преди запис в базата](https://github.com/vexelon-dot-net/currencybg.server/issues/12)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/#1 add maintenance mode](https://github.com/vexelon-dot-net/currencybg.server/pull/20)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/#7 add lastupdate time](https://github.com/vexelon-dot-net/currencybg.server/pull/19)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Нов източник Полана1](https://github.com/vexelon-dot-net/currencybg.server/issues/13)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Нов източник FIB](https://github.com/vexelon-dot-net/currencybg.server/issues/9)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Maintenance режим](https://github.com/vexelon-dot-net/currencybg.server/issues/1)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Премахване на Redis от production сървъра](https://github.com/vexelon-dot-net/currencybg.server/issues/6)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Нормализация на Купува/Продава стойности преди запис в базата](https://github.com/vexelon-dot-net/currencybg.server/issues/12)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/#1 add maintenance mode](https://github.com/vexelon-dot-net/currencybg.server/pull/20)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/#7 add lastupdate time](https://github.com/vexelon-dot-net/currencybg.server/pull/19)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Нов източник Полана1](https://github.com/vexelon-dot-net/currencybg.server/issues/13)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Нов източник FIB](https://github.com/vexelon-dot-net/currencybg.server/issues/9)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Maintenance режим](https://github.com/vexelon-dot-net/currencybg.server/issues/1)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Таблица на източници на валути](https://github.com/vexelon-dot-net/currencybg.server/issues/7)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Изтриване на първоначален сървър от OShft](https://github.com/vexelon-dot-net/currencybg.server/issues/5)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[Active page won't show in GA Real time](https://github.com/cmackay/google-analytics-plugin/issues/63)** - 10 years ago
@@ -419,7 +419,7 @@
 - `phaserjs/phaser` **[Fix issue #883](https://github.com/phaserjs/phaser/pull/1002)** - 11 years ago
 - `slimphp/Slim` **[Refer to $app as $this inside a router](https://github.com/slimphp/Slim/pull/660)** - 11 years ago
 - `petarov/CraftyMouseFace` **[Update package.json](https://github.com/petarov/CraftyMouseFace/pull/1)** - 11 years ago
-- `erazorbg/smfapi` **[added ability to use composer](https://github.com/erazorbg/smfapi/pull/1)** - 11 years ago
+- `erazorbg/smfapi` **[added ability to use composer](https://github.com/erazorbg/smfapi/pull/1)** - 12 years ago
 - `slimphp/Slim` **[Removes trailing slash from $_SERVER['DOCUMENT_ROOT'].](https://github.com/slimphp/Slim/pull/654)** - 12 years ago
 - `leereilly/games` **[Added Savage Wheels game](https://github.com/leereilly/games/pull/18)** - 12 years ago
 - `kenamick/psiral` **[Removing a  bit of abiguity - please correct me if I'm wrong.](https://github.com/kenamick/psiral/pull/1)** - 12 years ago
