@@ -1,13 +1,13 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 1 day ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 4 days ago
-  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 10 days ago
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 20 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 2 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 5 days ago
+  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 11 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 21 days ago
 
 **random**
 
-  - **[CraftyMouseFace](https://github.com/petarov/CraftyMouseFace)** - 11 years ago
+  - **[game-off-2017](https://github.com/kenamick/game-off-2017)** - 2 years ago
 
 **pull requests, issues, comments** <sub>past 6 months, [all](ALLCMNTS.md)</sub>
 
@@ -17,4 +17,4 @@
   - **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998#issuecomment-3711284515)** - 5 months ago
   - **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616#issuecomment-3709873039)** - 5 months ago
 
-<sub>updated: 2026-07-04 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-07-05 | gh(@]vexelon.net</sub>
