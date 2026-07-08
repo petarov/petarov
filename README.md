@@ -1,13 +1,13 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - in the last 24 hours
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 4 days ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 7 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 1 day ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 5 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 8 days ago
   - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 13 days ago
 
 **random**
 
-  - **[appstore-web-search](https://github.com/petarov/appstore-web-search)** - 1 month ago
+  - **[reside](https://github.com/petarov/reside)** - 1 year ago
 
 **pull requests, issues, comments** <sub>past 6 months, [all](ALLCMNTS.md)</sub>
 
@@ -15,4 +15,4 @@
   - **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140#issuecomment-4562483244)** - 1 month ago
   - **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120#issuecomment-4213093704)** - 2 months ago
 
-<sub>updated: 2026-07-07 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-07-08 | gh(@]vexelon.net</sub>
