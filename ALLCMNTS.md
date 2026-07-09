@@ -85,7 +85,7 @@
 - `micromdm/micromdm` **[Change PushCertificateRequest file extension to txt](https://github.com/micromdm/micromdm/pull/833)** - 3 years ago
 - `coder/code-server` **[Fix caddy installation docs](https://github.com/coder/code-server/pull/5209)** - 3 years ago
 - `melonjs/melonJS` **[TMX tileset image loading issue](https://github.com/melonjs/melonJS/issues/296)** - 3 years ago
-- `petarov/apns-push-cmd` **[Allow sending custom JSON message](https://github.com/petarov/apns-push-cmd/pull/1)** - 3 years ago
+- `petarov/apns-push-cmd` **[Allow sending custom JSON message](https://github.com/petarov/apns-push-cmd/pull/1)** - 4 years ago
 - `Kotlin/dokka` **[ClassCastException when parsing a java file with method annotations passing array values](https://github.com/Kotlin/dokka/issues/2350)** - 4 years ago
 - `vexelon-dot-net/currencybg.app` **[android.view.WindowLeaked при смяна на ориентацията](https://github.com/vexelon-dot-net/currencybg.app/issues/55)** - 4 years ago
 - `vexelon-dot-net/currencybg.app` **[Auto-complete при екрана Преобразуване](https://github.com/vexelon-dot-net/currencybg.app/issues/53)** - 4 years ago
@@ -224,7 +224,7 @@
 - `vexelon-dot-net/currencybg.app` **[Feature/add missing currency jod](https://github.com/vexelon-dot-net/currencybg.app/pull/77)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Add Allianz Bank source](https://github.com/vexelon-dot-net/currencybg.app/pull/76)** - 8 years ago
 - `allegro/axion-release-plugin` **[minor release tag supersedes major alpha tag](https://github.com/allegro/axion-release-plugin/issues/95)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Bugfix/add missing icons](https://github.com/vexelon-dot-net/currencybg.app/pull/75)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Bugfix/add missing icons](https://github.com/vexelon-dot-net/currencybg.app/pull/75)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - ForexHouse](https://github.com/vexelon-dot-net/currencybg.server/issues/65)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[App vote & redirect to playstore](https://github.com/vexelon-dot-net/currencybg.app/issues/70)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/optimize fragments](https://github.com/vexelon-dot-net/currencybg.app/pull/74)** - 9 years ago
@@ -472,4 +472,4 @@
 - `vexelon-dot-net/e-additives.j2me` **[Absence of a "find" button](https://github.com/vexelon-dot-net/e-additives.j2me/issues/2)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[Application hangs on the loading screen on Nokia 5140i](https://github.com/vexelon-dot-net/e-additives.j2me/issues/1)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[When press Up on the 1st item, the selection should go to the last item.](https://github.com/vexelon-dot-net/e-additives.j2me/issues/4)** - 13 years ago
-- `thunderbird/thunderbird-android` **[Issue 4359:  IMAP message UIDs are 32 bit unsigned values](https://github.com/thunderbird/thunderbird-android/pull/153)** - 13 years ago
+- `thunderbird/thunderbird-android` **[Issue 4359:  IMAP message UIDs are 32 bit unsigned values](https://github.com/thunderbird/thunderbird-android/pull/153)** - 14 years ago
