@@ -1,13 +1,13 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[savagewheels](https://github.com/kenamick/savagewheels)** - in the last 24 hours
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - in the last 24 hours
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 8 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 12 days ago
+  - **[savagewheels](https://github.com/kenamick/savagewheels)** - 1 day ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 1 day ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 9 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 13 days ago
 
 **random**
 
-  - **[currencybg.server](https://github.com/vexelon-dot-net/currencybg.server)** - 2 years ago
+  - **[psiral](https://github.com/kenamick/psiral)** - 9 years ago
 
 **pull requests, issues, comments** <sub>past 6 months, [all](ALLCMNTS.md)</sub>
 
@@ -15,4 +15,4 @@
   - **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140#issuecomment-4562483244)** - 1 month ago
   - **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120#issuecomment-4213093704)** - 3 months ago
 
-<sub>updated: 2026-07-15 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-07-16 | gh(@]vexelon.net</sub>
