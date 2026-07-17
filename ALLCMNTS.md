@@ -107,7 +107,7 @@
 - `petarov/java-app-icons` **[Improve reliability of playstore parser and polish](https://github.com/petarov/java-app-icons/pull/2)** - 5 years ago
 - `petarov/shut-up-bird` **[401 error](https://github.com/petarov/shut-up-bird/issues/1)** - 5 years ago
 - `notnoop/java-apns` **[Getting Connection Resets from apns server](https://github.com/notnoop/java-apns/issues/360)** - 5 years ago
-- `flyway/flyway` **[Migration breaks due to java.io.IOException: Mark invalid ](https://github.com/flyway/flyway/issues/2875)** - 5 years ago
+- `flyway/flyway` **[Migration breaks due to java.io.IOException: Mark invalid ](https://github.com/flyway/flyway/issues/2875)** - 6 years ago
 - `petarov/translitbg.js` **[there is no transliteration for the character "ѝ" ](https://github.com/petarov/translitbg.js/issues/1)** - 6 years ago
 - `petarov/translitbg.js` **[added transliteration for "ѝ" and "Ѝ"](https://github.com/petarov/translitbg.js/pull/2)** - 6 years ago
 - `petarov/translitbg.js` **[add support for ѝ and Ѝ](https://github.com/petarov/translitbg.js/pull/3)** - 6 years ago
@@ -223,7 +223,7 @@
 - `vexelon-dot-net/currencybg.app` **[Нови източници от сървър 1.4](https://github.com/vexelon-dot-net/currencybg.app/issues/66)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/add missing currency jod](https://github.com/vexelon-dot-net/currencybg.app/pull/77)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Add Allianz Bank source](https://github.com/vexelon-dot-net/currencybg.app/pull/76)** - 8 years ago
-- `allegro/axion-release-plugin` **[minor release tag supersedes major alpha tag](https://github.com/allegro/axion-release-plugin/issues/95)** - 8 years ago
+- `allegro/axion-release-plugin` **[minor release tag supersedes major alpha tag](https://github.com/allegro/axion-release-plugin/issues/95)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/add missing icons](https://github.com/vexelon-dot-net/currencybg.app/pull/75)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - ForexHouse](https://github.com/vexelon-dot-net/currencybg.server/issues/65)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[App vote & redirect to playstore](https://github.com/vexelon-dot-net/currencybg.app/issues/70)** - 9 years ago
