@@ -3,7 +3,7 @@
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 1 month ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 1 month ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 months ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 2 months ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 3 months ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 3 months ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 4 months ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 4 months ago
@@ -51,13 +51,13 @@
 - `clo4/apple_device_identifiers` **[URL Stopped Working](https://github.com/clo4/apple_device_identifiers/issues/36)** - 2 years ago
 - `eclipse-vertx/vert.x` **[updateSSLOptions doesn't update when the updated secret remain at the same path](https://github.com/eclipse-vertx/vert.x/issues/4867)** - 2 years ago
 - `kenamick/game-off-2017` **[Add shadows](https://github.com/kenamick/game-off-2017/issues/22)** - 2 years ago
-- `kenamick/game-off-2017` **[Add player lives](https://github.com/kenamick/game-off-2017/issues/19)** - 2 years ago
 - `kenamick/game-off-2017` **[Desktop version](https://github.com/kenamick/game-off-2017/issues/21)** - 2 years ago
-- `kenamick/game-off-2017` **[Font issues](https://github.com/kenamick/game-off-2017/issues/17)** - 2 years ago
+- `kenamick/game-off-2017` **[Add player lives](https://github.com/kenamick/game-off-2017/issues/19)** - 2 years ago
 - `kenamick/game-off-2017` **[Improve enemies AI](https://github.com/kenamick/game-off-2017/issues/15)** - 2 years ago
+- `kenamick/game-off-2017` **[Font issues](https://github.com/kenamick/game-off-2017/issues/17)** - 2 years ago
 - `kenamick/game-off-2017` **[You can't hit when invincible](https://github.com/kenamick/game-off-2017/issues/16)** - 2 years ago
-- `kenamick/game-off-2017` **[Game Score & Hall of Fame](https://github.com/kenamick/game-off-2017/issues/13)** - 2 years ago
 - `kenamick/game-off-2017` **[HUD: Enemies counter](https://github.com/kenamick/game-off-2017/issues/12)** - 2 years ago
+- `kenamick/game-off-2017` **[Game Score & Hall of Fame](https://github.com/kenamick/game-off-2017/issues/13)** - 2 years ago
 - `kenamick/game-off-2017` **[Breakable objects](https://github.com/kenamick/game-off-2017/issues/11)** - 2 years ago
 - `kenamick/game-off-2017` **[Player moves too slow or seems like moving too slow](https://github.com/kenamick/game-off-2017/issues/8)** - 2 years ago
 - `petarov/translitbg.js` **[Update translitbg.js](https://github.com/petarov/translitbg.js/pull/83)** - 2 years ago
@@ -359,7 +359,7 @@
 - `vexelon-dot-net/currencybg.server` **[Feature/#17 updateinfo periods](https://github.com/vexelon-dot-net/currencybg.server/pull/26)** - 9 years ago
 - `kidGodzilla/Chattr` **[xss attack](https://github.com/kidGodzilla/Chattr/issues/3)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Added new method updateSource](https://github.com/vexelon-dot-net/currencybg.server/pull/16)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/#11 use constants](https://github.com/vexelon-dot-net/currencybg.server/pull/25)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/#11 use constants](https://github.com/vexelon-dot-net/currencybg.server/pull/25)** - 10 years ago
 - `kenamick/savagewheels` **[Update handling of Linux LIBEXEC and DATADIR paths](https://github.com/kenamick/savagewheels/pull/8)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Премахване на Redis от production сървъра](https://github.com/vexelon-dot-net/currencybg.server/issues/6)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Нормализация на Купува/Продава стойности преди запис в базата](https://github.com/vexelon-dot-net/currencybg.server/issues/12)** - 10 years ago
@@ -418,7 +418,6 @@
 - `craftyjs/craftyjs.github.com` **[CraftyMouseFace component](https://github.com/craftyjs/craftyjs.github.com/issues/44)** - 12 years ago
 - `phaserjs/phaser` **[Fix issue #883](https://github.com/phaserjs/phaser/pull/1002)** - 12 years ago
 - `slimphp/Slim` **[Refer to $app as $this inside a router](https://github.com/slimphp/Slim/pull/660)** - 12 years ago
-- `petarov/CraftyMouseFace` **[Update package.json](https://github.com/petarov/CraftyMouseFace/pull/1)** - 12 years ago
 - `erazorbg/smfapi` **[added ability to use composer](https://github.com/erazorbg/smfapi/pull/1)** - 12 years ago
 - `slimphp/Slim` **[Removes trailing slash from $_SERVER['DOCUMENT_ROOT'].](https://github.com/slimphp/Slim/pull/654)** - 12 years ago
 - `leereilly/games` **[Added Savage Wheels game](https://github.com/leereilly/games/pull/18)** - 12 years ago
@@ -462,11 +461,10 @@
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Project structure and checkout requirements](https://github.com/vexelon-dot-net/e-additives.web/issues/5)** - 12 years ago
 - `kenamick/savagewheels` **[Menu is only accessible via the mouse](https://github.com/kenamick/savagewheels/issues/3)** - 12 years ago
 - `erazorbg/smfapi` **[Fixes and improvements](https://github.com/erazorbg/smfapi/pull/2)** - 12 years ago
-- `kenamick/savagewheels` **[Add SDL default shared object libraries into the Linux dist package](https://github.com/kenamick/savagewheels/issues/2)** - 13 years ago
 - `kenamick/savagewheels` **[Create startup shell script](https://github.com/kenamick/savagewheels/issues/1)** - 13 years ago
+- `kenamick/savagewheels` **[Add SDL default shared object libraries into the Linux dist package](https://github.com/kenamick/savagewheels/issues/2)** - 13 years ago
 - `towbi/CraftyEntityBoxOverlays` **[Issue with package.json](https://github.com/towbi/CraftyEntityBoxOverlays/issues/2)** - 13 years ago
 - `tanakahisateru/js-markdown-extra` **[CRLF line endings fix](https://github.com/tanakahisateru/js-markdown-extra/pull/25)** - 13 years ago
-- `petarov/CraftyMouseFace` **[Generalize mouse input](https://github.com/petarov/CraftyMouseFace/pull/2)** - 13 years ago
 - `towbi/CraftyEntityBoxOverlays` **[sprintf is not defined](https://github.com/towbi/CraftyEntityBoxOverlays/issues/1)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[	Icon not transparent on Nokia 9300i](https://github.com/vexelon-dot-net/e-additives.j2me/issues/3)** - 13 years ago
 - `vexelon-dot-net/e-additives.j2me` **[Absence of a "find" button](https://github.com/vexelon-dot-net/e-additives.j2me/issues/2)** - 13 years ago
