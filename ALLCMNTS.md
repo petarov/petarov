@@ -355,10 +355,10 @@
 - `vexelon-dot-net/currencybg.server` **[Feature/#4 api data optimization](https://github.com/vexelon-dot-net/currencybg.server/pull/29)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Bugfix/tavex parse issue](https://github.com/vexelon-dot-net/currencybg.server/pull/30)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/wrapper update](https://github.com/vexelon-dot-net/currencybg.app/pull/16)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Gradle 2.14 wrapper files upgrade](https://github.com/vexelon-dot-net/currencybg.server/pull/27)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/#17 updateinfo periods](https://github.com/vexelon-dot-net/currencybg.server/pull/26)** - 9 years ago
-- `kidGodzilla/Chattr` **[xss attack](https://github.com/kidGodzilla/Chattr/issues/3)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Added new method updateSource](https://github.com/vexelon-dot-net/currencybg.server/pull/16)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Gradle 2.14 wrapper files upgrade](https://github.com/vexelon-dot-net/currencybg.server/pull/27)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/#17 updateinfo periods](https://github.com/vexelon-dot-net/currencybg.server/pull/26)** - 10 years ago
+- `kidGodzilla/Chattr` **[xss attack](https://github.com/kidGodzilla/Chattr/issues/3)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Added new method updateSource](https://github.com/vexelon-dot-net/currencybg.server/pull/16)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#11 use constants](https://github.com/vexelon-dot-net/currencybg.server/pull/25)** - 10 years ago
 - `kenamick/savagewheels` **[Update handling of Linux LIBEXEC and DATADIR paths](https://github.com/kenamick/savagewheels/pull/8)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Премахване на Redis от production сървъра](https://github.com/vexelon-dot-net/currencybg.server/issues/6)** - 10 years ago
