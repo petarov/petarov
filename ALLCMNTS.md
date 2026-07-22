@@ -2,7 +2,7 @@
 
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 1 month ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 1 month ago
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 2 months ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 3 months ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 3 months ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 3 months ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 4 months ago
@@ -222,7 +222,7 @@
 - `vexelon-dot-net/currencybg.server` **[Unit тестове за източници в 1.4](https://github.com/vexelon-dot-net/currencybg.server/issues/95)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Нови източници от сървър 1.4](https://github.com/vexelon-dot-net/currencybg.app/issues/66)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/add missing currency jod](https://github.com/vexelon-dot-net/currencybg.app/pull/77)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Add Allianz Bank source](https://github.com/vexelon-dot-net/currencybg.app/pull/76)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Add Allianz Bank source](https://github.com/vexelon-dot-net/currencybg.app/pull/76)** - 9 years ago
 - `allegro/axion-release-plugin` **[minor release tag supersedes major alpha tag](https://github.com/allegro/axion-release-plugin/issues/95)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/add missing icons](https://github.com/vexelon-dot-net/currencybg.app/pull/75)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - ForexHouse](https://github.com/vexelon-dot-net/currencybg.server/issues/65)** - 9 years ago
