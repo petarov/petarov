@@ -218,10 +218,10 @@
 - `wbstr/vaadin-multifileupload` **[Feature/java6 compat](https://github.com/wbstr/vaadin-multifileupload/pull/37)** - 8 years ago
 - `akhikhl/wuff` **[Skip certain Require-Bundle or Import-Package entries](https://github.com/akhikhl/wuff/pull/83)** - 8 years ago
 - `k0shk0sh/FastHub` **[Add Bulgarian language translations](https://github.com/k0shk0sh/FastHub/pull/805)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Нов източник - Алианц Банк България](https://github.com/vexelon-dot-net/currencybg.server/issues/64)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Unit тестове за източници в 1.4](https://github.com/vexelon-dot-net/currencybg.server/issues/95)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Нови източници от сървър 1.4](https://github.com/vexelon-dot-net/currencybg.app/issues/66)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Feature/add missing currency jod](https://github.com/vexelon-dot-net/currencybg.app/pull/77)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Нов източник - Алианц Банк България](https://github.com/vexelon-dot-net/currencybg.server/issues/64)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Unit тестове за източници в 1.4](https://github.com/vexelon-dot-net/currencybg.server/issues/95)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Нови източници от сървър 1.4](https://github.com/vexelon-dot-net/currencybg.app/issues/66)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Feature/add missing currency jod](https://github.com/vexelon-dot-net/currencybg.app/pull/77)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Add Allianz Bank source](https://github.com/vexelon-dot-net/currencybg.app/pull/76)** - 9 years ago
 - `allegro/axion-release-plugin` **[minor release tag supersedes major alpha tag](https://github.com/allegro/axion-release-plugin/issues/95)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/add missing icons](https://github.com/vexelon-dot-net/currencybg.app/pull/75)** - 9 years ago
