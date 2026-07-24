@@ -155,7 +155,7 @@
 - `ionic-team/ionic-framework` **[bug: Navigation Title won't update after HTTP request](https://github.com/ionic-team/ionic-framework/issues/2900)** - 7 years ago
 - `ionic-team/ionic-framework` **[bug: Navbar title mispalced on Android](https://github.com/ionic-team/ionic-framework/issues/3064)** - 7 years ago
 - `moby/moby` **[[1.6.0][graphdriver] prior storage driver "devicemapper" failed: error intializing graphdriver](https://github.com/moby/moby/issues/13008)** - 7 years ago
-- `petarov/reside` **[Bugfix/duplicate keys](https://github.com/petarov/reside/pull/1)** - 7 years ago
+- `petarov/reside` **[Bugfix/duplicate keys](https://github.com/petarov/reside/pull/1)** - 8 years ago
 - `framework7io/framework7` **[Feat. request: myApp.showTab(tab, force) ](https://github.com/framework7io/framework7/issues/362)** - 8 years ago
 - `framework7io/framework7` **[tabs as a sub header? Feature Request!](https://github.com/framework7io/framework7/issues/360)** - 8 years ago
 - `framework7io/framework7` **[framework7.min.css is not minified](https://github.com/framework7io/framework7/issues/371)** - 8 years ago
