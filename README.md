@@ -1,13 +1,13 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[starghlist](https://github.com/petarov/starghlist)** - in the last 24 hours
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 9 days ago
-  - **[savagewheels](https://github.com/kenamick/savagewheels)** - 17 days ago
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 25 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - in the last 24 hours
+  - **[starghlist](https://github.com/petarov/starghlist)** - 1 day ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 10 days ago
+  - **[savagewheels](https://github.com/kenamick/savagewheels)** - 18 days ago
 
 **random**
 
-  - **[e-additives.web](https://github.com/vexelon-dot-net/e-additives.web)** - 3 years ago
+  - **[e-additives.cli](https://github.com/vexelon-dot-net/e-additives.cli)** - 8 years ago
 
 **pull requests, issues, comments** <sub>past 12 months, [all](ALLCMNTS.md)</sub>
 
@@ -21,4 +21,4 @@
   - **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116#issuecomment-3252820064)** - 10 months ago
   - **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645#issuecomment-3242259065)** - 10 months ago
 
-<sub>updated: 2026-08-01 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-08-02 | gh(@]vexelon.net</sub>
