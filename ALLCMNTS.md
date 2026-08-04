@@ -9,7 +9,7 @@
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 4 months ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 7 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 7 months ago
-- `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 8 months ago
+- `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 9 months ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 10 months ago
 - `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 11 months ago
 - `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 1 year ago
@@ -154,7 +154,7 @@
 - `ionic-team/ionic-framework` **[bug: Flickering animation during navigation state changes](https://github.com/ionic-team/ionic-framework/issues/4394)** - 7 years ago
 - `ionic-team/ionic-framework` **[bug: Navigation Title won't update after HTTP request](https://github.com/ionic-team/ionic-framework/issues/2900)** - 7 years ago
 - `ionic-team/ionic-framework` **[bug: Navbar title mispalced on Android](https://github.com/ionic-team/ionic-framework/issues/3064)** - 7 years ago
-- `moby/moby` **[[1.6.0][graphdriver] prior storage driver "devicemapper" failed: error intializing graphdriver](https://github.com/moby/moby/issues/13008)** - 7 years ago
+- `moby/moby` **[[1.6.0][graphdriver] prior storage driver "devicemapper" failed: error intializing graphdriver](https://github.com/moby/moby/issues/13008)** - 8 years ago
 - `petarov/reside` **[Bugfix/duplicate keys](https://github.com/petarov/reside/pull/1)** - 8 years ago
 - `framework7io/framework7` **[Feat. request: myApp.showTab(tab, force) ](https://github.com/framework7io/framework7/issues/362)** - 8 years ago
 - `framework7io/framework7` **[tabs as a sub header? Feature Request!](https://github.com/framework7io/framework7/issues/360)** - 8 years ago
