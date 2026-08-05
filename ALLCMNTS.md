@@ -402,7 +402,7 @@
 - `cmackay/google-analytics-plugin` **[Add App-level Opt Out](https://github.com/cmackay/google-analytics-plugin/pull/46)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[Remove dependency and use cordova framework tag](https://github.com/cmackay/google-analytics-plugin/pull/44)** - 10 years ago
 - `kenamick/game-off-2012` **[Asset licenses?](https://github.com/kenamick/game-off-2012/issues/1)** - 10 years ago
-- `krampstudio/grunt-jsdoc` **[Wrong path resolved in lib/exec.js](https://github.com/krampstudio/grunt-jsdoc/issues/125)** - 10 years ago
+- `krampstudio/grunt-jsdoc` **[Wrong path resolved in lib/exec.js](https://github.com/krampstudio/grunt-jsdoc/issues/125)** - 11 years ago
 - `EddyVerbruggen/SocialSharing-PhoneGap-Plugin` **[Cordova 5 iOS problem](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin/issues/346)** - 11 years ago
 - `floatinghotpot/cordova-iad-pro` **[How can i know if the banner is running](https://github.com/floatinghotpot/cordova-iad-pro/issues/6)** - 11 years ago
 - `craftyjs/Crafty` **[Twoway - allow keys for jumping to be configurable](https://github.com/craftyjs/Crafty/issues/895)** - 11 years ago
