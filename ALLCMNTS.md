@@ -215,8 +215,8 @@
 - `vexelon-dot-net/currencybg.server` **[Feature/refactor env variables](https://github.com/vexelon-dot-net/currencybg.server/pull/100)** - 8 years ago
 - `Automattic/node-canvas` **[Render SVG img elements when librsvg is available](https://github.com/Automattic/node-canvas/pull/811)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Fix 'cannot parse Buy value=0..465'](https://github.com/vexelon-dot-net/currencybg.server/pull/99)** - 8 years ago
-- `wbstr/vaadin-multifileupload` **[Feature/java6 compat](https://github.com/wbstr/vaadin-multifileupload/pull/37)** - 8 years ago
-- `akhikhl/wuff` **[Skip certain Require-Bundle or Import-Package entries](https://github.com/akhikhl/wuff/pull/83)** - 8 years ago
+- `wbstr/vaadin-multifileupload` **[Feature/java6 compat](https://github.com/wbstr/vaadin-multifileupload/pull/37)** - 9 years ago
+- `akhikhl/wuff` **[Skip certain Require-Bundle or Import-Package entries](https://github.com/akhikhl/wuff/pull/83)** - 9 years ago
 - `k0shk0sh/FastHub` **[Add Bulgarian language translations](https://github.com/k0shk0sh/FastHub/pull/805)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Алианц Банк България](https://github.com/vexelon-dot-net/currencybg.server/issues/64)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Unit тестове за източници в 1.4](https://github.com/vexelon-dot-net/currencybg.server/issues/95)** - 9 years ago

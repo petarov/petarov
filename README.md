@@ -1,13 +1,13 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 2 days ago
-  - **[starghlist](https://github.com/petarov/starghlist)** - 4 days ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 13 days ago
-  - **[savagewheels](https://github.com/kenamick/savagewheels)** - 21 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 3 days ago
+  - **[starghlist](https://github.com/petarov/starghlist)** - 5 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 14 days ago
+  - **[savagewheels](https://github.com/kenamick/savagewheels)** - 22 days ago
 
 **random**
 
-  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 1 month ago
+  - **[wuff](https://github.com/petarov/wuff)** - 7 years ago
 
 **pull requests, issues, comments** <sub>past 12 months, [all](ALLCMNTS.md)</sub>
 
@@ -18,7 +18,7 @@
   - **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616#issuecomment-3709873039)** - 6 months ago
   - **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157#issuecomment-3664568316)** - 7 months ago
   - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 8 months ago
-  - **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116#issuecomment-3252820064)** - 10 months ago
+  - **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116#issuecomment-3252820064)** - 11 months ago
   - **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645#issuecomment-3242259065)** - 11 months ago
 
-<sub>updated: 2026-08-05 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-08-06 | gh(@]vexelon.net</sub>
