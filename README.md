@@ -1,19 +1,19 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 6 days ago
-  - **[starghlist](https://github.com/petarov/starghlist)** - 8 days ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 17 days ago
-  - **[savagewheels](https://github.com/kenamick/savagewheels)** - 25 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 7 days ago
+  - **[starghlist](https://github.com/petarov/starghlist)** - 9 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 18 days ago
+  - **[savagewheels](https://github.com/kenamick/savagewheels)** - 26 days ago
 
 **random**
 
-  - **[spaceghost-cga](https://github.com/kenamick/spaceghost-cga)** - 7 years ago
+  - **[currencybg.server](https://github.com/vexelon-dot-net/currencybg.server)** - 2 years ago
 
 **pull requests, issues, comments** <sub>past 12 months, [all](ALLCMNTS.md)</sub>
 
   - **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44#issuecomment-4607048528)** - 2 months ago
   - **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140#issuecomment-4562483244)** - 2 months ago
-  - **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120#issuecomment-4213093704)** - 3 months ago
+  - **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120#issuecomment-4213093704)** - 4 months ago
   - **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998#issuecomment-3711284515)** - 7 months ago
   - **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616#issuecomment-3709873039)** - 7 months ago
   - **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157#issuecomment-3664568316)** - 7 months ago
@@ -21,4 +21,4 @@
   - **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116#issuecomment-3252820064)** - 11 months ago
   - **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645#issuecomment-3242259065)** - 11 months ago
 
-<sub>updated: 2026-08-09 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-08-10 | gh(@]vexelon.net</sub>
