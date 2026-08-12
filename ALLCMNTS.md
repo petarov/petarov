@@ -106,7 +106,7 @@
 - `petarov/java-app-icons` **[Turn into a CLI](https://github.com/petarov/java-app-icons/issues/1)** - 5 years ago
 - `petarov/java-app-icons` **[Improve reliability of playstore parser and polish](https://github.com/petarov/java-app-icons/pull/2)** - 5 years ago
 - `petarov/shut-up-bird` **[401 error](https://github.com/petarov/shut-up-bird/issues/1)** - 5 years ago
-- `notnoop/java-apns` **[Getting Connection Resets from apns server](https://github.com/notnoop/java-apns/issues/360)** - 5 years ago
+- `notnoop/java-apns` **[Getting Connection Resets from apns server](https://github.com/notnoop/java-apns/issues/360)** - 6 years ago
 - `flyway/flyway` **[Migration breaks due to java.io.IOException: Mark invalid ](https://github.com/flyway/flyway/issues/2875)** - 6 years ago
 - `petarov/translitbg.js` **[there is no transliteration for the character "ѝ" ](https://github.com/petarov/translitbg.js/issues/1)** - 6 years ago
 - `petarov/translitbg.js` **[added transliteration for "ѝ" and "Ѝ"](https://github.com/petarov/translitbg.js/pull/2)** - 6 years ago
