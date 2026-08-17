@@ -3,7 +3,7 @@
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 2 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 2 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 3 months ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 3 months ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 4 months ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 4 months ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 5 months ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 5 months ago
@@ -352,8 +352,8 @@
 - `vexelon-dot-net/currencybg.server` **[Известия при проблем с един или повече източници](https://github.com/vexelon-dot-net/currencybg.server/issues/11)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#4 add unit test time zone convert](https://github.com/vexelon-dot-net/currencybg.server/pull/31)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Unknown host - DNS проблеми](https://github.com/vexelon-dot-net/currencybg.server/issues/3)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/#4 api data optimization](https://github.com/vexelon-dot-net/currencybg.server/pull/29)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Bugfix/tavex parse issue](https://github.com/vexelon-dot-net/currencybg.server/pull/30)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/#4 api data optimization](https://github.com/vexelon-dot-net/currencybg.server/pull/29)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Bugfix/tavex parse issue](https://github.com/vexelon-dot-net/currencybg.server/pull/30)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/wrapper update](https://github.com/vexelon-dot-net/currencybg.app/pull/16)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Gradle 2.14 wrapper files upgrade](https://github.com/vexelon-dot-net/currencybg.server/pull/27)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#17 updateinfo periods](https://github.com/vexelon-dot-net/currencybg.server/pull/26)** - 10 years ago
@@ -414,7 +414,7 @@
 - `vexelon-dot-net/e-additives.web` **[SEO: Make site crawlable](https://github.com/vexelon-dot-net/e-additives.web/issues/25)** - 11 years ago
 - `kenamick/savagewheels` **[Cars get stuck during game play (problem in Physics)](https://github.com/kenamick/savagewheels/issues/4)** - 11 years ago
 - `erazorbg/smfapi` **[Why not list this on Packagist.org?](https://github.com/erazorbg/smfapi/issues/4)** - 11 years ago
-- `ionic-team/ionic-site` **[Minor typo in Tabs](https://github.com/ionic-team/ionic-site/issues/197)** - 11 years ago
+- `ionic-team/ionic-site` **[Minor typo in Tabs](https://github.com/ionic-team/ionic-site/issues/197)** - 12 years ago
 - `craftyjs/craftyjs.github.com` **[CraftyMouseFace component](https://github.com/craftyjs/craftyjs.github.com/issues/44)** - 12 years ago
 - `phaserjs/phaser` **[Fix issue #883](https://github.com/phaserjs/phaser/pull/1002)** - 12 years ago
 - `slimphp/Slim` **[Refer to $app as $this inside a router](https://github.com/slimphp/Slim/pull/660)** - 12 years ago
