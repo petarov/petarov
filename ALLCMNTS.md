@@ -83,7 +83,7 @@
 - `justinpinkney/stable-diffusion` **[AttributeError: 'FrozenCLIPImageEmbedder' object has no attribute 'transformer'](https://github.com/justinpinkney/stable-diffusion/issues/13)** - 3 years ago
 - `Automattic/node-canvas` **[Import SVG files](https://github.com/Automattic/node-canvas/issues/494)** - 3 years ago
 - `micromdm/micromdm` **[Change PushCertificateRequest file extension to txt](https://github.com/micromdm/micromdm/pull/833)** - 3 years ago
-- `coder/code-server` **[Fix caddy installation docs](https://github.com/coder/code-server/pull/5209)** - 3 years ago
+- `coder/code-server` **[Fix caddy installation docs](https://github.com/coder/code-server/pull/5209)** - 4 years ago
 - `melonjs/melonJS` **[TMX tileset image loading issue](https://github.com/melonjs/melonJS/issues/296)** - 4 years ago
 - `petarov/apns-push-cmd` **[Allow sending custom JSON message](https://github.com/petarov/apns-push-cmd/pull/1)** - 4 years ago
 - `Kotlin/dokka` **[ClassCastException when parsing a java file with method annotations passing array values](https://github.com/Kotlin/dokka/issues/2350)** - 4 years ago
@@ -401,7 +401,7 @@
 - `cmackay/google-analytics-plugin` **[App Build failing since last update](https://github.com/cmackay/google-analytics-plugin/issues/45)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[Add App-level Opt Out](https://github.com/cmackay/google-analytics-plugin/pull/46)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[Remove dependency and use cordova framework tag](https://github.com/cmackay/google-analytics-plugin/pull/44)** - 10 years ago
-- `kenamick/game-off-2012` **[Asset licenses?](https://github.com/kenamick/game-off-2012/issues/1)** - 10 years ago
+- `kenamick/game-off-2012` **[Asset licenses?](https://github.com/kenamick/game-off-2012/issues/1)** - 11 years ago
 - `krampstudio/grunt-jsdoc` **[Wrong path resolved in lib/exec.js](https://github.com/krampstudio/grunt-jsdoc/issues/125)** - 11 years ago
 - `EddyVerbruggen/SocialSharing-PhoneGap-Plugin` **[Cordova 5 iOS problem](https://github.com/EddyVerbruggen/SocialSharing-PhoneGap-Plugin/issues/346)** - 11 years ago
 - `floatinghotpot/cordova-iad-pro` **[How can i know if the banner is running](https://github.com/floatinghotpot/cordova-iad-pro/issues/6)** - 11 years ago
