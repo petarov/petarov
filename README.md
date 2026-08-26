@@ -1,12 +1,12 @@
 **recent work** <sub>past 30 days</sub>
 
   - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - in the last 24 hours
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 22 days ago
-  - **[starghlist](https://github.com/petarov/starghlist)** - 24 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 23 days ago
+  - **[starghlist](https://github.com/petarov/starghlist)** - 25 days ago
 
 **random**
 
-  - **[game-off-2017](https://github.com/kenamick/game-off-2017)** - 2 years ago
+  - **[smfapi](https://github.com/erazorbg/smfapi)** - 10 years ago
 
 **pull requests, issues, comments** <sub>past 12 months, [all](ALLCMNTS.md)</sub>
 
@@ -20,4 +20,4 @@
   - **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116#issuecomment-3252820064)** - 11 months ago
   - **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645#issuecomment-3242259065)** - 11 months ago
 
-<sub>updated: 2026-08-25 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-08-26 | gh(@]vexelon.net</sub>
