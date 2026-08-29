@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 2 months ago
-- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 2 months ago
+- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 3 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 4 months ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 4 months ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 4 months ago
@@ -349,9 +349,9 @@
 - `vexelon-dot-net/currencybg.server` **[Feature/#17 fix timezones](https://github.com/vexelon-dot-net/currencybg.server/pull/32)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Временно преустановяване на updates на източник](https://github.com/vexelon-dot-net/currencybg.server/issues/17)** - 9 years ago
 - `melonjs/melonJS` **[Move scaling, rotation, alpha, etc to me.Renderable](https://github.com/melonjs/melonJS/issues/335)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Известия при проблем с един или повече източници](https://github.com/vexelon-dot-net/currencybg.server/issues/11)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/#4 add unit test time zone convert](https://github.com/vexelon-dot-net/currencybg.server/pull/31)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Unknown host - DNS проблеми](https://github.com/vexelon-dot-net/currencybg.server/issues/3)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Известия при проблем с един или повече източници](https://github.com/vexelon-dot-net/currencybg.server/issues/11)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/#4 add unit test time zone convert](https://github.com/vexelon-dot-net/currencybg.server/pull/31)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Unknown host - DNS проблеми](https://github.com/vexelon-dot-net/currencybg.server/issues/3)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#4 api data optimization](https://github.com/vexelon-dot-net/currencybg.server/pull/29)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Bugfix/tavex parse issue](https://github.com/vexelon-dot-net/currencybg.server/pull/30)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/wrapper update](https://github.com/vexelon-dot-net/currencybg.app/pull/16)** - 10 years ago
