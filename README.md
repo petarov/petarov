@@ -1,13 +1,12 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[gradle-build-cache-raw](https://github.com/petarov/gradle-build-cache-raw)** - in the last 24 hours
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 4 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 27 days ago
-  - **[starghlist](https://github.com/petarov/starghlist)** - 29 days ago
+  - **[gradle-build-cache-raw](https://github.com/petarov/gradle-build-cache-raw)** - 1 day ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 5 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 28 days ago
 
 **random**
 
-  - **[nenu](https://github.com/petarov/nenu)** - 1 year ago
+  - **[host2ip-api](https://github.com/petarov/host2ip-api)** - 11 months ago
 
 **pull requests, issues, comments** <sub>past 12 months, [all](ALLCMNTS.md)</sub>
 
@@ -21,4 +20,4 @@
   - **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116#issuecomment-3252820064)** - 11 months ago
   - **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645#issuecomment-3242259065)** - 11 months ago
 
-<sub>updated: 2026-08-30 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-08-31 | gh(@]vexelon.net</sub>
