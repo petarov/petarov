@@ -1,12 +1,13 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[gradle-build-cache-raw](https://github.com/petarov/gradle-build-cache-raw)** - 1 day ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 5 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 28 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - in the last 24 hours
+  - **[gradle-build-cache-nginx](https://github.com/petarov/gradle-build-cache-nginx)** - in the last 24 hours
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 6 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 29 days ago
 
 **random**
 
-  - **[host2ip-api](https://github.com/petarov/host2ip-api)** - 11 months ago
+  - **[currencybg.server](https://github.com/vexelon-dot-net/currencybg.server)** - 2 years ago
 
 **pull requests, issues, comments** <sub>past 12 months, [all](ALLCMNTS.md)</sub>
 
@@ -18,6 +19,5 @@
   - **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157#issuecomment-3664568316)** - 8 months ago
   - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 8 months ago
   - **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116#issuecomment-3252820064)** - 11 months ago
-  - **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645#issuecomment-3242259065)** - 11 months ago
 
-<sub>updated: 2026-08-31 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-09-01 | gh(@]vexelon.net</sub>
