@@ -11,7 +11,7 @@
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 8 months ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 9 months ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 11 months ago
-- `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 11 months ago
+- `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 1 year ago
 - `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 1 year ago
 - `petarov/apns-push-cmd` **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 1 year ago
 - `petarov/apple-mdm-clients` **[Bump com.google.guava:guava from 33.1.0-jre to 33.3.1-jre](https://github.com/petarov/apple-mdm-clients/pull/6)** - 1 year ago
@@ -64,7 +64,7 @@
 - `vexelon-dot-net/currencybg.server` **[Използване на Java Persistence API](https://github.com/vexelon-dot-net/currencybg.server/issues/73)** - 2 years ago
 - `clo4/apple_device_identifiers` **[Reverse mapping: identifiers to device name](https://github.com/clo4/apple_device_identifiers/issues/35)** - 2 years ago
 - `micromdm/micromdm` **[Leave Remote Management](https://github.com/micromdm/micromdm/issues/922)** - 2 years ago
-- `petarov/bulgarian-control-numbers` **[Build(deps-dev): Bump prettier from 2.8.8 to 3.0.1](https://github.com/petarov/bulgarian-control-numbers/pull/209)** - 2 years ago
+- `petarov/bulgarian-control-numbers` **[Build(deps-dev): Bump prettier from 2.8.8 to 3.0.1](https://github.com/petarov/bulgarian-control-numbers/pull/209)** - 3 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/gcp migration](https://github.com/vexelon-dot-net/currencybg.server/pull/110)** - 3 years ago
 - `petarov/bulgarian-control-numbers` **[Build(deps-dev): Bump prettier from 2.8.8 to 3.0.0](https://github.com/petarov/bulgarian-control-numbers/pull/206)** - 3 years ago
 - `micromdm/micromdm` **[Apply dep-profiles with error](https://github.com/micromdm/micromdm/issues/838)** - 3 years ago
@@ -153,7 +153,7 @@
 - `ionic-team/ionic-framework` **[bug: Ionic CLI requests upgrade to node v0.12 but throws node-sass error after node v0.10](https://github.com/ionic-team/ionic-framework/issues/4399)** - 7 years ago
 - `ionic-team/ionic-framework` **[bug: Flickering animation during navigation state changes](https://github.com/ionic-team/ionic-framework/issues/4394)** - 7 years ago
 - `ionic-team/ionic-framework` **[bug: Navigation Title won't update after HTTP request](https://github.com/ionic-team/ionic-framework/issues/2900)** - 7 years ago
-- `ionic-team/ionic-framework` **[bug: Navbar title mispalced on Android](https://github.com/ionic-team/ionic-framework/issues/3064)** - 7 years ago
+- `ionic-team/ionic-framework` **[bug: Navbar title mispalced on Android](https://github.com/ionic-team/ionic-framework/issues/3064)** - 8 years ago
 - `moby/moby` **[[1.6.0][graphdriver] prior storage driver "devicemapper" failed: error intializing graphdriver](https://github.com/moby/moby/issues/13008)** - 8 years ago
 - `petarov/reside` **[Bugfix/duplicate keys](https://github.com/petarov/reside/pull/1)** - 8 years ago
 - `framework7io/framework7` **[Feat. request: myApp.showTab(tab, force) ](https://github.com/framework7io/framework7/issues/362)** - 8 years ago
@@ -347,7 +347,7 @@
 - `vexelon-dot-net/currencybg.server` **[Build workflow](https://github.com/vexelon-dot-net/currencybg.server/issues/18)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Upgrade gradle wrapper to 2.14.1](https://github.com/vexelon-dot-net/currencybg.server/pull/33)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#17 fix timezones](https://github.com/vexelon-dot-net/currencybg.server/pull/32)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Временно преустановяване на updates на източник](https://github.com/vexelon-dot-net/currencybg.server/issues/17)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Временно преустановяване на updates на източник](https://github.com/vexelon-dot-net/currencybg.server/issues/17)** - 10 years ago
 - `melonjs/melonJS` **[Move scaling, rotation, alpha, etc to me.Renderable](https://github.com/melonjs/melonJS/issues/335)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Известия при проблем с един или повече източници](https://github.com/vexelon-dot-net/currencybg.server/issues/11)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#4 add unit test time zone convert](https://github.com/vexelon-dot-net/currencybg.server/pull/31)** - 10 years ago
