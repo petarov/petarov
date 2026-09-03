@@ -1,17 +1,17 @@
 **recent work** <sub>past 30 days</sub>
 
   - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - in the last 24 hours
-  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - in the last 24 hours
-  - **[gradle-build-cache-nginx](https://github.com/petarov/gradle-build-cache-nginx)** - in the last 24 hours
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 7 days ago
+  - **[amapi-feed](https://github.com/petarov/amapi-feed)** - 1 day ago
+  - **[gradle-build-cache-nginx](https://github.com/petarov/gradle-build-cache-nginx)** - 1 day ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 8 days ago
 
 **random**
 
-  - **[host2ip-api](https://github.com/petarov/host2ip-api)** - 11 months ago
+  - **[awesome-mdm-dev](https://github.com/petarov/awesome-mdm-dev)** - 3 months ago
 
 **pull requests, issues, comments** <sub>past 12 months, [all](ALLCMNTS.md)</sub>
 
-  - **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44#issuecomment-4607048528)** - 2 months ago
+  - **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44#issuecomment-4607048528)** - 3 months ago
   - **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140#issuecomment-4562483244)** - 3 months ago
   - **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120#issuecomment-4213093704)** - 4 months ago
   - **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998#issuecomment-3711284515)** - 7 months ago
@@ -20,4 +20,4 @@
   - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 9 months ago
   - **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116#issuecomment-3252820064)** - 11 months ago
 
-<sub>updated: 2026-09-02 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-09-03 | gh(@]vexelon.net</sub>
