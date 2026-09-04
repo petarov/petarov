@@ -53,9 +53,9 @@
 - `kenamick/game-off-2017` **[Add shadows](https://github.com/kenamick/game-off-2017/issues/22)** - 2 years ago
 - `kenamick/game-off-2017` **[Desktop version](https://github.com/kenamick/game-off-2017/issues/21)** - 2 years ago
 - `kenamick/game-off-2017` **[Add player lives](https://github.com/kenamick/game-off-2017/issues/19)** - 2 years ago
+- `kenamick/game-off-2017` **[You can't hit when invincible](https://github.com/kenamick/game-off-2017/issues/16)** - 2 years ago
 - `kenamick/game-off-2017` **[Improve enemies AI](https://github.com/kenamick/game-off-2017/issues/15)** - 2 years ago
 - `kenamick/game-off-2017` **[Font issues](https://github.com/kenamick/game-off-2017/issues/17)** - 2 years ago
-- `kenamick/game-off-2017` **[You can't hit when invincible](https://github.com/kenamick/game-off-2017/issues/16)** - 2 years ago
 - `kenamick/game-off-2017` **[HUD: Enemies counter](https://github.com/kenamick/game-off-2017/issues/12)** - 2 years ago
 - `kenamick/game-off-2017` **[Game Score & Hall of Fame](https://github.com/kenamick/game-off-2017/issues/13)** - 2 years ago
 - `kenamick/game-off-2017` **[Breakable objects](https://github.com/kenamick/game-off-2017/issues/11)** - 2 years ago
@@ -155,7 +155,6 @@
 - `ionic-team/ionic-framework` **[bug: Navigation Title won't update after HTTP request](https://github.com/ionic-team/ionic-framework/issues/2900)** - 7 years ago
 - `ionic-team/ionic-framework` **[bug: Navbar title mispalced on Android](https://github.com/ionic-team/ionic-framework/issues/3064)** - 8 years ago
 - `moby/moby` **[[1.6.0][graphdriver] prior storage driver "devicemapper" failed: error intializing graphdriver](https://github.com/moby/moby/issues/13008)** - 8 years ago
-- `petarov/reside` **[Bugfix/duplicate keys](https://github.com/petarov/reside/pull/1)** - 8 years ago
 - `framework7io/framework7` **[Feat. request: myApp.showTab(tab, force) ](https://github.com/framework7io/framework7/issues/362)** - 8 years ago
 - `framework7io/framework7` **[tabs as a sub header? Feature Request!](https://github.com/framework7io/framework7/issues/360)** - 8 years ago
 - `framework7io/framework7` **[framework7.min.css is not minified](https://github.com/framework7io/framework7/issues/371)** - 8 years ago
@@ -345,8 +344,8 @@
 - `vexelon-dot-net/currencybg.server` **[Feature/#34 java8 build](https://github.com/vexelon-dot-net/currencybg.server/pull/37)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Bugfix/#35 api db datetime](https://github.com/vexelon-dot-net/currencybg.server/pull/36)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Build workflow](https://github.com/vexelon-dot-net/currencybg.server/issues/18)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Upgrade gradle wrapper to 2.14.1](https://github.com/vexelon-dot-net/currencybg.server/pull/33)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/#17 fix timezones](https://github.com/vexelon-dot-net/currencybg.server/pull/32)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Upgrade gradle wrapper to 2.14.1](https://github.com/vexelon-dot-net/currencybg.server/pull/33)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/#17 fix timezones](https://github.com/vexelon-dot-net/currencybg.server/pull/32)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Временно преустановяване на updates на източник](https://github.com/vexelon-dot-net/currencybg.server/issues/17)** - 10 years ago
 - `melonjs/melonJS` **[Move scaling, rotation, alpha, etc to me.Renderable](https://github.com/melonjs/melonJS/issues/335)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Известия при проблем с един или повече източници](https://github.com/vexelon-dot-net/currencybg.server/issues/11)** - 10 years ago
