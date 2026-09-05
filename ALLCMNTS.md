@@ -10,7 +10,7 @@
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 8 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 8 months ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 10 months ago
-- `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 11 months ago
+- `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 1 year ago
 - `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 1 year ago
 - `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 1 year ago
 - `petarov/apns-push-cmd` **[Feat: Add input validation for KeyID and TeamID](https://github.com/petarov/apns-push-cmd/pull/14)** - 1 year ago
@@ -343,7 +343,7 @@
 - `vexelon-dot-net/currencybg.server` **[Time Zone conversion](https://github.com/vexelon-dot-net/currencybg.server/issues/35)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#34 java8 build](https://github.com/vexelon-dot-net/currencybg.server/pull/37)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Bugfix/#35 api db datetime](https://github.com/vexelon-dot-net/currencybg.server/pull/36)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Build workflow](https://github.com/vexelon-dot-net/currencybg.server/issues/18)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Build workflow](https://github.com/vexelon-dot-net/currencybg.server/issues/18)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Upgrade gradle wrapper to 2.14.1](https://github.com/vexelon-dot-net/currencybg.server/pull/33)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#17 fix timezones](https://github.com/vexelon-dot-net/currencybg.server/pull/32)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Временно преустановяване на updates на източник](https://github.com/vexelon-dot-net/currencybg.server/issues/17)** - 10 years ago
