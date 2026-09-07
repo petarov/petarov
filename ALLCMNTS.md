@@ -81,7 +81,7 @@
 - `petarov/bulgarian-control-numbers` **[Bump @babel/preset-env from 7.19.3 to 7.19.4](https://github.com/petarov/bulgarian-control-numbers/pull/166)** - 3 years ago
 - `petarov/bulgarian-control-numbers` **[Bump jest from 29.1.2 to 29.2.2](https://github.com/petarov/bulgarian-control-numbers/pull/164)** - 3 years ago
 - `justinpinkney/stable-diffusion` **[AttributeError: 'FrozenCLIPImageEmbedder' object has no attribute 'transformer'](https://github.com/justinpinkney/stable-diffusion/issues/13)** - 3 years ago
-- `Automattic/node-canvas` **[Import SVG files](https://github.com/Automattic/node-canvas/issues/494)** - 3 years ago
+- `Automattic/node-canvas` **[Import SVG files](https://github.com/Automattic/node-canvas/issues/494)** - 4 years ago
 - `micromdm/micromdm` **[Change PushCertificateRequest file extension to txt](https://github.com/micromdm/micromdm/pull/833)** - 4 years ago
 - `coder/code-server` **[Fix caddy installation docs](https://github.com/coder/code-server/pull/5209)** - 4 years ago
 - `melonjs/melonJS` **[TMX tileset image loading issue](https://github.com/melonjs/melonJS/issues/296)** - 4 years ago
@@ -152,7 +152,7 @@
 - `ionic-team/ionic-framework` **[bug: window.device is undefined](https://github.com/ionic-team/ionic-framework/issues/4370)** - 7 years ago
 - `ionic-team/ionic-framework` **[bug: Ionic CLI requests upgrade to node v0.12 but throws node-sass error after node v0.10](https://github.com/ionic-team/ionic-framework/issues/4399)** - 7 years ago
 - `ionic-team/ionic-framework` **[bug: Flickering animation during navigation state changes](https://github.com/ionic-team/ionic-framework/issues/4394)** - 7 years ago
-- `ionic-team/ionic-framework` **[bug: Navigation Title won't update after HTTP request](https://github.com/ionic-team/ionic-framework/issues/2900)** - 7 years ago
+- `ionic-team/ionic-framework` **[bug: Navigation Title won't update after HTTP request](https://github.com/ionic-team/ionic-framework/issues/2900)** - 8 years ago
 - `ionic-team/ionic-framework` **[bug: Navbar title mispalced on Android](https://github.com/ionic-team/ionic-framework/issues/3064)** - 8 years ago
 - `moby/moby` **[[1.6.0][graphdriver] prior storage driver "devicemapper" failed: error intializing graphdriver](https://github.com/moby/moby/issues/13008)** - 8 years ago
 - `framework7io/framework7` **[Feat. request: myApp.showTab(tab, force) ](https://github.com/framework7io/framework7/issues/362)** - 8 years ago
