@@ -148,10 +148,10 @@
 - `viritin/viritin` **[BrowserCookie NPE when reading cookie](https://github.com/viritin/viritin/issues/53)** - 7 years ago
 - `petarov/wuff` **[Add missing extendsFrom directives.](https://github.com/petarov/wuff/pull/1)** - 7 years ago
 - `slimphp/Slim` **[Documentation is awesome, tutorials are lacking](https://github.com/slimphp/Slim/issues/656)** - 7 years ago
-- `ionic-team/ionic-framework` **[bug: node.js 5.0.0 and ionic-cli problem](https://github.com/ionic-team/ionic-framework/issues/4598)** - 7 years ago
-- `ionic-team/ionic-framework` **[bug: window.device is undefined](https://github.com/ionic-team/ionic-framework/issues/4370)** - 7 years ago
-- `ionic-team/ionic-framework` **[bug: Ionic CLI requests upgrade to node v0.12 but throws node-sass error after node v0.10](https://github.com/ionic-team/ionic-framework/issues/4399)** - 7 years ago
-- `ionic-team/ionic-framework` **[bug: Flickering animation during navigation state changes](https://github.com/ionic-team/ionic-framework/issues/4394)** - 7 years ago
+- `ionic-team/ionic-framework` **[bug: node.js 5.0.0 and ionic-cli problem](https://github.com/ionic-team/ionic-framework/issues/4598)** - 8 years ago
+- `ionic-team/ionic-framework` **[bug: window.device is undefined](https://github.com/ionic-team/ionic-framework/issues/4370)** - 8 years ago
+- `ionic-team/ionic-framework` **[bug: Ionic CLI requests upgrade to node v0.12 but throws node-sass error after node v0.10](https://github.com/ionic-team/ionic-framework/issues/4399)** - 8 years ago
+- `ionic-team/ionic-framework` **[bug: Flickering animation during navigation state changes](https://github.com/ionic-team/ionic-framework/issues/4394)** - 8 years ago
 - `ionic-team/ionic-framework` **[bug: Navigation Title won't update after HTTP request](https://github.com/ionic-team/ionic-framework/issues/2900)** - 8 years ago
 - `ionic-team/ionic-framework` **[bug: Navbar title mispalced on Android](https://github.com/ionic-team/ionic-framework/issues/3064)** - 8 years ago
 - `moby/moby` **[[1.6.0][graphdriver] prior storage driver "devicemapper" failed: error intializing graphdriver](https://github.com/moby/moby/issues/13008)** - 8 years ago
@@ -340,9 +340,9 @@
 - `Automattic/node-canvas` **[Added: Image can now load SVG files and data](https://github.com/Automattic/node-canvas/pull/406)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Не работи свалянето на валути](https://github.com/vexelon-dot-net/currencybg.app/issues/13)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Java 8 migration](https://github.com/vexelon-dot-net/currencybg.server/issues/34)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Time Zone conversion](https://github.com/vexelon-dot-net/currencybg.server/issues/35)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/#34 java8 build](https://github.com/vexelon-dot-net/currencybg.server/pull/37)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Bugfix/#35 api db datetime](https://github.com/vexelon-dot-net/currencybg.server/pull/36)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Time Zone conversion](https://github.com/vexelon-dot-net/currencybg.server/issues/35)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/#34 java8 build](https://github.com/vexelon-dot-net/currencybg.server/pull/37)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Bugfix/#35 api db datetime](https://github.com/vexelon-dot-net/currencybg.server/pull/36)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Build workflow](https://github.com/vexelon-dot-net/currencybg.server/issues/18)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Upgrade gradle wrapper to 2.14.1](https://github.com/vexelon-dot-net/currencybg.server/pull/33)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#17 fix timezones](https://github.com/vexelon-dot-net/currencybg.server/pull/32)** - 10 years ago
