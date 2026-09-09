@@ -4,9 +4,9 @@
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 3 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 4 months ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 4 months ago
-- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 4 months ago
+- `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 5 months ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 5 months ago
-- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 5 months ago
+- `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 6 months ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 8 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 8 months ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 10 months ago
@@ -339,7 +339,7 @@
 - `vexelon-dot-net/currencybg.server` **[Bugfix/compare timezones #35](https://github.com/vexelon-dot-net/currencybg.server/pull/39)** - 9 years ago
 - `Automattic/node-canvas` **[Added: Image can now load SVG files and data](https://github.com/Automattic/node-canvas/pull/406)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Не работи свалянето на валути](https://github.com/vexelon-dot-net/currencybg.app/issues/13)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Java 8 migration](https://github.com/vexelon-dot-net/currencybg.server/issues/34)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Java 8 migration](https://github.com/vexelon-dot-net/currencybg.server/issues/34)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Time Zone conversion](https://github.com/vexelon-dot-net/currencybg.server/issues/35)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#34 java8 build](https://github.com/vexelon-dot-net/currencybg.server/pull/37)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Bugfix/#35 api db datetime](https://github.com/vexelon-dot-net/currencybg.server/pull/36)** - 10 years ago
