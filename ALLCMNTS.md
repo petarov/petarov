@@ -63,7 +63,7 @@
 - `petarov/translitbg.js` **[Update translitbg.js](https://github.com/petarov/translitbg.js/pull/83)** - 2 years ago
 - `vexelon-dot-net/currencybg.server` **[Използване на Java Persistence API](https://github.com/vexelon-dot-net/currencybg.server/issues/73)** - 2 years ago
 - `clo4/apple_device_identifiers` **[Reverse mapping: identifiers to device name](https://github.com/clo4/apple_device_identifiers/issues/35)** - 2 years ago
-- `micromdm/micromdm` **[Leave Remote Management](https://github.com/micromdm/micromdm/issues/922)** - 2 years ago
+- `micromdm/micromdm` **[Leave Remote Management](https://github.com/micromdm/micromdm/issues/922)** - 3 years ago
 - `petarov/bulgarian-control-numbers` **[Build(deps-dev): Bump prettier from 2.8.8 to 3.0.1](https://github.com/petarov/bulgarian-control-numbers/pull/209)** - 3 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/gcp migration](https://github.com/vexelon-dot-net/currencybg.server/pull/110)** - 3 years ago
 - `petarov/bulgarian-control-numbers` **[Build(deps-dev): Bump prettier from 2.8.8 to 3.0.0](https://github.com/petarov/bulgarian-control-numbers/pull/206)** - 3 years ago
@@ -120,7 +120,7 @@
 - `bbottema/simple-java-mail` **[Sending async emails with and without the Batch module causes lingering threads (preventing the JVM from shutting down)](https://github.com/bbottema/simple-java-mail/issues/246)** - 6 years ago
 - `eclipse-vertx/vert.x` **[Default param value in HttpServerRequest.getParam() method](https://github.com/eclipse-vertx/vert.x/issues/3256)** - 6 years ago
 - `admob-plus/admob-plus` **[Crash Issue In Android](https://github.com/admob-plus/admob-plus/issues/77)** - 6 years ago
-- `tcurdt/jdependency` **[java.lang.UnsupportedOperationException: This feature requires ASM7](https://github.com/tcurdt/jdependency/issues/21)** - 6 years ago
+- `tcurdt/jdependency` **[java.lang.UnsupportedOperationException: This feature requires ASM7](https://github.com/tcurdt/jdependency/issues/21)** - 7 years ago
 - `eclipse-vertx/vert.x` **[Performance issues with vert.x using apache bench](https://github.com/eclipse-vertx/vert.x/issues/2950)** - 7 years ago
 - `admob-plus/admob-plus` **[Fixes NoClassDefFoundError and NPE in Admob cordova plugin](https://github.com/admob-plus/admob-plus/pull/86)** - 7 years ago
 - `googlesamples/android-testdpc` **[INSTALL_FAILED_TEST_ONLY](https://github.com/googlesamples/android-testdpc/issues/32)** - 7 years ago
@@ -337,8 +337,8 @@
 - `vexelon-dot-net/currencybg.server` **[Fix junctions listing](https://github.com/vexelon-dot-net/currencybg.server/pull/42)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/sql adjustments](https://github.com/vexelon-dot-net/currencybg.server/pull/40)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Bugfix/compare timezones #35](https://github.com/vexelon-dot-net/currencybg.server/pull/39)** - 9 years ago
-- `Automattic/node-canvas` **[Added: Image can now load SVG files and data](https://github.com/Automattic/node-canvas/pull/406)** - 9 years ago
-- `vexelon-dot-net/currencybg.app` **[Не работи свалянето на валути](https://github.com/vexelon-dot-net/currencybg.app/issues/13)** - 9 years ago
+- `Automattic/node-canvas` **[Added: Image can now load SVG files and data](https://github.com/Automattic/node-canvas/pull/406)** - 10 years ago
+- `vexelon-dot-net/currencybg.app` **[Не работи свалянето на валути](https://github.com/vexelon-dot-net/currencybg.app/issues/13)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Java 8 migration](https://github.com/vexelon-dot-net/currencybg.server/issues/34)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Time Zone conversion](https://github.com/vexelon-dot-net/currencybg.server/issues/35)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/#34 java8 build](https://github.com/vexelon-dot-net/currencybg.server/pull/37)** - 10 years ago
