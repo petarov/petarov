@@ -105,7 +105,6 @@
 - `kenamick/desktopdefender2` **[Long time no see](https://github.com/kenamick/desktopdefender2/issues/1)** - 5 years ago
 - `petarov/java-app-icons` **[Turn into a CLI](https://github.com/petarov/java-app-icons/issues/1)** - 5 years ago
 - `petarov/java-app-icons` **[Improve reliability of playstore parser and polish](https://github.com/petarov/java-app-icons/pull/2)** - 5 years ago
-- `petarov/shut-up-bird` **[401 error](https://github.com/petarov/shut-up-bird/issues/1)** - 5 years ago
 - `notnoop/java-apns` **[Getting Connection Resets from apns server](https://github.com/notnoop/java-apns/issues/360)** - 6 years ago
 - `flyway/flyway` **[Migration breaks due to java.io.IOException: Mark invalid ](https://github.com/flyway/flyway/issues/2875)** - 6 years ago
 - `petarov/translitbg.js` **[there is no transliteration for the character "ѝ" ](https://github.com/petarov/translitbg.js/issues/1)** - 6 years ago
@@ -398,7 +397,7 @@
 - `ionic-team/ionic-framework` **[Update gulp-sass dependency](https://github.com/ionic-team/ionic-framework/pull/4449)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[how to set Anonymize IP?](https://github.com/cmackay/google-analytics-plugin/issues/43)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[App Build failing since last update](https://github.com/cmackay/google-analytics-plugin/issues/45)** - 10 years ago
-- `cmackay/google-analytics-plugin` **[Add App-level Opt Out](https://github.com/cmackay/google-analytics-plugin/pull/46)** - 10 years ago
+- `cmackay/google-analytics-plugin` **[Add App-level Opt Out](https://github.com/cmackay/google-analytics-plugin/pull/46)** - 11 years ago
 - `cmackay/google-analytics-plugin` **[Remove dependency and use cordova framework tag](https://github.com/cmackay/google-analytics-plugin/pull/44)** - 11 years ago
 - `kenamick/game-off-2012` **[Asset licenses?](https://github.com/kenamick/game-off-2012/issues/1)** - 11 years ago
 - `krampstudio/grunt-jsdoc` **[Wrong path resolved in lib/exec.js](https://github.com/krampstudio/grunt-jsdoc/issues/125)** - 11 years ago
