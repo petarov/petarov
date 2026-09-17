@@ -3,7 +3,7 @@
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 3 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 3 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 4 months ago
-- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 4 months ago
+- `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 5 months ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 5 months ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 6 months ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 6 months ago
@@ -146,7 +146,7 @@
 - `akhikhl/wuff` **[Errror with Convert existing Eclipse plugins and apps to Gradle](https://github.com/akhikhl/wuff/issues/113)** - 7 years ago
 - `viritin/viritin` **[BrowserCookie NPE when reading cookie](https://github.com/viritin/viritin/issues/53)** - 7 years ago
 - `petarov/wuff` **[Add missing extendsFrom directives.](https://github.com/petarov/wuff/pull/1)** - 7 years ago
-- `slimphp/Slim` **[Documentation is awesome, tutorials are lacking](https://github.com/slimphp/Slim/issues/656)** - 7 years ago
+- `slimphp/Slim` **[Documentation is awesome, tutorials are lacking](https://github.com/slimphp/Slim/issues/656)** - 8 years ago
 - `ionic-team/ionic-framework` **[bug: node.js 5.0.0 and ionic-cli problem](https://github.com/ionic-team/ionic-framework/issues/4598)** - 8 years ago
 - `ionic-team/ionic-framework` **[bug: window.device is undefined](https://github.com/ionic-team/ionic-framework/issues/4370)** - 8 years ago
 - `ionic-team/ionic-framework` **[bug: Ionic CLI requests upgrade to node v0.12 but throws node-sass error after node v0.10](https://github.com/ionic-team/ionic-framework/issues/4399)** - 8 years ago
@@ -334,7 +334,7 @@
 - `vexelon-dot-net/currencybg.app` **[Bugfix/gradle build](https://github.com/vexelon-dot-net/currencybg.app/pull/17)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Проверка и евнт. оптимизация на API данните](https://github.com/vexelon-dot-net/currencybg.server/issues/4)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Fix junctions listing](https://github.com/vexelon-dot-net/currencybg.server/pull/42)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/sql adjustments](https://github.com/vexelon-dot-net/currencybg.server/pull/40)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/sql adjustments](https://github.com/vexelon-dot-net/currencybg.server/pull/40)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Bugfix/compare timezones #35](https://github.com/vexelon-dot-net/currencybg.server/pull/39)** - 10 years ago
 - `Automattic/node-canvas` **[Added: Image can now load SVG files and data](https://github.com/Automattic/node-canvas/pull/406)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Не работи свалянето на валути](https://github.com/vexelon-dot-net/currencybg.app/issues/13)** - 10 years ago
