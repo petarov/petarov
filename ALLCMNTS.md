@@ -211,7 +211,7 @@
 - `vexelon-dot-net/currencybg.app` **[Feature/remove wallet refresh #78](https://github.com/vexelon-dot-net/currencybg.app/pull/81)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Fix bg translation](https://github.com/vexelon-dot-net/currencybg.app/pull/80)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/refactor env variables](https://github.com/vexelon-dot-net/currencybg.server/pull/100)** - 8 years ago
-- `Automattic/node-canvas` **[Render SVG img elements when librsvg is available](https://github.com/Automattic/node-canvas/pull/811)** - 8 years ago
+- `Automattic/node-canvas` **[Render SVG img elements when librsvg is available](https://github.com/Automattic/node-canvas/pull/811)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Fix 'cannot parse Buy value=0..465'](https://github.com/vexelon-dot-net/currencybg.server/pull/99)** - 9 years ago
 - `wbstr/vaadin-multifileupload` **[Feature/java6 compat](https://github.com/wbstr/vaadin-multifileupload/pull/37)** - 9 years ago
 - `akhikhl/wuff` **[Skip certain Require-Bundle or Import-Package entries](https://github.com/akhikhl/wuff/pull/83)** - 9 years ago
