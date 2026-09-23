@@ -1,5 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - in the last 24 hours
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 3 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 3 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
@@ -69,7 +70,6 @@
 - `petarov/bulgarian-control-numbers` **[Build(deps-dev): Bump prettier from 2.8.8 to 3.0.0](https://github.com/petarov/bulgarian-control-numbers/pull/206)** - 3 years ago
 - `micromdm/micromdm` **[Apply dep-profiles with error](https://github.com/micromdm/micromdm/issues/838)** - 3 years ago
 - `3breadt/dd-plist` **[Add support for POJO annotations](https://github.com/3breadt/dd-plist/pull/58)** - 3 years ago
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 3 years ago
 - `petarov/apns-push-cmd` **[Added apns-push-type parameter](https://github.com/petarov/apns-push-cmd/pull/5)** - 3 years ago
 - `capawesome-team/capacitor-managed-configurations` **[feat: add iOS support](https://github.com/capawesome-team/capacitor-managed-configurations/issues/4)** - 3 years ago
 - `micromdm/scep` **[Enrollment from CISCO Router](https://github.com/micromdm/scep/issues/211)** - 3 years ago
