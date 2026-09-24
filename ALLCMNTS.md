@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - in the last 24 hours
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 1 day ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 3 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 3 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
@@ -210,7 +210,7 @@
 - `vexelon-dot-net/currencybg.app` **[Bugfix/#82 background service downloads](https://github.com/vexelon-dot-net/currencybg.app/pull/83)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/remove wallet refresh #78](https://github.com/vexelon-dot-net/currencybg.app/pull/81)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Fix bg translation](https://github.com/vexelon-dot-net/currencybg.app/pull/80)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Feature/refactor env variables](https://github.com/vexelon-dot-net/currencybg.server/pull/100)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Feature/refactor env variables](https://github.com/vexelon-dot-net/currencybg.server/pull/100)** - 9 years ago
 - `Automattic/node-canvas` **[Render SVG img elements when librsvg is available](https://github.com/Automattic/node-canvas/pull/811)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Fix 'cannot parse Buy value=0..465'](https://github.com/vexelon-dot-net/currencybg.server/pull/99)** - 9 years ago
 - `wbstr/vaadin-multifileupload` **[Feature/java6 compat](https://github.com/wbstr/vaadin-multifileupload/pull/37)** - 9 years ago
@@ -454,9 +454,9 @@
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Breadcrumbs](https://github.com/vexelon-dot-net/e-additives.web/issues/9)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Page Footer](https://github.com/vexelon-dot-net/e-additives.web/issues/3)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Service pages](https://github.com/vexelon-dot-net/e-additives.web/issues/7)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[MS01-Req: Home (index) page](https://github.com/vexelon-dot-net/e-additives.web/issues/1)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[MS01-Req: Page Header](https://github.com/vexelon-dot-net/e-additives.web/issues/2)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[MS01-Req: Project structure and checkout requirements](https://github.com/vexelon-dot-net/e-additives.web/issues/5)** - 12 years ago
+- `vexelon-dot-net/e-additives.web` **[MS01-Req: Home (index) page](https://github.com/vexelon-dot-net/e-additives.web/issues/1)** - 13 years ago
+- `vexelon-dot-net/e-additives.web` **[MS01-Req: Page Header](https://github.com/vexelon-dot-net/e-additives.web/issues/2)** - 13 years ago
+- `vexelon-dot-net/e-additives.web` **[MS01-Req: Project structure and checkout requirements](https://github.com/vexelon-dot-net/e-additives.web/issues/5)** - 13 years ago
 - `kenamick/savagewheels` **[Menu is only accessible via the mouse](https://github.com/kenamick/savagewheels/issues/3)** - 13 years ago
 - `erazorbg/smfapi` **[Fixes and improvements](https://github.com/erazorbg/smfapi/pull/2)** - 13 years ago
 - `kenamick/savagewheels` **[Create startup shell script](https://github.com/kenamick/savagewheels/issues/1)** - 13 years ago
