@@ -1,8 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 4 days ago
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 5 days ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 3 months ago
-- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 3 months ago
+- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 5 months ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 5 months ago
@@ -207,7 +207,7 @@
 - `vexelon-dot-net/currencybg.app` **[Handle JSON parse exceptions](https://github.com/vexelon-dot-net/currencybg.app/pull/87)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - cryptobank](https://github.com/vexelon-dot-net/currencybg.server/issues/97)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/upgrade gradle and docu](https://github.com/vexelon-dot-net/currencybg.server/pull/102)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Bugfix/#82 background service downloads](https://github.com/vexelon-dot-net/currencybg.app/pull/83)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Bugfix/#82 background service downloads](https://github.com/vexelon-dot-net/currencybg.app/pull/83)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/remove wallet refresh #78](https://github.com/vexelon-dot-net/currencybg.app/pull/81)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Fix bg translation](https://github.com/vexelon-dot-net/currencybg.app/pull/80)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/refactor env variables](https://github.com/vexelon-dot-net/currencybg.server/pull/100)** - 9 years ago
@@ -332,7 +332,7 @@
 - `vexelon-dot-net/currencybg.app` **[Bugfix/build fixes](https://github.com/vexelon-dot-net/currencybg.app/pull/18)** - 9 years ago
 - `geometer/FBReaderJ-plugin-local-opds-scanner` **[HTTPS support](https://github.com/geometer/FBReaderJ-plugin-local-opds-scanner/issues/2)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/gradle build](https://github.com/vexelon-dot-net/currencybg.app/pull/17)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Проверка и евнт. оптимизация на API данните](https://github.com/vexelon-dot-net/currencybg.server/issues/4)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Проверка и евнт. оптимизация на API данните](https://github.com/vexelon-dot-net/currencybg.server/issues/4)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Fix junctions listing](https://github.com/vexelon-dot-net/currencybg.server/pull/42)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/sql adjustments](https://github.com/vexelon-dot-net/currencybg.server/pull/40)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Bugfix/compare timezones #35](https://github.com/vexelon-dot-net/currencybg.server/pull/39)** - 10 years ago
@@ -449,8 +449,8 @@
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Additives list page](https://github.com/vexelon-dot-net/e-additives.web/issues/10)** - 12 years ago
 - `moment/moment` **[Fix longDateFormat for Bulgarian language](https://github.com/moment/moment/issues/1148)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Localization (l10n)](https://github.com/vexelon-dot-net/e-additives.web/issues/8)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[Build script](https://github.com/vexelon-dot-net/e-additives.web/issues/11)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[Site does not load on IE10](https://github.com/vexelon-dot-net/e-additives.web/issues/14)** - 12 years ago
+- `vexelon-dot-net/e-additives.web` **[Build script](https://github.com/vexelon-dot-net/e-additives.web/issues/11)** - 13 years ago
+- `vexelon-dot-net/e-additives.web` **[Site does not load on IE10](https://github.com/vexelon-dot-net/e-additives.web/issues/14)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Breadcrumbs](https://github.com/vexelon-dot-net/e-additives.web/issues/9)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Page Footer](https://github.com/vexelon-dot-net/e-additives.web/issues/3)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Service pages](https://github.com/vexelon-dot-net/e-additives.web/issues/7)** - 13 years ago
