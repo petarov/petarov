@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 5 days ago
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 6 days ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 3 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
@@ -104,7 +104,7 @@
 - `petarov/google-android-app-ids` **[Create package.json](https://github.com/petarov/google-android-app-ids/pull/1)** - 5 years ago
 - `kenamick/desktopdefender2` **[Long time no see](https://github.com/kenamick/desktopdefender2/issues/1)** - 5 years ago
 - `petarov/java-app-icons` **[Turn into a CLI](https://github.com/petarov/java-app-icons/issues/1)** - 5 years ago
-- `petarov/java-app-icons` **[Improve reliability of playstore parser and polish](https://github.com/petarov/java-app-icons/pull/2)** - 5 years ago
+- `petarov/java-app-icons` **[Improve reliability of playstore parser and polish](https://github.com/petarov/java-app-icons/pull/2)** - 6 years ago
 - `notnoop/java-apns` **[Getting Connection Resets from apns server](https://github.com/notnoop/java-apns/issues/360)** - 6 years ago
 - `flyway/flyway` **[Migration breaks due to java.io.IOException: Mark invalid ](https://github.com/flyway/flyway/issues/2875)** - 6 years ago
 - `petarov/translitbg.js` **[there is no transliteration for the character "ѝ" ](https://github.com/petarov/translitbg.js/issues/1)** - 6 years ago
