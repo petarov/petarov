@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 6 days ago
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 7 days ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 3 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
@@ -62,8 +62,8 @@
 - `kenamick/game-off-2017` **[Breakable objects](https://github.com/kenamick/game-off-2017/issues/11)** - 2 years ago
 - `kenamick/game-off-2017` **[Player moves too slow or seems like moving too slow](https://github.com/kenamick/game-off-2017/issues/8)** - 2 years ago
 - `petarov/translitbg.js` **[Update translitbg.js](https://github.com/petarov/translitbg.js/pull/83)** - 2 years ago
-- `vexelon-dot-net/currencybg.server` **[Използване на Java Persistence API](https://github.com/vexelon-dot-net/currencybg.server/issues/73)** - 2 years ago
-- `clo4/apple_device_identifiers` **[Reverse mapping: identifiers to device name](https://github.com/clo4/apple_device_identifiers/issues/35)** - 2 years ago
+- `vexelon-dot-net/currencybg.server` **[Използване на Java Persistence API](https://github.com/vexelon-dot-net/currencybg.server/issues/73)** - 3 years ago
+- `clo4/apple_device_identifiers` **[Reverse mapping: identifiers to device name](https://github.com/clo4/apple_device_identifiers/issues/35)** - 3 years ago
 - `micromdm/micromdm` **[Leave Remote Management](https://github.com/micromdm/micromdm/issues/922)** - 3 years ago
 - `petarov/bulgarian-control-numbers` **[Build(deps-dev): Bump prettier from 2.8.8 to 3.0.1](https://github.com/petarov/bulgarian-control-numbers/pull/209)** - 3 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/gcp migration](https://github.com/vexelon-dot-net/currencybg.server/pull/110)** - 3 years ago
