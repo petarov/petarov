@@ -1,13 +1,13 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 1 day ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 17 days ago
-  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 23 days ago
-  - **[gradle-build-cache-nginx](https://github.com/petarov/gradle-build-cache-nginx)** - 27 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - in the last 24 hours
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 2 days ago
+  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 24 days ago
+  - **[gradle-build-cache-nginx](https://github.com/petarov/gradle-build-cache-nginx)** - 28 days ago
 
 **random**
 
-  - **[e-additives.gcp](https://github.com/vexelon-dot-net/e-additives.gcp)** - 3 years ago
+  - **[starghlist](https://github.com/petarov/starghlist)** - 2 months ago
 
 **pull requests, issues, comments** <sub>past 12 months, [all](ALLCMNTS.md)</sub>
 
@@ -19,4 +19,4 @@
   - **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157#issuecomment-3664568316)** - 9 months ago
   - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 9 months ago
 
-<sub>updated: 2026-10-01 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-10-02 | gh(@]vexelon.net</sub>
