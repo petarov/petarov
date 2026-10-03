@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 9 days ago
-- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 3 months ago
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 10 days ago
+- `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 5 months ago
@@ -447,8 +447,8 @@
 - `vexelon-dot-net/e-additives.web` **[Single additive info page - date/time are not well formatted](https://github.com/vexelon-dot-net/e-additives.web/issues/16)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Single additive info page](https://github.com/vexelon-dot-net/e-additives.web/issues/4)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Additives list page](https://github.com/vexelon-dot-net/e-additives.web/issues/10)** - 12 years ago
-- `moment/moment` **[Fix longDateFormat for Bulgarian language](https://github.com/moment/moment/issues/1148)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[Localization (l10n)](https://github.com/vexelon-dot-net/e-additives.web/issues/8)** - 12 years ago
+- `moment/moment` **[Fix longDateFormat for Bulgarian language](https://github.com/moment/moment/issues/1148)** - 13 years ago
+- `vexelon-dot-net/e-additives.web` **[Localization (l10n)](https://github.com/vexelon-dot-net/e-additives.web/issues/8)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Build script](https://github.com/vexelon-dot-net/e-additives.web/issues/11)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Site does not load on IE10](https://github.com/vexelon-dot-net/e-additives.web/issues/14)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Breadcrumbs](https://github.com/vexelon-dot-net/e-additives.web/issues/9)** - 13 years ago
