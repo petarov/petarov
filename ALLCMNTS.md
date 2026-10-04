@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 10 days ago
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 11 days ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
@@ -10,7 +10,7 @@
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 6 months ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 9 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 9 months ago
-- `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 10 months ago
+- `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 11 months ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 1 year ago
 - `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 1 year ago
 - `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 1 year ago
@@ -205,7 +205,7 @@
 - `vexelon-dot-net/currencybg.app` **[Бутон за обновяване на "Портфейл"](https://github.com/vexelon-dot-net/currencybg.app/issues/78)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Issue on JSON parsing in the API](https://github.com/vexelon-dot-net/currencybg.app/issues/86)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Handle JSON parse exceptions](https://github.com/vexelon-dot-net/currencybg.app/pull/87)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Нов източник - cryptobank](https://github.com/vexelon-dot-net/currencybg.server/issues/97)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Нов източник - cryptobank](https://github.com/vexelon-dot-net/currencybg.server/issues/97)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/upgrade gradle and docu](https://github.com/vexelon-dot-net/currencybg.server/pull/102)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/#82 background service downloads](https://github.com/vexelon-dot-net/currencybg.app/pull/83)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/remove wallet refresh #78](https://github.com/vexelon-dot-net/currencybg.app/pull/81)** - 9 years ago
@@ -445,8 +445,8 @@
 - `vexelon-dot-net/e-additives.web` **[Additives - When there is request to invalid additive ID site shows empty filter box and table](https://github.com/vexelon-dot-net/e-additives.web/issues/19)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Categories - When there is request to invalid category ID site stops](https://github.com/vexelon-dot-net/e-additives.web/issues/15)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Single additive info page - date/time are not well formatted](https://github.com/vexelon-dot-net/e-additives.web/issues/16)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[MS01-Req: Single additive info page](https://github.com/vexelon-dot-net/e-additives.web/issues/4)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[MS01-Req: Additives list page](https://github.com/vexelon-dot-net/e-additives.web/issues/10)** - 12 years ago
+- `vexelon-dot-net/e-additives.web` **[MS01-Req: Single additive info page](https://github.com/vexelon-dot-net/e-additives.web/issues/4)** - 13 years ago
+- `vexelon-dot-net/e-additives.web` **[MS01-Req: Additives list page](https://github.com/vexelon-dot-net/e-additives.web/issues/10)** - 13 years ago
 - `moment/moment` **[Fix longDateFormat for Bulgarian language](https://github.com/moment/moment/issues/1148)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Localization (l10n)](https://github.com/vexelon-dot-net/e-additives.web/issues/8)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Build script](https://github.com/vexelon-dot-net/e-additives.web/issues/11)** - 13 years ago
