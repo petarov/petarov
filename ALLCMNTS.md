@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 11 days ago
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 12 days ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
@@ -395,7 +395,7 @@
 - `ionic-team/ionic-ion-drawer` **[Minor typo error found](https://github.com/ionic-team/ionic-ion-drawer/issues/5)** - 10 years ago
 - `akhikhl/wuff` **[Wuff must support p2 repositories as sources of OSGi/Eclipse bundles](https://github.com/akhikhl/wuff/issues/9)** - 10 years ago
 - `ionic-team/ionic-framework` **[Update gulp-sass dependency](https://github.com/ionic-team/ionic-framework/pull/4449)** - 10 years ago
-- `cmackay/google-analytics-plugin` **[how to set Anonymize IP?](https://github.com/cmackay/google-analytics-plugin/issues/43)** - 10 years ago
+- `cmackay/google-analytics-plugin` **[how to set Anonymize IP?](https://github.com/cmackay/google-analytics-plugin/issues/43)** - 11 years ago
 - `cmackay/google-analytics-plugin` **[App Build failing since last update](https://github.com/cmackay/google-analytics-plugin/issues/45)** - 11 years ago
 - `cmackay/google-analytics-plugin` **[Add App-level Opt Out](https://github.com/cmackay/google-analytics-plugin/pull/46)** - 11 years ago
 - `cmackay/google-analytics-plugin` **[Remove dependency and use cordova framework tag](https://github.com/cmackay/google-analytics-plugin/pull/44)** - 11 years ago
@@ -440,11 +440,11 @@
 - `vexelon-dot-net/e-additives.web` **[Styling of search input box on additives page](https://github.com/vexelon-dot-net/e-additives.web/issues/21)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Categories list page](https://github.com/vexelon-dot-net/e-additives.web/issues/13)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Localization - Missing localization in F.A.Q. and partial localization in additive result list](https://github.com/vexelon-dot-net/e-additives.web/issues/18)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[MS01-Req: Ajax 'wait' animation](https://github.com/vexelon-dot-net/e-additives.web/issues/12)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[Design - "Explore menu" don't collapse when user click on any link](https://github.com/vexelon-dot-net/e-additives.web/issues/17)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[Additives - When there is request to invalid additive ID site shows empty filter box and table](https://github.com/vexelon-dot-net/e-additives.web/issues/19)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[Categories - When there is request to invalid category ID site stops](https://github.com/vexelon-dot-net/e-additives.web/issues/15)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[Single additive info page - date/time are not well formatted](https://github.com/vexelon-dot-net/e-additives.web/issues/16)** - 12 years ago
+- `vexelon-dot-net/e-additives.web` **[MS01-Req: Ajax 'wait' animation](https://github.com/vexelon-dot-net/e-additives.web/issues/12)** - 13 years ago
+- `vexelon-dot-net/e-additives.web` **[Design - "Explore menu" don't collapse when user click on any link](https://github.com/vexelon-dot-net/e-additives.web/issues/17)** - 13 years ago
+- `vexelon-dot-net/e-additives.web` **[Additives - When there is request to invalid additive ID site shows empty filter box and table](https://github.com/vexelon-dot-net/e-additives.web/issues/19)** - 13 years ago
+- `vexelon-dot-net/e-additives.web` **[Categories - When there is request to invalid category ID site stops](https://github.com/vexelon-dot-net/e-additives.web/issues/15)** - 13 years ago
+- `vexelon-dot-net/e-additives.web` **[Single additive info page - date/time are not well formatted](https://github.com/vexelon-dot-net/e-additives.web/issues/16)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Single additive info page](https://github.com/vexelon-dot-net/e-additives.web/issues/4)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Additives list page](https://github.com/vexelon-dot-net/e-additives.web/issues/10)** - 13 years ago
 - `moment/moment` **[Fix longDateFormat for Bulgarian language](https://github.com/moment/moment/issues/1148)** - 13 years ago
