@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 13 days ago
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 14 days ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
@@ -331,7 +331,7 @@
 - `j3k0/cordova-non-renewing-subscription` **[possible type](https://github.com/j3k0/cordova-non-renewing-subscription/issues/15)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/build fixes](https://github.com/vexelon-dot-net/currencybg.app/pull/18)** - 9 years ago
 - `geometer/FBReaderJ-plugin-local-opds-scanner` **[HTTPS support](https://github.com/geometer/FBReaderJ-plugin-local-opds-scanner/issues/2)** - 9 years ago
-- `vexelon-dot-net/currencybg.app` **[Bugfix/gradle build](https://github.com/vexelon-dot-net/currencybg.app/pull/17)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Bugfix/gradle build](https://github.com/vexelon-dot-net/currencybg.app/pull/17)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Проверка и евнт. оптимизация на API данните](https://github.com/vexelon-dot-net/currencybg.server/issues/4)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Fix junctions listing](https://github.com/vexelon-dot-net/currencybg.server/pull/42)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Feature/sql adjustments](https://github.com/vexelon-dot-net/currencybg.server/pull/40)** - 10 years ago
@@ -438,7 +438,7 @@
 - `vexelon-dot-net/e-additives.web` **[de-DE browser locale breaks functionality](https://github.com/vexelon-dot-net/e-additives.web/issues/23)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Browser locale is not recognized](https://github.com/vexelon-dot-net/e-additives.web/issues/22)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Styling of search input box on additives page](https://github.com/vexelon-dot-net/e-additives.web/issues/21)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[MS01-Req: Categories list page](https://github.com/vexelon-dot-net/e-additives.web/issues/13)** - 12 years ago
+- `vexelon-dot-net/e-additives.web` **[MS01-Req: Categories list page](https://github.com/vexelon-dot-net/e-additives.web/issues/13)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Localization - Missing localization in F.A.Q. and partial localization in additive result list](https://github.com/vexelon-dot-net/e-additives.web/issues/18)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Ajax 'wait' animation](https://github.com/vexelon-dot-net/e-additives.web/issues/12)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Design - "Explore menu" don't collapse when user click on any link](https://github.com/vexelon-dot-net/e-additives.web/issues/17)** - 13 years ago
