@@ -1,11 +1,11 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 4 days ago
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 8 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 5 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 9 days ago
 
 **random**
 
-  - **[game-off-2017](https://github.com/kenamick/game-off-2017)** - 2 years ago
+  - **[query-apple-firmware-updates](https://github.com/petarov/query-apple-firmware-updates)** - 1 year ago
 
 **pull requests, issues, comments** <sub>past 12 months, [all](ALLCMNTS.md)</sub>
 
@@ -17,4 +17,4 @@
   - **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157#issuecomment-3664568316)** - 9 months ago
   - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 10 months ago
 
-<sub>updated: 2026-10-08 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-10-09 | gh(@]vexelon.net</sub>

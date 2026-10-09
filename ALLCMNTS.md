@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 15 days ago
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 16 days ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
@@ -194,7 +194,7 @@
 - `scheinem/MSCMoreOptionTableViewCell` **[iOS11 beta not showing more button.](https://github.com/scheinem/MSCMoreOptionTableViewCell/issues/37)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Bitcoinshouse](https://github.com/vexelon-dot-net/currencybg.server/issues/101)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Added BitcounsHouse as a new Source](https://github.com/vexelon-dot-net/currencybg.server/pull/105)** - 8 years ago
-- `vexelon-dot-net/currencybg.server` **[Replace all unicode characters instead of splitting by empty spaces](https://github.com/vexelon-dot-net/currencybg.server/pull/104)** - 8 years ago
+- `vexelon-dot-net/currencybg.server` **[Replace all unicode characters instead of splitting by empty spaces](https://github.com/vexelon-dot-net/currencybg.server/pull/104)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Added CryptoBank as source](https://github.com/vexelon-dot-net/currencybg.server/pull/103)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Мигриране към minSDK 19 и Java 1.8](https://github.com/vexelon-dot-net/currencybg.app/issues/67)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Improve context reference handling in AsyncTask jobs](https://github.com/vexelon-dot-net/currencybg.app/issues/85)** - 9 years ago
