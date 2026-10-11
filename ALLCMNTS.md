@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 17 days ago
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 18 days ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
@@ -9,7 +9,7 @@
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 6 months ago
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 7 months ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 9 months ago
-- `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 9 months ago
+- `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 10 months ago
 - `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 11 months ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 1 year ago
 - `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 1 year ago
@@ -435,7 +435,7 @@
 - `vexelon-dot-net/e-additives.web` **[Additives - Search include dates too](https://github.com/vexelon-dot-net/e-additives.web/issues/20)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Explicit statement that IE7 and IE8 are not supported](https://github.com/vexelon-dot-net/e-additives.web/issues/26)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Additives visualization is too slow](https://github.com/vexelon-dot-net/e-additives.web/issues/24)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[de-DE browser locale breaks functionality](https://github.com/vexelon-dot-net/e-additives.web/issues/23)** - 12 years ago
+- `vexelon-dot-net/e-additives.web` **[de-DE browser locale breaks functionality](https://github.com/vexelon-dot-net/e-additives.web/issues/23)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Browser locale is not recognized](https://github.com/vexelon-dot-net/e-additives.web/issues/22)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Styling of search input box on additives page](https://github.com/vexelon-dot-net/e-additives.web/issues/21)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[MS01-Req: Categories list page](https://github.com/vexelon-dot-net/e-additives.web/issues/13)** - 13 years ago
