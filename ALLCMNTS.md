@@ -1,6 +1,6 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 18 days ago
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 19 days ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
@@ -80,7 +80,7 @@
 - `petarov/bulgarian-control-numbers` **[Bump @babel/core from 7.19.3 to 7.19.6](https://github.com/petarov/bulgarian-control-numbers/pull/165)** - 3 years ago
 - `petarov/bulgarian-control-numbers` **[Bump @babel/preset-env from 7.19.3 to 7.19.4](https://github.com/petarov/bulgarian-control-numbers/pull/166)** - 3 years ago
 - `petarov/bulgarian-control-numbers` **[Bump jest from 29.1.2 to 29.2.2](https://github.com/petarov/bulgarian-control-numbers/pull/164)** - 3 years ago
-- `justinpinkney/stable-diffusion` **[AttributeError: 'FrozenCLIPImageEmbedder' object has no attribute 'transformer'](https://github.com/justinpinkney/stable-diffusion/issues/13)** - 3 years ago
+- `justinpinkney/stable-diffusion` **[AttributeError: 'FrozenCLIPImageEmbedder' object has no attribute 'transformer'](https://github.com/justinpinkney/stable-diffusion/issues/13)** - 4 years ago
 - `Automattic/node-canvas` **[Import SVG files](https://github.com/Automattic/node-canvas/issues/494)** - 4 years ago
 - `micromdm/micromdm` **[Change PushCertificateRequest file extension to txt](https://github.com/micromdm/micromdm/pull/833)** - 4 years ago
 - `coder/code-server` **[Fix caddy installation docs](https://github.com/coder/code-server/pull/5209)** - 4 years ago
@@ -144,7 +144,7 @@
 - `GradleUp/shadow` **[Upgrade ASM to 7.0-beta and jdependency to 2.1.1](https://github.com/GradleUp/shadow/pull/415)** - 7 years ago
 - `kenamick/game-off-2017` **[The Punch Plan](https://github.com/kenamick/game-off-2017/issues/2)** - 7 years ago
 - `akhikhl/wuff` **[Errror with Convert existing Eclipse plugins and apps to Gradle](https://github.com/akhikhl/wuff/issues/113)** - 7 years ago
-- `viritin/viritin` **[BrowserCookie NPE when reading cookie](https://github.com/viritin/viritin/issues/53)** - 7 years ago
+- `viritin/viritin` **[BrowserCookie NPE when reading cookie](https://github.com/viritin/viritin/issues/53)** - 8 years ago
 - `petarov/wuff` **[Add missing extendsFrom directives.](https://github.com/petarov/wuff/pull/1)** - 8 years ago
 - `slimphp/Slim` **[Documentation is awesome, tutorials are lacking](https://github.com/slimphp/Slim/issues/656)** - 8 years ago
 - `ionic-team/ionic-framework` **[bug: node.js 5.0.0 and ionic-cli problem](https://github.com/ionic-team/ionic-framework/issues/4598)** - 8 years ago
@@ -330,7 +330,7 @@
 - `vexelon-dot-net/currencybg.app` **[Enhancement/#20 add currency code in string xml](https://github.com/vexelon-dot-net/currencybg.app/pull/22)** - 9 years ago
 - `j3k0/cordova-non-renewing-subscription` **[possible type](https://github.com/j3k0/cordova-non-renewing-subscription/issues/15)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/build fixes](https://github.com/vexelon-dot-net/currencybg.app/pull/18)** - 9 years ago
-- `geometer/FBReaderJ-plugin-local-opds-scanner` **[HTTPS support](https://github.com/geometer/FBReaderJ-plugin-local-opds-scanner/issues/2)** - 9 years ago
+- `geometer/FBReaderJ-plugin-local-opds-scanner` **[HTTPS support](https://github.com/geometer/FBReaderJ-plugin-local-opds-scanner/issues/2)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/gradle build](https://github.com/vexelon-dot-net/currencybg.app/pull/17)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Проверка и евнт. оптимизация на API данните](https://github.com/vexelon-dot-net/currencybg.server/issues/4)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Fix junctions listing](https://github.com/vexelon-dot-net/currencybg.server/pull/42)** - 10 years ago
@@ -434,7 +434,7 @@
 - `slimphp/Slim` **[Routing broken in 2.3.3 when using Apache aliases](https://github.com/slimphp/Slim/issues/655)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Additives - Search include dates too](https://github.com/vexelon-dot-net/e-additives.web/issues/20)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Explicit statement that IE7 and IE8 are not supported](https://github.com/vexelon-dot-net/e-additives.web/issues/26)** - 12 years ago
-- `vexelon-dot-net/e-additives.web` **[Additives visualization is too slow](https://github.com/vexelon-dot-net/e-additives.web/issues/24)** - 12 years ago
+- `vexelon-dot-net/e-additives.web` **[Additives visualization is too slow](https://github.com/vexelon-dot-net/e-additives.web/issues/24)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[de-DE browser locale breaks functionality](https://github.com/vexelon-dot-net/e-additives.web/issues/23)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Browser locale is not recognized](https://github.com/vexelon-dot-net/e-additives.web/issues/22)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Styling of search input box on additives page](https://github.com/vexelon-dot-net/e-additives.web/issues/21)** - 13 years ago
