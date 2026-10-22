@@ -1,13 +1,13 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 2 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 2 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 5 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 5 days ago
-- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 28 days ago
+- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 3 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 3 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 6 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 6 days ago
+- `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 29 days ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
-- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 5 months ago
+- `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 6 months ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 6 months ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 6 months ago
 - `ionic-team/capacitor-plugins` **[MDM Managed User Defaults](https://github.com/ionic-team/capacitor-plugins/issues/557)** - 7 months ago
@@ -415,7 +415,7 @@
 - `craftyjs/craftyjs.github.com` **[Crafty game prototype demo](https://github.com/craftyjs/craftyjs.github.com/issues/45)** - 11 years ago
 - `vexelon-dot-net/e-additives.web` **[SEO: Make site crawlable](https://github.com/vexelon-dot-net/e-additives.web/issues/25)** - 11 years ago
 - `kenamick/savagewheels` **[Cars get stuck during game play (problem in Physics)](https://github.com/kenamick/savagewheels/issues/4)** - 11 years ago
-- `erazorbg/smfapi` **[Why not list this on Packagist.org?](https://github.com/erazorbg/smfapi/issues/4)** - 11 years ago
+- `erazorbg/smfapi` **[Why not list this on Packagist.org?](https://github.com/erazorbg/smfapi/issues/4)** - 12 years ago
 - `ionic-team/ionic-site` **[Minor typo in Tabs](https://github.com/ionic-team/ionic-site/issues/197)** - 12 years ago
 - `craftyjs/craftyjs.github.com` **[CraftyMouseFace component](https://github.com/craftyjs/craftyjs.github.com/issues/44)** - 12 years ago
 - `phaserjs/phaser` **[Fix issue #883](https://github.com/phaserjs/phaser/pull/1002)** - 12 years ago
