@@ -1,11 +1,11 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 2 days ago
-- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 3 days ago
-- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 7 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 7 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 10 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 10 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - in the last 24 hours
+- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 4 days ago
+- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 8 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 8 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 11 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 11 days ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 1 month ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
@@ -196,7 +196,7 @@
 - `vexelon-dot-net/currencybg.app` **[Feature/#25 currency filters](https://github.com/vexelon-dot-net/currencybg.app/pull/92)** - 8 years ago
 - `Automattic/node-canvas` **[Error install canvas on Windows](https://github.com/Automattic/node-canvas/issues/414)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#84 more sources](https://github.com/vexelon-dot-net/currencybg.app/pull/91)** - 8 years ago
-- `j3k0/cordova-plugin-purchase` **[[iOS] Validation of auto renewable subscription](https://github.com/j3k0/cordova-plugin-purchase/issues/617)** - 8 years ago
+- `j3k0/cordova-plugin-purchase` **[[iOS] Validation of auto renewable subscription](https://github.com/j3k0/cordova-plugin-purchase/issues/617)** - 9 years ago
 - `scheinem/MSCMoreOptionTableViewCell` **[iOS11 beta not showing more button.](https://github.com/scheinem/MSCMoreOptionTableViewCell/issues/37)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Bitcoinshouse](https://github.com/vexelon-dot-net/currencybg.server/issues/101)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Added BitcounsHouse as a new Source](https://github.com/vexelon-dot-net/currencybg.server/pull/105)** - 9 years ago
@@ -437,7 +437,7 @@
 - `fogleman/Craft` **[Texture file is not original](https://github.com/fogleman/Craft/issues/15)** - 12 years ago
 - `melonjs/melonJS` **['animationspeed' is irrelevant when extending AnimationSheet](https://github.com/melonjs/melonJS/issues/298)** - 12 years ago
 - `vexelon-dot-net/e-additives.web` **[Comments on additives pages](https://github.com/vexelon-dot-net/e-additives.web/issues/27)** - 12 years ago
-- `slimphp/Slim` **[Routing broken in 2.3.3 when using Apache aliases](https://github.com/slimphp/Slim/issues/655)** - 12 years ago
+- `slimphp/Slim` **[Routing broken in 2.3.3 when using Apache aliases](https://github.com/slimphp/Slim/issues/655)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Additives - Search include dates too](https://github.com/vexelon-dot-net/e-additives.web/issues/20)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Explicit statement that IE7 and IE8 are not supported](https://github.com/vexelon-dot-net/e-additives.web/issues/26)** - 13 years ago
 - `vexelon-dot-net/e-additives.web` **[Additives visualization is too slow](https://github.com/vexelon-dot-net/e-additives.web/issues/24)** - 13 years ago
