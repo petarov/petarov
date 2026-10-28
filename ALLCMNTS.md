@@ -1,11 +1,11 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - in the last 24 hours
-- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 4 days ago
-- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 8 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 8 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 11 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 11 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 1 day ago
+- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 5 days ago
+- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 9 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 9 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 12 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 12 days ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 1 month ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
@@ -147,7 +147,7 @@
 - `vexelon-dot-net/currencybg.app` **[GA Event/Exception reports](https://github.com/vexelon-dot-net/currencybg.app/issues/54)** - 7 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Varchev](https://github.com/vexelon-dot-net/currencybg.server/issues/67)** - 7 years ago
 - `GradleUp/shadow` **[shadowJar fails - lower ASM API version](https://github.com/GradleUp/shadow/issues/406)** - 7 years ago
-- `GradleUp/shadow` **[Upgrade ASM to 7.0-beta and jdependency to 2.1.1](https://github.com/GradleUp/shadow/pull/415)** - 7 years ago
+- `GradleUp/shadow` **[Upgrade ASM to 7.0-beta and jdependency to 2.1.1](https://github.com/GradleUp/shadow/pull/415)** - 8 years ago
 - `kenamick/game-off-2017` **[The Punch Plan](https://github.com/kenamick/game-off-2017/issues/2)** - 8 years ago
 - `akhikhl/wuff` **[Errror with Convert existing Eclipse plugins and apps to Gradle](https://github.com/akhikhl/wuff/issues/113)** - 8 years ago
 - `viritin/viritin` **[BrowserCookie NPE when reading cookie](https://github.com/viritin/viritin/issues/53)** - 8 years ago
