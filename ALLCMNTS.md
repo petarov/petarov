@@ -1,14 +1,14 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 1 day ago
-- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 5 days ago
-- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 9 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 9 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 12 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 12 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - in the last 24 hours
+- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 6 days ago
+- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 10 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 10 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 13 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 13 days ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 1 month ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
-- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 4 months ago
+- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 5 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 6 months ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 6 months ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 6 months ago
@@ -49,7 +49,7 @@
 - `fengtan/ldap-explorer` **[FEATURE: Decode Active Directory server GUIDs](https://github.com/fengtan/ldap-explorer/issues/33)** - 1 year ago
 - `fengtan/ldap-explorer` **[Decode objectGUI from binary string.](https://github.com/fengtan/ldap-explorer/pull/60)** - 1 year ago
 - `AzureAD/microsoft-authentication-library-for-objc` **[Keychain problems with getDeviceInformation and getWPJMetaDataDevice](https://github.com/AzureAD/microsoft-authentication-library-for-objc/issues/2393)** - 1 year ago
-- `cooperspencer/gickup` **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200)** - 1 year ago
+- `cooperspencer/gickup` **[Not able to mirror gitlab to github](https://github.com/cooperspencer/gickup/issues/200)** - 2 years ago
 - `mukel/llama3.java` **[NI does not work on Mac/AMR64 ](https://github.com/mukel/llama3.java/issues/19)** - 2 years ago
 - `petarov/google-android-app-ids` **[easy uninstall script](https://github.com/petarov/google-android-app-ids/issues/3)** - 2 years ago
 - `google/play-work` **[Error - missing certificate_base64 in .json file while uploading JSON to playstore](https://github.com/google/play-work/issues/39)** - 2 years ago
@@ -146,7 +146,7 @@
 - `vexelon-dot-net/currencybg.app` **[Немска локализация](https://github.com/vexelon-dot-net/currencybg.app/issues/32)** - 7 years ago
 - `vexelon-dot-net/currencybg.app` **[GA Event/Exception reports](https://github.com/vexelon-dot-net/currencybg.app/issues/54)** - 7 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Varchev](https://github.com/vexelon-dot-net/currencybg.server/issues/67)** - 7 years ago
-- `GradleUp/shadow` **[shadowJar fails - lower ASM API version](https://github.com/GradleUp/shadow/issues/406)** - 7 years ago
+- `GradleUp/shadow` **[shadowJar fails - lower ASM API version](https://github.com/GradleUp/shadow/issues/406)** - 8 years ago
 - `GradleUp/shadow` **[Upgrade ASM to 7.0-beta and jdependency to 2.1.1](https://github.com/GradleUp/shadow/pull/415)** - 8 years ago
 - `kenamick/game-off-2017` **[The Punch Plan](https://github.com/kenamick/game-off-2017/issues/2)** - 8 years ago
 - `akhikhl/wuff` **[Errror with Convert existing Eclipse plugins and apps to Gradle](https://github.com/akhikhl/wuff/issues/113)** - 8 years ago
@@ -335,7 +335,7 @@
 - `j3k0/cordova-non-renewing-subscription` **[Configurable parent element for the dialog view](https://github.com/j3k0/cordova-non-renewing-subscription/pull/14)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Enhancement/#20 add currency code in string xml](https://github.com/vexelon-dot-net/currencybg.app/pull/22)** - 9 years ago
 - `j3k0/cordova-non-renewing-subscription` **[possible type](https://github.com/j3k0/cordova-non-renewing-subscription/issues/15)** - 9 years ago
-- `vexelon-dot-net/currencybg.app` **[Bugfix/build fixes](https://github.com/vexelon-dot-net/currencybg.app/pull/18)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Bugfix/build fixes](https://github.com/vexelon-dot-net/currencybg.app/pull/18)** - 10 years ago
 - `geometer/FBReaderJ-plugin-local-opds-scanner` **[HTTPS support](https://github.com/geometer/FBReaderJ-plugin-local-opds-scanner/issues/2)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/gradle build](https://github.com/vexelon-dot-net/currencybg.app/pull/17)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Проверка и евнт. оптимизация на API данните](https://github.com/vexelon-dot-net/currencybg.server/issues/4)** - 10 years ago
