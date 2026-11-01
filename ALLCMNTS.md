@@ -1,11 +1,11 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 2 days ago
-- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 8 days ago
-- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 12 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 12 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 15 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 15 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 3 days ago
+- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 9 days ago
+- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 13 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 13 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 16 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 16 days ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 1 month ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 5 months ago
@@ -145,7 +145,7 @@
 - `mcollovati/vertx-vaadin` **[Create branch for vaadin 10 support](https://github.com/mcollovati/vertx-vaadin/issues/4)** - 7 years ago
 - `vexelon-dot-net/currencybg.app` **[Немска локализация](https://github.com/vexelon-dot-net/currencybg.app/issues/32)** - 7 years ago
 - `vexelon-dot-net/currencybg.app` **[GA Event/Exception reports](https://github.com/vexelon-dot-net/currencybg.app/issues/54)** - 7 years ago
-- `vexelon-dot-net/currencybg.server` **[Нов източник - Varchev](https://github.com/vexelon-dot-net/currencybg.server/issues/67)** - 7 years ago
+- `vexelon-dot-net/currencybg.server` **[Нов източник - Varchev](https://github.com/vexelon-dot-net/currencybg.server/issues/67)** - 8 years ago
 - `GradleUp/shadow` **[shadowJar fails - lower ASM API version](https://github.com/GradleUp/shadow/issues/406)** - 8 years ago
 - `GradleUp/shadow` **[Upgrade ASM to 7.0-beta and jdependency to 2.1.1](https://github.com/GradleUp/shadow/pull/415)** - 8 years ago
 - `kenamick/game-off-2017` **[The Punch Plan](https://github.com/kenamick/game-off-2017/issues/2)** - 8 years ago
@@ -190,8 +190,8 @@
 - `kenamick/game-off-2017` **[Confusion at the end of Act 2](https://github.com/kenamick/game-off-2017/issues/10)** - 8 years ago
 - `kenamick/game-off-2017` **[The Punch Script](https://github.com/kenamick/game-off-2017/issues/3)** - 8 years ago
 - `github/game-off-2013` **[Submission timezone](https://github.com/github/game-off-2013/issues/22)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Slow SQL select](https://github.com/vexelon-dot-net/currencybg.app/issues/90)** - 8 years ago
-- `vexelon-dot-net/currencybg.app` **[Feature/#90 sql optimize](https://github.com/vexelon-dot-net/currencybg.app/pull/93)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[Slow SQL select](https://github.com/vexelon-dot-net/currencybg.app/issues/90)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Feature/#90 sql optimize](https://github.com/vexelon-dot-net/currencybg.app/pull/93)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Филтър - да се изобразяват само избрани валути](https://github.com/vexelon-dot-net/currencybg.app/issues/25)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/#25 currency filters](https://github.com/vexelon-dot-net/currencybg.app/pull/92)** - 9 years ago
 - `Automattic/node-canvas` **[Error install canvas on Windows](https://github.com/Automattic/node-canvas/issues/414)** - 9 years ago
