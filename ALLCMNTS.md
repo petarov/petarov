@@ -1,11 +1,11 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 3 days ago
-- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 9 days ago
-- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 13 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 13 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 16 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 16 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - in the last 24 hours
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - in the last 24 hours
+- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 10 days ago
+- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 14 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 17 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 17 days ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 1 month ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 4 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 5 months ago
@@ -16,7 +16,7 @@
 - `cline/cline` **[Cline tried to use write_to_file without value for required parameter 'content'. Retrying...](https://github.com/cline/cline/issues/7998)** - 7 months ago
 - `flyway/flyway` **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157)** - 10 months ago
 - `jchambers/pushy` **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121)** - 10 months ago
-- `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 11 months ago
+- `vexelon-dot-net/currencybg.app` **[Google Analytics идеи за статистика](https://github.com/vexelon-dot-net/currencybg.app/issues/8)** - 1 year ago
 - `jchambers/pushy` **[java.lang.NoClassDefFoundError: io/netty/util/concurrent/ThreadAwareExecutor](https://github.com/jchambers/pushy/issues/1116)** - 1 year ago
 - `gradle/gradle` **[useGpgCmd stopped working in v 8.10.1](https://github.com/gradle/gradle/issues/30645)** - 1 year ago
 - `petarov/apple-mdm-clients` **[Bump org.gradle.toolchains.foojay-resolver-convention from 0.10.0 to 1.0.0](https://github.com/petarov/apple-mdm-clients/pull/8)** - 1 year ago
@@ -143,8 +143,8 @@
 - `invertase/react-native-firebase` **[Android: JDK 10 not supported for v4.1.0](https://github.com/invertase/react-native-firebase/issues/1070)** - 7 years ago
 - `k0shk0sh/FastHub` **[Add missing BG language translations](https://github.com/k0shk0sh/FastHub/pull/2060)** - 7 years ago
 - `mcollovati/vertx-vaadin` **[Create branch for vaadin 10 support](https://github.com/mcollovati/vertx-vaadin/issues/4)** - 7 years ago
-- `vexelon-dot-net/currencybg.app` **[Немска локализация](https://github.com/vexelon-dot-net/currencybg.app/issues/32)** - 7 years ago
-- `vexelon-dot-net/currencybg.app` **[GA Event/Exception reports](https://github.com/vexelon-dot-net/currencybg.app/issues/54)** - 7 years ago
+- `vexelon-dot-net/currencybg.app` **[Немска локализация](https://github.com/vexelon-dot-net/currencybg.app/issues/32)** - 8 years ago
+- `vexelon-dot-net/currencybg.app` **[GA Event/Exception reports](https://github.com/vexelon-dot-net/currencybg.app/issues/54)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Varchev](https://github.com/vexelon-dot-net/currencybg.server/issues/67)** - 8 years ago
 - `GradleUp/shadow` **[shadowJar fails - lower ASM API version](https://github.com/GradleUp/shadow/issues/406)** - 8 years ago
 - `GradleUp/shadow` **[Upgrade ASM to 7.0-beta and jdependency to 2.1.1](https://github.com/GradleUp/shadow/pull/415)** - 8 years ago
