@@ -1,11 +1,11 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - in the last 24 hours
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 1 day ago
-- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 11 days ago
-- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 15 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 18 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 18 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 1 day ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 2 days ago
+- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 12 days ago
+- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 16 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 19 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 19 days ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 1 month ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 5 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 5 months ago
@@ -83,8 +83,8 @@
 - `micromdm/micromdm` **[How to install ABM apps with micromdm?](https://github.com/micromdm/micromdm/issues/845)** - 3 years ago
 - `99designs/colorific` **[except Exception, e: / SyntaxError: invalid syntax ](https://github.com/99designs/colorific/issues/5)** - 3 years ago
 - `micromdm/micromdm` **[Added installAsManaged to Installapplication](https://github.com/micromdm/micromdm/pull/684)** - 3 years ago
-- `petarov/bulgarian-control-numbers` **[Bump @babel/core from 7.19.3 to 7.19.6](https://github.com/petarov/bulgarian-control-numbers/pull/165)** - 3 years ago
-- `petarov/bulgarian-control-numbers` **[Bump @babel/preset-env from 7.19.3 to 7.19.4](https://github.com/petarov/bulgarian-control-numbers/pull/166)** - 3 years ago
+- `petarov/bulgarian-control-numbers` **[Bump @babel/core from 7.19.3 to 7.19.6](https://github.com/petarov/bulgarian-control-numbers/pull/165)** - 4 years ago
+- `petarov/bulgarian-control-numbers` **[Bump @babel/preset-env from 7.19.3 to 7.19.4](https://github.com/petarov/bulgarian-control-numbers/pull/166)** - 4 years ago
 - `petarov/bulgarian-control-numbers` **[Bump jest from 29.1.2 to 29.2.2](https://github.com/petarov/bulgarian-control-numbers/pull/164)** - 4 years ago
 - `justinpinkney/stable-diffusion` **[AttributeError: 'FrozenCLIPImageEmbedder' object has no attribute 'transformer'](https://github.com/justinpinkney/stable-diffusion/issues/13)** - 4 years ago
 - `Automattic/node-canvas` **[Import SVG files](https://github.com/Automattic/node-canvas/issues/494)** - 4 years ago
@@ -142,7 +142,7 @@
 - `erazorbg/smfapi` **[More Test cases](https://github.com/erazorbg/smfapi/issues/3)** - 7 years ago
 - `invertase/react-native-firebase` **[Android: JDK 10 not supported for v4.1.0](https://github.com/invertase/react-native-firebase/issues/1070)** - 7 years ago
 - `k0shk0sh/FastHub` **[Add missing BG language translations](https://github.com/k0shk0sh/FastHub/pull/2060)** - 7 years ago
-- `mcollovati/vertx-vaadin` **[Create branch for vaadin 10 support](https://github.com/mcollovati/vertx-vaadin/issues/4)** - 7 years ago
+- `mcollovati/vertx-vaadin` **[Create branch for vaadin 10 support](https://github.com/mcollovati/vertx-vaadin/issues/4)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Немска локализация](https://github.com/vexelon-dot-net/currencybg.app/issues/32)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[GA Event/Exception reports](https://github.com/vexelon-dot-net/currencybg.app/issues/54)** - 8 years ago
 - `vexelon-dot-net/currencybg.server` **[Нов източник - Varchev](https://github.com/vexelon-dot-net/currencybg.server/issues/67)** - 8 years ago
@@ -334,7 +334,7 @@
 - `j3k0/cordova-non-renewing-subscription` **[Angular js](https://github.com/j3k0/cordova-non-renewing-subscription/issues/10)** - 9 years ago
 - `j3k0/cordova-non-renewing-subscription` **[Configurable parent element for the dialog view](https://github.com/j3k0/cordova-non-renewing-subscription/pull/14)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Enhancement/#20 add currency code in string xml](https://github.com/vexelon-dot-net/currencybg.app/pull/22)** - 9 years ago
-- `j3k0/cordova-non-renewing-subscription` **[possible type](https://github.com/j3k0/cordova-non-renewing-subscription/issues/15)** - 9 years ago
+- `j3k0/cordova-non-renewing-subscription` **[possible type](https://github.com/j3k0/cordova-non-renewing-subscription/issues/15)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/build fixes](https://github.com/vexelon-dot-net/currencybg.app/pull/18)** - 10 years ago
 - `geometer/FBReaderJ-plugin-local-opds-scanner` **[HTTPS support](https://github.com/geometer/FBReaderJ-plugin-local-opds-scanner/issues/2)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/gradle build](https://github.com/vexelon-dot-net/currencybg.app/pull/17)** - 10 years ago
