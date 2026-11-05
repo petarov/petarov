@@ -1,11 +1,11 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 1 day ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 2 days ago
-- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 12 days ago
-- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 16 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 19 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 19 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 2 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 3 days ago
+- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 13 days ago
+- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 17 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 20 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 20 days ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 1 month ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 5 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 5 months ago
@@ -330,10 +330,10 @@
 - `j3k0/cordova-plugin-purchase` **[Authentication is required. - and no way...](https://github.com/j3k0/cordova-plugin-purchase/issues/529)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Add log.debug option to properties file](https://github.com/vexelon-dot-net/currencybg.server/pull/43)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Добавяне на кодовете и имената на валутите в String.xml файл](https://github.com/vexelon-dot-net/currencybg.app/issues/20)** - 9 years ago
-- `cmackay/google-analytics-plugin` **[Build error [UNEXPECTED TOP-LEVEL EXCEPTION]](https://github.com/cmackay/google-analytics-plugin/issues/71)** - 9 years ago
-- `j3k0/cordova-non-renewing-subscription` **[Angular js](https://github.com/j3k0/cordova-non-renewing-subscription/issues/10)** - 9 years ago
-- `j3k0/cordova-non-renewing-subscription` **[Configurable parent element for the dialog view](https://github.com/j3k0/cordova-non-renewing-subscription/pull/14)** - 9 years ago
-- `vexelon-dot-net/currencybg.app` **[Enhancement/#20 add currency code in string xml](https://github.com/vexelon-dot-net/currencybg.app/pull/22)** - 9 years ago
+- `cmackay/google-analytics-plugin` **[Build error [UNEXPECTED TOP-LEVEL EXCEPTION]](https://github.com/cmackay/google-analytics-plugin/issues/71)** - 10 years ago
+- `j3k0/cordova-non-renewing-subscription` **[Angular js](https://github.com/j3k0/cordova-non-renewing-subscription/issues/10)** - 10 years ago
+- `j3k0/cordova-non-renewing-subscription` **[Configurable parent element for the dialog view](https://github.com/j3k0/cordova-non-renewing-subscription/pull/14)** - 10 years ago
+- `vexelon-dot-net/currencybg.app` **[Enhancement/#20 add currency code in string xml](https://github.com/vexelon-dot-net/currencybg.app/pull/22)** - 10 years ago
 - `j3k0/cordova-non-renewing-subscription` **[possible type](https://github.com/j3k0/cordova-non-renewing-subscription/issues/15)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Bugfix/build fixes](https://github.com/vexelon-dot-net/currencybg.app/pull/18)** - 10 years ago
 - `geometer/FBReaderJ-plugin-local-opds-scanner` **[HTTPS support](https://github.com/geometer/FBReaderJ-plugin-local-opds-scanner/issues/2)** - 10 years ago
