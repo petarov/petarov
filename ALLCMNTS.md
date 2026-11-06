@@ -1,11 +1,11 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 2 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 3 days ago
-- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 13 days ago
-- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 17 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 20 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 20 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 3 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 4 days ago
+- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 14 days ago
+- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 18 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 21 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 21 days ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 1 month ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 5 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 5 months ago
@@ -397,7 +397,7 @@
 - `johndevs/gradle-vaadin-plugin` **[vaadinCompileWidgetset fails on 0.10.3 with gradle 2.8](https://github.com/johndevs/gradle-vaadin-plugin/issues/210)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[more than one library with package name 'com.google.android.gms'](https://github.com/cmackay/google-analytics-plugin/issues/49)** - 10 years ago
 - `allegro/axion-release-plugin` **[Custom or no version incrementer](https://github.com/allegro/axion-release-plugin/issues/112)** - 10 years ago
-- `cmackay/google-analytics-plugin` **[Xcode 7 BitCode linker error](https://github.com/cmackay/google-analytics-plugin/issues/48)** - 10 years ago
+- `cmackay/google-analytics-plugin` **[Xcode 7 BitCode linker error](https://github.com/cmackay/google-analytics-plugin/issues/48)** - 11 years ago
 - `ionic-team/ionic-ion-drawer` **[Minor typo error found](https://github.com/ionic-team/ionic-ion-drawer/issues/5)** - 11 years ago
 - `akhikhl/wuff` **[Wuff must support p2 repositories as sources of OSGi/Eclipse bundles](https://github.com/akhikhl/wuff/issues/9)** - 11 years ago
 - `ionic-team/ionic-framework` **[Update gulp-sass dependency](https://github.com/ionic-team/ionic-framework/pull/4449)** - 11 years ago
