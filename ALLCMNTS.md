@@ -1,11 +1,11 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 4 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 11 days ago
-- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 21 days ago
-- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 25 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 28 days ago
-- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 28 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 5 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 12 days ago
+- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 22 days ago
+- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 26 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 29 days ago
+- `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 29 days ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 1 month ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 5 months ago
 - `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 5 months ago
@@ -56,7 +56,7 @@
 - `microsoftgraph/msgraph-sdk-java-core` **[possible bug (deadlock) when posting batch request content over a certain length](https://github.com/microsoftgraph/msgraph-sdk-java-core/issues/1687)** - 2 years ago
 - `jchambers/pushy` **[Bump Netty to 4.1.108.Final due to CVE-2024-29025](https://github.com/jchambers/pushy/pull/1068)** - 2 years ago
 - `clo4/apple_device_identifiers` **[URL Stopped Working](https://github.com/clo4/apple_device_identifiers/issues/36)** - 2 years ago
-- `eclipse-vertx/vert.x` **[updateSSLOptions doesn't update when the updated secret remain at the same path](https://github.com/eclipse-vertx/vert.x/issues/4867)** - 2 years ago
+- `eclipse-vertx/vert.x` **[updateSSLOptions doesn't update when the updated secret remain at the same path](https://github.com/eclipse-vertx/vert.x/issues/4867)** - 3 years ago
 - `kenamick/game-off-2017` **[Add shadows](https://github.com/kenamick/game-off-2017/issues/22)** - 3 years ago
 - `kenamick/game-off-2017` **[Add player lives](https://github.com/kenamick/game-off-2017/issues/19)** - 3 years ago
 - `kenamick/game-off-2017` **[Desktop version](https://github.com/kenamick/game-off-2017/issues/21)** - 3 years ago
@@ -328,7 +328,7 @@
 - `vexelon-dot-net/currencybg.app` **[Feature/fix convert fragment](https://github.com/vexelon-dot-net/currencybg.app/pull/27)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Enhancement/#24 back end calculator](https://github.com/vexelon-dot-net/currencybg.app/pull/26)** - 9 years ago
 - `j3k0/cordova-plugin-purchase` **[Authentication is required. - and no way...](https://github.com/j3k0/cordova-plugin-purchase/issues/529)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Add log.debug option to properties file](https://github.com/vexelon-dot-net/currencybg.server/pull/43)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Add log.debug option to properties file](https://github.com/vexelon-dot-net/currencybg.server/pull/43)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Добавяне на кодовете и имената на валутите в String.xml файл](https://github.com/vexelon-dot-net/currencybg.app/issues/20)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[Build error [UNEXPECTED TOP-LEVEL EXCEPTION]](https://github.com/cmackay/google-analytics-plugin/issues/71)** - 10 years ago
 - `j3k0/cordova-non-renewing-subscription` **[Angular js](https://github.com/j3k0/cordova-non-renewing-subscription/issues/10)** - 10 years ago
