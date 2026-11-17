@@ -1,9 +1,9 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 7 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 14 days ago
-- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 24 days ago
-- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 28 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 8 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 15 days ago
+- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 25 days ago
+- `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 29 days ago
 - `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 1 month ago
 - `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 1 month ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 1 month ago
@@ -82,7 +82,7 @@
 - `nihui/realsr-ncnn-vulkan` **[vkCreateInstance failed -9](https://github.com/nihui/realsr-ncnn-vulkan/issues/18)** - 3 years ago
 - `micromdm/micromdm` **[How to install ABM apps with micromdm?](https://github.com/micromdm/micromdm/issues/845)** - 3 years ago
 - `99designs/colorific` **[except Exception, e: / SyntaxError: invalid syntax ](https://github.com/99designs/colorific/issues/5)** - 3 years ago
-- `micromdm/micromdm` **[Added installAsManaged to Installapplication](https://github.com/micromdm/micromdm/pull/684)** - 3 years ago
+- `micromdm/micromdm` **[Added installAsManaged to Installapplication](https://github.com/micromdm/micromdm/pull/684)** - 4 years ago
 - `petarov/bulgarian-control-numbers` **[Bump @babel/core from 7.19.3 to 7.19.6](https://github.com/petarov/bulgarian-control-numbers/pull/165)** - 4 years ago
 - `petarov/bulgarian-control-numbers` **[Bump @babel/preset-env from 7.19.3 to 7.19.4](https://github.com/petarov/bulgarian-control-numbers/pull/166)** - 4 years ago
 - `petarov/bulgarian-control-numbers` **[Bump jest from 29.1.2 to 29.2.2](https://github.com/petarov/bulgarian-control-numbers/pull/164)** - 4 years ago
@@ -141,7 +141,7 @@
 - `microsoft/mssql-jdbc` **[java.time.OffsetDateTime value sent to the server should not be affected by the default time zone.](https://github.com/microsoft/mssql-jdbc/pull/831)** - 7 years ago
 - `erazorbg/smfapi` **[More Test cases](https://github.com/erazorbg/smfapi/issues/3)** - 7 years ago
 - `invertase/react-native-firebase` **[Android: JDK 10 not supported for v4.1.0](https://github.com/invertase/react-native-firebase/issues/1070)** - 7 years ago
-- `k0shk0sh/FastHub` **[Add missing BG language translations](https://github.com/k0shk0sh/FastHub/pull/2060)** - 7 years ago
+- `k0shk0sh/FastHub` **[Add missing BG language translations](https://github.com/k0shk0sh/FastHub/pull/2060)** - 8 years ago
 - `mcollovati/vertx-vaadin` **[Create branch for vaadin 10 support](https://github.com/mcollovati/vertx-vaadin/issues/4)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[Немска локализация](https://github.com/vexelon-dot-net/currencybg.app/issues/32)** - 8 years ago
 - `vexelon-dot-net/currencybg.app` **[GA Event/Exception reports](https://github.com/vexelon-dot-net/currencybg.app/issues/54)** - 8 years ago
@@ -325,8 +325,8 @@
 - `vexelon-dot-net/currencybg.app` **[Валутна информация от множество източници](https://github.com/vexelon-dot-net/currencybg.app/issues/3)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Bugfix/json fixes](https://github.com/vexelon-dot-net/currencybg.server/pull/46)** - 9 years ago
 - `vexelon-dot-net/currencybg.server` **[Upgrade Gradle wrapper to v3.2](https://github.com/vexelon-dot-net/currencybg.server/pull/45)** - 9 years ago
-- `vexelon-dot-net/currencybg.app` **[Feature/fix convert fragment](https://github.com/vexelon-dot-net/currencybg.app/pull/27)** - 9 years ago
-- `vexelon-dot-net/currencybg.app` **[Enhancement/#24 back end calculator](https://github.com/vexelon-dot-net/currencybg.app/pull/26)** - 9 years ago
+- `vexelon-dot-net/currencybg.app` **[Feature/fix convert fragment](https://github.com/vexelon-dot-net/currencybg.app/pull/27)** - 10 years ago
+- `vexelon-dot-net/currencybg.app` **[Enhancement/#24 back end calculator](https://github.com/vexelon-dot-net/currencybg.app/pull/26)** - 10 years ago
 - `j3k0/cordova-plugin-purchase` **[Authentication is required. - and no way...](https://github.com/j3k0/cordova-plugin-purchase/issues/529)** - 10 years ago
 - `vexelon-dot-net/currencybg.server` **[Add log.debug option to properties file](https://github.com/vexelon-dot-net/currencybg.server/pull/43)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Добавяне на кодовете и имената на валутите в String.xml файл](https://github.com/vexelon-dot-net/currencybg.app/issues/20)** - 10 years ago
