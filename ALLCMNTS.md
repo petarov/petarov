@@ -1,8 +1,8 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 10 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 17 days ago
-- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 27 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 11 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 18 days ago
+- `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 28 days ago
 - `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 1 month ago
 - `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 1 month ago
 - `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 1 month ago
@@ -81,7 +81,7 @@
 - `micromdm/scep` **[Enrollment from CISCO Router](https://github.com/micromdm/scep/issues/211)** - 3 years ago
 - `nihui/realsr-ncnn-vulkan` **[vkCreateInstance failed -9](https://github.com/nihui/realsr-ncnn-vulkan/issues/18)** - 3 years ago
 - `micromdm/micromdm` **[How to install ABM apps with micromdm?](https://github.com/micromdm/micromdm/issues/845)** - 3 years ago
-- `99designs/colorific` **[except Exception, e: / SyntaxError: invalid syntax ](https://github.com/99designs/colorific/issues/5)** - 3 years ago
+- `99designs/colorific` **[except Exception, e: / SyntaxError: invalid syntax ](https://github.com/99designs/colorific/issues/5)** - 4 years ago
 - `micromdm/micromdm` **[Added installAsManaged to Installapplication](https://github.com/micromdm/micromdm/pull/684)** - 4 years ago
 - `petarov/bulgarian-control-numbers` **[Bump @babel/core from 7.19.3 to 7.19.6](https://github.com/petarov/bulgarian-control-numbers/pull/165)** - 4 years ago
 - `petarov/bulgarian-control-numbers` **[Bump @babel/preset-env from 7.19.3 to 7.19.4](https://github.com/petarov/bulgarian-control-numbers/pull/166)** - 4 years ago
@@ -323,8 +323,8 @@
 - `vexelon-dot-net/currencybg.app` **[Feature/#3 multiple sources view](https://github.com/vexelon-dot-net/currencybg.app/pull/29)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Рефакторинг на API слой](https://github.com/vexelon-dot-net/currencybg.app/issues/15)** - 9 years ago
 - `vexelon-dot-net/currencybg.app` **[Валутна информация от множество източници](https://github.com/vexelon-dot-net/currencybg.app/issues/3)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Bugfix/json fixes](https://github.com/vexelon-dot-net/currencybg.server/pull/46)** - 9 years ago
-- `vexelon-dot-net/currencybg.server` **[Upgrade Gradle wrapper to v3.2](https://github.com/vexelon-dot-net/currencybg.server/pull/45)** - 9 years ago
+- `vexelon-dot-net/currencybg.server` **[Bugfix/json fixes](https://github.com/vexelon-dot-net/currencybg.server/pull/46)** - 10 years ago
+- `vexelon-dot-net/currencybg.server` **[Upgrade Gradle wrapper to v3.2](https://github.com/vexelon-dot-net/currencybg.server/pull/45)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Feature/fix convert fragment](https://github.com/vexelon-dot-net/currencybg.app/pull/27)** - 10 years ago
 - `vexelon-dot-net/currencybg.app` **[Enhancement/#24 back end calculator](https://github.com/vexelon-dot-net/currencybg.app/pull/26)** - 10 years ago
 - `j3k0/cordova-plugin-purchase` **[Authentication is required. - and no way...](https://github.com/j3k0/cordova-plugin-purchase/issues/529)** - 10 years ago
@@ -396,7 +396,7 @@
 - `kenamick/savagewheels` **[Can't Build - $TMP_PATH not defined?](https://github.com/kenamick/savagewheels/issues/5)** - 10 years ago
 - `johndevs/gradle-vaadin-plugin` **[vaadinCompileWidgetset fails on 0.10.3 with gradle 2.8](https://github.com/johndevs/gradle-vaadin-plugin/issues/210)** - 10 years ago
 - `cmackay/google-analytics-plugin` **[more than one library with package name 'com.google.android.gms'](https://github.com/cmackay/google-analytics-plugin/issues/49)** - 10 years ago
-- `allegro/axion-release-plugin` **[Custom or no version incrementer](https://github.com/allegro/axion-release-plugin/issues/112)** - 10 years ago
+- `allegro/axion-release-plugin` **[Custom or no version incrementer](https://github.com/allegro/axion-release-plugin/issues/112)** - 11 years ago
 - `cmackay/google-analytics-plugin` **[Xcode 7 BitCode linker error](https://github.com/cmackay/google-analytics-plugin/issues/48)** - 11 years ago
 - `ionic-team/ionic-ion-drawer` **[Minor typo error found](https://github.com/ionic-team/ionic-ion-drawer/issues/5)** - 11 years ago
 - `akhikhl/wuff` **[Wuff must support p2 repositories as sources of OSGi/Eclipse bundles](https://github.com/akhikhl/wuff/issues/9)** - 11 years ago

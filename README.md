@@ -1,20 +1,20 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 8 days ago
-  - **[starghlist](https://github.com/petarov/starghlist)** - 11 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 16 days ago
-  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 27 days ago
-  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 27 days ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 9 days ago
+  - **[starghlist](https://github.com/petarov/starghlist)** - 12 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 17 days ago
+  - **[apple-bundle-ids](https://github.com/petarov/apple-bundle-ids)** - 28 days ago
+  - **[translitbg.js](https://github.com/petarov/translitbg.js)** - 28 days ago
 
 **random**
 
-  - **[game-off-2017](https://github.com/kenamick/game-off-2017)** - 3 years ago
+  - **[nenu](https://github.com/petarov/nenu)** - 1 year ago
 
 **pull requests, issues, comments** <sub>past 12 months, [all](ALLCMNTS.md)</sub>
 
-  - **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 10 days ago
-  - **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 17 days ago
-  - **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271#issuecomment-6339122949)** - 27 days ago
+  - **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 11 days ago
+  - **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 18 days ago
+  - **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271#issuecomment-6339122949)** - 28 days ago
   - **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 1 month ago
   - **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 1 month ago
   - **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 1 month ago
@@ -26,4 +26,4 @@
   - **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157#issuecomment-3664568316)** - 11 months ago
   - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 11 months ago
 
-<sub>updated: 2026-11-19 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-11-20 | gh(@]vexelon.net</sub>
