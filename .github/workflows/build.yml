@@ -2,55 +2,54 @@ name: README generate schedule
 
 on:
   schedule:
-    - cron: '0 1 * * *' # 01:00 (UTC)
-  workflow_dispatch: # allows manual run
+    - cron: '0 1 * * *' # 01:00 UTC
+  workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  run-go-script:
+  update-readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
-        with:
-          clean: true
 
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
-          go-version: '1.24'
-
-      - name: Cache Go modules
-        uses: actions/cache@v5
-        with:
-          path: |
-            ~/.cache/go-build
-            /go/pkg/mod
-          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-go-
+          go-version-file: go.mod
 
       - name: Generate .md files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GHTKN }}
         run: |
-          GITHUB_TOKEN="${{ secrets.GHTKN }}" go run $GITHUB_WORKSPACE/cmd/v2/main.go
-          GITHUB_TOKEN="${{ secrets.GHTKN }}" go run $GITHUB_WORKSPACE/cmd/v2/main.go --gen-comments
-
-      - name: Configure Git
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          go run ./cmd/v2
+          go run ./cmd/v2 --gen-comments
 
       - name: Commit changes
+        id: commit
         run: |
-          git add README.md || true
-          git add ALLCMNTS.md || true
-          git commit -m 'Scheduled activity update' || true
-      
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- README.md ALLCMNTS.md
+          if git diff --staged --quiet; then
+            echo "No changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Scheduled activity update ($(date -u +%F))"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Push changes
-        uses: ad-m/github-push-action@v1
-        with:
-          github_token: ${{ secrets.GHTKN }}
-          force: true
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          for i in 1 2 3; do
+            git push origin HEAD && exit 0
+            echo "Push rejected, rebasing (attempt $i)..."
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+          done
+          echo "Push failed after 3 attempts" >&2
+          exit 1
