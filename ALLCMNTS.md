@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 14 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 21 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 15 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 22 days ago
 - `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 1 month ago
 - `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 1 month ago
 - `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 1 month ago
@@ -394,7 +394,7 @@
 - `ionic-team/ionic-ion-drawer` **[The drawer is close or open when I scroll down or up](https://github.com/ionic-team/ionic-ion-drawer/issues/6)** - 10 years ago
 - `johndevs/gradle-vaadin-plugin` **[plus(Iterable<FileCollection>) warning](https://github.com/johndevs/gradle-vaadin-plugin/issues/209)** - 10 years ago
 - `kenamick/savagewheels` **[Can't Build - $TMP_PATH not defined?](https://github.com/kenamick/savagewheels/issues/5)** - 10 years ago
-- `johndevs/gradle-vaadin-plugin` **[vaadinCompileWidgetset fails on 0.10.3 with gradle 2.8](https://github.com/johndevs/gradle-vaadin-plugin/issues/210)** - 10 years ago
+- `johndevs/gradle-vaadin-plugin` **[vaadinCompileWidgetset fails on 0.10.3 with gradle 2.8](https://github.com/johndevs/gradle-vaadin-plugin/issues/210)** - 11 years ago
 - `cmackay/google-analytics-plugin` **[more than one library with package name 'com.google.android.gms'](https://github.com/cmackay/google-analytics-plugin/issues/49)** - 11 years ago
 - `allegro/axion-release-plugin` **[Custom or no version incrementer](https://github.com/allegro/axion-release-plugin/issues/112)** - 11 years ago
 - `cmackay/google-analytics-plugin` **[Xcode 7 BitCode linker error](https://github.com/cmackay/google-analytics-plugin/issues/48)** - 11 years ago
