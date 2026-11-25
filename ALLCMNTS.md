@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 15 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 22 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 16 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 23 days ago
 - `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 1 month ago
 - `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 1 month ago
 - `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 1 month ago
@@ -414,8 +414,8 @@
 - `craftyjs/Crafty` **[Add jump keys parameter to TwoWay functionality](https://github.com/craftyjs/Crafty/pull/900)** - 11 years ago
 - `alastairparagas/cordova-minify` **[[minor] uglify-js must not already be present in the package.json of the app](https://github.com/alastairparagas/cordova-minify/issues/4)** - 11 years ago
 - `leereilly/games` **[I have been making a script json2markdown](https://github.com/leereilly/games/issues/80)** - 11 years ago
-- `craftyjs/craftyjs.github.com` **[Crafty game prototype demo](https://github.com/craftyjs/craftyjs.github.com/issues/45)** - 11 years ago
-- `vexelon-dot-net/e-additives.web` **[SEO: Make site crawlable](https://github.com/vexelon-dot-net/e-additives.web/issues/25)** - 11 years ago
+- `craftyjs/craftyjs.github.com` **[Crafty game prototype demo](https://github.com/craftyjs/craftyjs.github.com/issues/45)** - 12 years ago
+- `vexelon-dot-net/e-additives.web` **[SEO: Make site crawlable](https://github.com/vexelon-dot-net/e-additives.web/issues/25)** - 12 years ago
 - `kenamick/savagewheels` **[Cars get stuck during game play (problem in Physics)](https://github.com/kenamick/savagewheels/issues/4)** - 12 years ago
 - `erazorbg/smfapi` **[Why not list this on Packagist.org?](https://github.com/erazorbg/smfapi/issues/4)** - 12 years ago
 - `ionic-team/ionic-site` **[Minor typo in Tabs](https://github.com/ionic-team/ionic-site/issues/197)** - 12 years ago
