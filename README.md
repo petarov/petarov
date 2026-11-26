@@ -1,18 +1,18 @@
 **recent work** <sub>past 30 days</sub>
 
-  - **[neverstarget](https://github.com/petarov/neverstarget)** - in the last 24 hours
-  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 14 days ago
-  - **[starghlist](https://github.com/petarov/starghlist)** - 17 days ago
-  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 22 days ago
+  - **[neverstarget](https://github.com/petarov/neverstarget)** - 1 day ago
+  - **[apple-mdm-clients](https://github.com/petarov/apple-mdm-clients)** - 15 days ago
+  - **[starghlist](https://github.com/petarov/starghlist)** - 18 days ago
+  - **[apns-push-cmd](https://github.com/petarov/apns-push-cmd)** - 23 days ago
 
 **random**
 
-  - **[smfapi](https://github.com/erazorbg/smfapi)** - 10 years ago
+  - **[e-additives.j2me](https://github.com/vexelon-dot-net/e-additives.j2me)** - 6 years ago
 
 **pull requests, issues, comments** <sub>past 12 months, [all](ALLCMNTS.md)</sub>
 
-  - **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 16 days ago
-  - **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 23 days ago
+  - **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 17 days ago
+  - **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 24 days ago
   - **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271#issuecomment-6339122949)** - 1 month ago
   - **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 1 month ago
   - **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 1 month ago
@@ -25,4 +25,4 @@
   - **[Flyway 11.13.x: Flyway exception is thrown only when running my jar, gradle run works normally](https://github.com/flyway/flyway/issues/4157#issuecomment-3664568316)** - 11 months ago
   - **[Unable to get DNS data in restricted network, no public function to customize Netty's DNS](https://github.com/jchambers/pushy/issues/1121#issuecomment-3596168775)** - 11 months ago
 
-<sub>updated: 2026-11-25 | gh(@]vexelon.net</sub>
+<sub>updated: 2026-11-26 | gh(@]vexelon.net</sub>
