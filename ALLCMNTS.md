@@ -1,7 +1,7 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 17 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 24 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 18 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 25 days ago
 - `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 1 month ago
 - `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 1 month ago
 - `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 1 month ago
@@ -470,8 +470,8 @@
 - `towbi/CraftyEntityBoxOverlays` **[Issue with package.json](https://github.com/towbi/CraftyEntityBoxOverlays/issues/2)** - 13 years ago
 - `tanakahisateru/js-markdown-extra` **[CRLF line endings fix](https://github.com/tanakahisateru/js-markdown-extra/pull/25)** - 13 years ago
 - `towbi/CraftyEntityBoxOverlays` **[sprintf is not defined](https://github.com/towbi/CraftyEntityBoxOverlays/issues/1)** - 13 years ago
-- `vexelon-dot-net/e-additives.j2me` **[	Icon not transparent on Nokia 9300i](https://github.com/vexelon-dot-net/e-additives.j2me/issues/3)** - 13 years ago
-- `vexelon-dot-net/e-additives.j2me` **[Absence of a "find" button](https://github.com/vexelon-dot-net/e-additives.j2me/issues/2)** - 13 years ago
-- `vexelon-dot-net/e-additives.j2me` **[Application hangs on the loading screen on Nokia 5140i](https://github.com/vexelon-dot-net/e-additives.j2me/issues/1)** - 13 years ago
-- `vexelon-dot-net/e-additives.j2me` **[When press Up on the 1st item, the selection should go to the last item.](https://github.com/vexelon-dot-net/e-additives.j2me/issues/4)** - 13 years ago
+- `vexelon-dot-net/e-additives.j2me` **[	Icon not transparent on Nokia 9300i](https://github.com/vexelon-dot-net/e-additives.j2me/issues/3)** - 14 years ago
+- `vexelon-dot-net/e-additives.j2me` **[Absence of a "find" button](https://github.com/vexelon-dot-net/e-additives.j2me/issues/2)** - 14 years ago
+- `vexelon-dot-net/e-additives.j2me` **[Application hangs on the loading screen on Nokia 5140i](https://github.com/vexelon-dot-net/e-additives.j2me/issues/1)** - 14 years ago
+- `vexelon-dot-net/e-additives.j2me` **[When press Up on the 1st item, the selection should go to the last item.](https://github.com/vexelon-dot-net/e-additives.j2me/issues/4)** - 14 years ago
 - `thunderbird/thunderbird-android` **[Issue 4359:  IMAP message UIDs are 32 bit unsigned values](https://github.com/thunderbird/thunderbird-android/pull/153)** - 14 years ago
