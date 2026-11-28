@@ -1,14 +1,14 @@
 **pull requests, issues, comments** <sub>all</sub>
 
-- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 18 days ago
-- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 25 days ago
+- `mybatis/mybatis-3` **[Breaking change in DefaultParameterHandler#getParamJdbcType() with PostgreSQL](https://github.com/mybatis/mybatis-3/issues/3829)** - 19 days ago
+- `Nio03/unricopie` **[[recomp] Alley Cat](https://github.com/Nio03/unricopie/issues/30)** - 26 days ago
 - `petarov/bulgarian-control-numbers` **[EGN 1234567890 should be invalid](https://github.com/petarov/bulgarian-control-numbers/issues/271)** - 1 month ago
 - `Nio03/unricopie` **[[recomp] Saboteur II: Avenging Angel (1987)](https://github.com/Nio03/unricopie/issues/31)** - 1 month ago
 - `neurocontrarian/recomp-board` **[Manifest: Saboteur II: Avenging Angel, 1987 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/117)** - 1 month ago
 - `neurocontrarian/recomp-board` **[Manifest: Alley Cat 1984 (x86-64 port)](https://github.com/neurocontrarian/recomp-board/issues/116)** - 1 month ago
 - `BrainJS/brain.js` **[I get error while installing brain.js](https://github.com/BrainJS/brain.js/issues/841)** - 2 months ago
 - `petarov/apple-mdm-clients` **[Bump jackson from 2.21.3 to 2.22.0](https://github.com/petarov/apple-mdm-clients/pull/44)** - 5 months ago
-- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 5 months ago
+- `jchambers/pushy` **[Remove fast-uuid as a dependency](https://github.com/jchambers/pushy/pull/1140)** - 6 months ago
 - `eclipse-vertx/vertx-sql-client` **[NTLM Authentication to connect to SQL Server](https://github.com/eclipse-vertx/vertx-sql-client/issues/1407)** - 7 months ago
 - `Azure/azure-sdk-for-java` **[azure-core-http-netty:1.6.12    CVE-2025-67735](https://github.com/Azure/azure-sdk-for-java/issues/47616)** - 7 months ago
 - `jchambers/pushy` **[Updating to Netty 4.2](https://github.com/jchambers/pushy/issues/1120)** - 7 months ago
